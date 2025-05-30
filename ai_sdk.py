@@ -41,6 +41,46 @@ table_prompt = """
     `;
 """
 
+header_prompt = """
+    Convert the following header of a page from a PDF document to Markdown.  
+
+    Include all headings, paragraphs, lists, tables, etc.  
+    Ensure markup is included as necessary such as bold, italics, super- or sub-scripts, etc.  
+    Include additional notation as necessary such as mathematical notation in LaTeX math mode, code in pre-formatted blocks, etc.  "
+    The output should be Markdown itself (don't preformat the output in a markdown block), and exclude local or hyperlinked images.  
+    I.e., don't include a block like ```markdown ...``` wrapping the entire page (unless the entire page's content is actually Markdown source).  
+
+    Please separate the markdown into smaller sections.
+"""
+
+text_prompt = """
+    You are a professional text copier/extractor, whose capabilities are beyond conventional OCR mechanisms, but limited to providing the exact text from the image, exclusively just the exact text.
+    You must provide the text exactly as it is in the image, with no additional formatting or text.
+    You must not add or remove any text from the image.
+    You must can use markdown formatting where relevant.
+
+    *** IMPORTANT: ***
+    - You must check over your work to make sure the exact text is copied, that you have not added or removed any characters.
+    - You must not provide any additional text at all, not even "Here is the text from the image:" or anything of that sort.
+    - Do not include text from table, graphs, headers
+    - You should include everything. Do not summarize, ignore anything, or skip any text.
+    - Ignore the author and date of the image, if present.
+"""
+
+chat_prompt = """
+    You are a professional chat assistant, whose capabilities include look up for exact value from data, answering questions, and providing information about companies based on the provided data and only provided data.
+    You must provide the answer exactly as it is in the data. If the answer is not present in the data, you must say "Data is unavailable for company X"
+    You can answer questions about specific companies, such as "What is the revenue of company X?" or "What is the total investment in company Y?".
+    You can answer questions about data aggregation, such as "What is the total revenue of all companies?" or "What is the average revenue of all companies?".
+    You can answer questions about data ranking, such as "What is the top 5 companies by revenue?" or "What is the top 10 companies by investment?". Note that the ranking is based on the data provided, and not on any external data.
+    You can understand and answer follow up questions, such as "What is the second lowest?" after answering "What is the lowest" questions.
+
+    *** IMPORTANT ***
+    - Your knowledge is limited to the data provided, and you must not use any external knowledge or data.
+    - Keep all answers concise and to the point, without any additional explanations or context unless explicitly asked for.
+"""
+
+
 def extract_table_from_image(
     images_base64: List[str],
     additional_prompt: str = "",
@@ -78,3 +118,94 @@ def extract_table_from_image(
     )
     return message.content
 
+
+def extract_data_from_header(
+    images_base64: List[str],
+    additional_prompt: str = "",
+    model: str = "claude-3-5-sonnet-20241022",
+):
+    content = []
+    for image_base64 in images_base64:
+        content.append(
+            {
+                "type": "image",
+                "source": {
+                    "type": "base64",
+                    "media_type": "image/jpeg",
+                    "data": image_base64,
+                },
+            }
+        )
+    content.append(
+        {
+            "type": "text",
+            "text": """
+                Extract content from the given image header and convert it to Markdown.
+                """,
+        }
+    )
+
+    if additional_prompt:
+        content.append({"type": "text", "text": additional_prompt})
+
+    message = ai_client.messages.create(
+        model=model,
+        system=header_prompt,
+        max_tokens=8192,
+        messages=[{"role": "user", "content": content}],
+    )
+    return message.content
+
+
+def extract_text_from_image(
+    images_base64: List[str],
+    additional_prompt: str = "",
+    model: str = "claude-3-5-sonnet-20241022",
+):
+    content = []
+    for image_base64 in images_base64:
+        content.append(
+            {
+                "type": "image",
+                "source": {
+                    "type": "base64",
+                    "media_type": "image/jpeg",
+                    "data": image_base64,
+                },
+            }
+        )
+    content.append(
+        {
+            "type": "text",
+            "text": """
+                Extract text and only text from the given image.
+                """,
+        }
+    )
+
+    if additional_prompt:
+        content.append({"type": "text", "text": additional_prompt})
+
+    message = ai_client.messages.create(
+        model=model,
+        system=text_prompt,
+        max_tokens=8192,
+        messages=[{"role": "user", "content": content}],
+    )
+    return message.content
+
+
+def stream_chat(
+    previous_messages: List[Any],
+    model: str = "claude-3-5-sonnet-20241022",
+):
+    messages = []
+
+    messages += previous_messages
+
+    return ai_client.messages.stream(
+        model=model,
+        system=chat_prompt,
+        max_tokens=8192,
+        messages=messages,
+    )
