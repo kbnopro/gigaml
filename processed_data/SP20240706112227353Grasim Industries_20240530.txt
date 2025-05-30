@@ -1,0 +1,272 @@
+# Grasim Industries Limited
+
+## Construction Materials
+
+### Stock Information
+- BSE CODE: 500300
+- NSE CODE: GRASIM
+- Bloomberg CODE: GRASIM:IN
+- SENSEX: 75,075
+
+### Investment Details
+**BUY**
+- 12 Months Investment Period
+- Rating as per Large Cap
+- CMP Rs. 2,334
+- TARGET Rs. 2,687
+- RETURN 15%
+- (Closing: 06-06-24)
+
+### Analysis Indicators
+- KEY CHANGES: ↔
+- TARGET: ↑
+- RATING: ↔
+- EARNINGS: ↑
+
+*Retail Equity Research*
+
+
+Resilient performance, outlook positive
+
+Grasim Industries Ltd, a subsidiary of Aditya Birla Group, is a diversified company with interests in cement, textiles, retail and chemicals. It is also the world's largest producer and exporter of viscose rayon fibre.
+
+• Consolidated revenue in Q4FY24 increased 12.7% YoY to Rs. 37,727cr, aided by steady growth in the cement and financial services businesses.
+• EBITDA rose 27.2% YoY and margin 180bps YoY to 16.4%, aided by moderation in input costs. PAT rose 15.5% YoY to Rs. 2,722cr, aided by higher other income but moderated by a one-off exceptional loss.
+• Robust housing and infrastructure demand, strong growth momentum in financial services business, capacity expansion in the cement business, higher traction in Birla Pivot and robust expansion of the growing decorative paints market bode well for the company. We are optimistic about its long-term growth and reiterate our BUY rating with a revised target price of Rs. 2,687 on SOTP valuation.
+
+Topline growth led by cements and financial services
+
+In Q4FY24, consolidated revenue grew 12.7% YoY to Rs. 37,727cr, driven by robust growth in cement and financial services businesses. The cement business grew 11.3% YoY to Rs. 20,919cr, aided by higher sales volume, partly offset by lower realisation. Financial services business grew 29.5% YoY to Rs. 10,484cr, primarily led by growth in NBFC and life insurance business. Despite the company achieving its highest ever caustic soda sales volume of 308 KT (up 7.7% YoY), its chemical business revenue fell 13.1% YoY to Rs 2,083cr owing to lower electrochemical unit realisation (down 27.8% YoY). Revenue from the cellulosic fibre segment was flat YoY at Rs. 3,762cr owing to subdued domestic downstream demand on account of new regulations around the MSME segment. The others segment (which mainly includes textiles, renewables and insulators businesses) grew 6.0% YoY to Rs. 570cr.
+
+Margin widens on lower input costs
+
+EBITDA rose 27.2% YoY to Rs. 6,196cr while EBITDA margin widened 180bps YoY to 16.4%, aided by lower cost of materials (down 220bps to 15.5% of revenue) and power and fuel costs (down 370bps YoY). Other income grew 93.9% YoY to Rs. 427cr. Profit after tax (PAT) came in at Rs. 2,722cr (up 15.5% YoY), partly impacted by a one-off exceptional loss of Rs. 569cr.
+
+Key concall highlights
+
+• Aditya Birla Capital, the financial services business, reported a 31.5% YoY growth in total lending book to Rs. 124,059cr. Its total assets under management rose 21% YoY to Rs. 436,442cr.
+• Birla Opus (decorative paints business) started production at three plants in April 2024.
+• Birla Pivot, the B2B e-commerce business, surpassed Rs. 1,000cr revenue in its first year of operations. Monthly revenue run rate stood at ~Rs. 200cr, with healthy repeat orders.
+
+Valuation
+
+We expect robust growth in the cement business on the back of high infrastructure and housing demand. Also, capacity expansion in cement, higher traction in Birla Pivot, robust growth momentum in financial services business, diversified chemicals portfolio and the continued efforts in cost optimisation augur well for Grasim. The company aims to expand the distribution of its paints business to over 6,000 towns by end-FY25. We see the stock as a proxy play on India's growth prospects and hence, reiterate our BUY rating with a revised target price of Rs. 2,687 based on our SOTP valuation methodology.
+
+
+Company Data
+| Metric | Value |
+|--------|--------|
+| Market Cap (cr) | Rs. 158,857 |
+| Enterprise Value (cr) | Rs. 360,493 |
+| Outstanding Shares (cr) | 66.3 |
+| Free Float | 56.0% |
+| Dividend Yield | 0.4% |
+| 52 week high | Rs. 2,535 |
+| 52 week low | Rs. 1,691 |
+| 6m average volume (lacs) | 8.6 |
+| Beta | 1.0 |
+| Face value | Rs. 2 |
+
+Shareholding (%)
+| Category | Q2FY24 | Q3FY24 | Q4FY24 |
+|----------|---------|---------|---------|
+| Promoters | 42.8 | 42.8 | 43.1 |
+| FII's | 16.1 | 16.4 | 16.5 |
+| MFs/Insti | 17.3 | 17.0 | 17.0 |
+| Public | 21.2 | 21.1 | 20.8 |
+| Others | 2.7 | 2.7 | 2.6 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promoters' pledge | 0.0 | 0.0 | 0.0 |
+
+Price Performance
+| Metric | 3 Month | 6 Month | 1 Year |
+|--------|----------|----------|---------|
+| Absolute Return | 9.5% | 19.8% | 40.0% |
+| Absolute Sensex | 2.8% | 11.4% | 18.5% |
+| Relative Return* | 6.7% | 8.4% | 21.4% |
+
+Consolidated (cr)
+| Metric | FY24A | FY25E | FY26E |
+|--------|--------|--------|--------|
+| Sales | 130,978 | 147,286 | 164,151 |
+| Growth (%) | 11.4 | 12.5 | 11.5 |
+| EBITDA | 20,837 | 24,803 | 28,354 |
+| EBITDA Margin (%) | 15.9 | 16.8 | 17.3 |
+| Adj. PAT | 6,194 | 7,302 | 8,253 |
+| Growth (%) | (14.0) | 23.6 | 13.0 |
+| Adj. EPS | 93.8 | 110.1 | 124.4 |
+| Growth (%) | (6.1) | 22.3 | 13.0 |
+| P/E | 24.4 | 21.8 | 19.3 |
+| P/B | 1.7 | 1.8 | 1.8 |
+| EV/EBITDA | 16.1 | 14.5 | 13.3 |
+| ROE (%) | 11.2 | 14.4 | 16.1 |
+| D/E | 1.0 | 1.0 | 1.0 |
+
+
+Quarterly Financials (Consolidated)
+Profit & Loss Account
+| Rs. cr | Q4FY24 | Q4FY23 | YoY Growth (%) | Q3FY24 | QoQ Growth (%) | FY24 | FY23 | YoY Growth (%) |
+|---------|---------|---------|----------------|---------|----------------|-------|-------|----------------|
+| Revenue | 37,727 | 33,462 | 12.7 | 31,965 | 18.0 | 130,978 | 117,627 | 11.4 |
+| EBITDA | 6,196 | 4,873 | 27.2 | 5,150 | 20.3 | 20,837 | 20,478 | 1.8 |
+| EBITDA margins | 16.4 | 14.6 | 180bps | 16.1 | 30bps | 15.9 | 17.4 | (150bps) |
+| Depreciation | 1,329 | 1,207 | 10.1 | 1,244 | 6.8 | 5,001 | 4,552 | 9.9 |
+| EBIT | 4,867 | 3,666 | 32.8 | 3,905 | 24.6 | 15,835 | 15,926 | (0.6) |
+| Interest | 463 | 338 | 37.1 | 433 | 7.1 | 1,655 | 1,320 | 25.3 |
+| Other Income | - | - | - | - | - | - | - | - |
+| Exceptional Items | (569) | - | n.m. | - | n.m. | (569) | (88) | (546.8) |
+| Share of profit from Associate | 94 | 87 | 7.7 | (1) | n.m. | 89 | 209 | (57.6) |
+| PBT | 3,928 | 3,415 | 15.0 | 3,472 | 13.2 | 13,700 | 14,727 | (7.0) |
+| Tax | 1,207 | 1,059 | 13.9 | 868 | 39.0 | 3,774 | 3,649 | 3.4 |
+| Reported PAT | 2,722 | 2,356 | 15.5 | 2,603 | 4.5 | 9,926 | 11,078 | (10.4) |
+| Minority Interest | 1,352 | 987 | 37.0 | 1,089 | 24.2 | 4,301 | 4,251 | 1.2 |
+| PAT att. to shareholders | 1,370 | 1,369 | 0.1 | 1,514 | (9.5) | 5,624 | 6,827 | (17.6) |
+| Adjustments | 569 | - | n.m. | - | n.m. | 569 | 88 | 546.8 |
+| Adj. PAT | 1,939 | 1,369 | 41.7 | 1,514 | 28.0 | 6,194 | 6,915 | (10.4) |
+| No. of shares | 66.3 | 65.8 | 0.7 | 65.6 | 1.1 | 66.1 | 66.0 | 0.1 |
+| Adj. EPS (Rs.) | 29.2 | 20.8 | 40.6 | 23.1 | 26.7 | 93.8 | 104.8 | (10.5) |
+
+Segment revenue
+| | Q4FY24 | Q4FY23 | YoY Growth (%) | Q3FY24 | QoQ Growth (%) | FY24 | FY23 | YoY Growth (%) |
+|-----------------|---------|---------|----------------|---------|----------------|-------|-------|----------------|
+| Cellulosic Fibres | 3,762 | 3,764 | (0.1) | 3,715 | 1.3 | 14,949 | 15,149 | (1.3) |
+| Cement | 20,919 | 18,803 | 11.3 | 17,011 | 23.0 | 71,953 | 63,381 | 13.5 |
+| Chemicals | 2,083 | 2,397 | (13.1) | 1,996 | 4.3 | 8,213 | 10,422 | (21.2) |
+| Financial Services | 10,484 | 8,095 | 29.5 | 8,786 | 19.3 | 34,008 | 27,365 | 24.3 |
+| Others | 790 | 745 | 6.0 | 782 | 1.0 | 3,087 | 3,092 | (0.2) |
+| Inter Segment Revenue | (310) | (342) | (9.5) | (325) | (4.6) | (1,231) | (1,781) | (30.8) |
+| Gross Revenue | 37,727 | 33,462 | 12.7 | 31,965 | 18.0 | 130,978 | 117,627 | 11.4 |
+
+Sum of the parts (SOTP) valuation
+| Particulars | Basis | Base | Multiple | % holding | Value (Rs. cr) | Value/share (Rs.) |
+|-------------|--------|-------|----------|-----------|---------------|------------------|
+| Standalone | FY26E P/E | 1,598 | 12.0x | 100% | 22,372 | 289 |
+| UltraTech (holding company discount at 35%) | Geojit TP | 10,670 |  | 57% | 114,249 | 1,723 |
+| ABCL (holding company discount at 35%) | FY24 P/BV | 37,478 | 1.8x | 54% | 23,679 | 357 |
+| Others (holding company discount at 55%) | FY26E P/BV | 23,425 | 2.0x | 100% | 21,083 | 318 |
+| Total | | | | | 181,383 | 2,687 |
+
+Change in Estimates
+| Year / Rs. cr | Old estimates |  | New estimates |  | Change (%) |  |
+|---------------|---------------|--------|---------------|---------|------------|---------|
+| | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Revenue | 136,909 | - | 147,286 | 164,151 | 7.6 | - |
+| EBITDA | 21,844 | - | 24,803 | 28,354 | 13.5 | - |
+| Margins (%) | 16.0 | - | 16.8 | 17.3 | 80bps | - |
+| Adj. PAT | 6,963 | - | 7,302 | 8,253 | 4.9 | - |
+| Adj. EPS | 106.0 | - | 110.1 | 124.4 | 3.9 | - |
+PROFIT & LOSS
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Revenue | 95,701 | 117,627 | 130,978 | 147,286 | 164,151 |
+| % change | 25.3 | 22.9 | 11.4 | 12.5 | 11.5 |
+| EBITDA | 17,772 | 20,478 | 20,837 | 24,803 | 28,354 |
+| % change | 12.7 | 15.2 | 1.8 | 19.0 | 14.3 |
+| Depreciation | 4,161 | 4,552 | 5,001 | 5,625 | 6,584 |
+| EBIT | 13,611 | 15,926 | 15,835 | 19,178 | 21,770 |
+| Interest | 1,296 | 1,320 | 1,655 | 2,055 | 2,415 |
+| Other Income | 311 | 121 | (481) | 98 | 107 |
+| PBT | 12,627 | 14,727 | 13,700 | 17,220 | 19,462 |
+| % change | 29.2 | 16.6 | (7.0) | 25.7 | 13.0 |
+| Tax | 1,936 | 3,649 | 3,774 | 4,334 | 4,899 |
+| Tax Rate (%) | 15.3 | 24.8 | 27.5 | 25.2 | 25.2 |
+| Reported PAT | 11,206 | 11,078 | 9,926 | 12,886 | 14,563 |
+| PAT att. to common shareholders | 7,550 | 6,827 | 5,624 | 7,302 | 8,253 |
+| Adj* | 69 | 88 | 569 | - | - |
+| Adj PAT | 7,619 | 6,915 | 6,194 | 7,302 | 8,253 |
+| % change | 69.5 | (9.4) | (14.0) | 23.6 | 13.0 |
+| No. of shares (cr) | 65.8 | 66.0 | 66.1 | 66.3 | 66.3 |
+| Adj EPS (Rs.) | 115.9 | 104.8 | 93.8 | 110.1 | 124.4 |
+| % change | 53.7 | (1.3) | (6.1) | 22.3 | 13.0 |
+| DPS (Rs.) | 10.0 | 10.0 | 10.0 | 10.0 | 10.0 |
+
+BALANCE SHEET
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Cash | 2,241 | 2,313 | 2,388 | 2,911 | 3,654 |
+| Accounts Receivable | 5,429 | 5,915 | 6,979 | 7,512 | 8,125 |
+| Inventories | 9,536 | 11,159 | 13,545 | 14,368 | 15,826 |
+| Other Cur. Assets | 39,561 | 48,136 | 63,476 | 62,140 | 66,261 |
+| Investments | 51,899 | 60,058 | 75,038 | 78,645 | 81,763 |
+| Gross Fixed Assets | 78,595 | 88,405 | 107,728 | 128,675 | 151,269 |
+| Net Fixed Assets | 60,027 | 66,153 | 72,024 | 85,932 | 100,324 |
+| CWIP | 6,572 | 7,730 | 18,229 | 20,052 | 22,057 |
+| Intangible Assets | 28,997 | 28,777 | 28,585 | 28,176 | 27,789 |
+| Def. Tax (Net) | 246 | 382 | 423 | 485 | 548 |
+| Other Assets | 84,886 | 106,583 | 131,853 | 133,230 | 136,023 |
+| Total Assets | 289,395 | 337,205 | 412,539 | 433,450 | 462,372 |
+| Current Liabilities | 31,006 | 34,618 | 43,067 | 43,363 | 45,225 |
+| Provisions | 733 | 766 | 869 | 929 | 994 |
+| Debt Funds | 74,744 | 103,039 | 137,155 | 148,402 | 160,651 |
+| Other Liabilities | 66,737 | 75,870 | 92,510 | 89,595 | 90,442 |
+| Equity Capital | 132 | 132 | 133 | 133 | 133 |
+| Reserves & Surplus | 75,567 | 78,610 | 88,520 | 89,406 | 90,302 |
+| Shareholder's Fund | 75,698 | 78,742 | 88,652 | 89,539 | 90,434 |
+| Minority Interest | 40,476 | 44,171 | 50,286 | 55,870 | 62,181 |
+| Total Liabilities | 289,395 | 337,205 | 412,539 | 433,450 | 462,372 |
+| BVPS (Rs.) | 1,151 | 1,193 | 1,342 | 1,350 | 1,363 |
+
+CASH FLOW
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Net inc. + Depn. | 15,367 | 15,630 | 14,927 | 18,511 | 21,147 |
+| Non-cash adj. | 3,075 | 7,440 | 10,730 | 2,055 | 2,415 |
+| Changes in W.C | (11,405) | (35,755) | (36,376) | (4,016) | (6,277) |
+| C.F. Operation | 7,038 | (12,685) | (10,719) | 16,550 | 17,286 |
+| Capital exp. | (8,505) | (11,925) | (19,322) | (20,948) | (22,593) |
+| Change in inv. | 3,454 | (1,588) | (3,455) | (3,608) | (3,118) |
+| Other invest.CF | 1,508 | (174) | (336) | 0 | (0) |
+| C.F – Investment | (3,543) | (13,687) | (23,113) | (24,555) | (25,711) |
+| Issue of equity | 253 | (138) | 3,524 | - | - |
+| Issue/repay debt | (4,341) | 29,152 | 33,728 | 11,247 | 12,249 |
+| Dividends paid | (1,066) | (1,151) | (1,126) | (664) | (664) |
+| Other finance.CF | (1,580) | (1,394) | (2,219) | (2,055) | (2,415) |
+| C.F – Finance | (6,733) | 26,469 | 33,908 | 8,528 | 9,169 |
+| Chg. in cash | (3,239) | 97 | 76 | 523 | 744 |
+| Closing cash | 2,241 | 2,313 | 2,388 | 2,911 | 3,654 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|--------|--------|
+| Profitab. & Return | | | | | |
+| EBITDA margin (%) | 18.6 | 17.4 | 15.9 | 16.8 | 17.3 |
+| EBIT margin (%) | 14.2 | 13.5 | 12.1 | 13.0 | 13.3 |
+| Net profit mgn.(%) | 11.7 | 9.4 | 7.6 | 8.7 | 8.9 |
+| ROE (%) | 14.8 | 14.1 | 11.2 | 14.4 | 16.1 |
+| ROCE (%) | 7.1 | 7.0 | 5.7 | 6.5 | 6.9 |
+| WC & Liquidity | | | | | |
+| Receivables (days) | 20.7 | 18.4 | 19.4 | 18.6 | 18.1 |
+| Inventory (days) | 105.8 | 89.0 | 103.8 | 100.4 | 100.2 |
+| Payables (days) | 126.4 | 106.5 | 117.7 | 114.6 | 109.2 |
+| Current ratio (x) | 1.0 | 1.0 | 0.9 | 0.9 | 0.9 |
+| Quick ratio (x) | 0.4 | 0.3 | 0.3 | 0.3 | 0.3 |
+| Turnover & Leverage | | | | | |
+| Gross asset T/O (x) | 1.3 | 1.4 | 1.3 | 1.2 | 1.2 |
+| Total asset T/O (x) | 0.3 | 0.4 | 0.3 | 0.3 | 0.4 |
+| Int. coverage ratio (x) | 10.5 | 12.1 | 9.6 | 9.3 | 9.0 |
+| Adj. debt/equity (x) | 0.6 | 0.8 | 1.0 | 1.0 | 1.0 |
+| Valuation | | | | | |
+| EV/Sales (x) | 2.3 | 2.1 | 2.6 | 2.4 | 2.3 |
+| EV/EBITDA (x) | 12.5 | 12.3 | 16.1 | 14.5 | 13.3 |
+| P/E (x) | 14.4 | 15.6 | 24.4 | 21.8 | 19.3 |
+| P/BV (x) | 1.4 | 1.4 | 1.7 | 1.8 | 1.8 |
+Recommendation Summary (Last 3 Years)
+| Dates | Rating | Target |
+|-------|---------|---------|
+| 17-Feb-21 | HOLD | 1,321 |
+| 1-Jun-21 | HOLD | 1,517 |
+| 17-Nov-21 | HOLD | 1,971 |
+| 1-Jun-22 | HOLD | 1,506 |
+| 21-Nov-22 | HOLD | 1,854 |
+| 31-May-23 | BUY | 1,933 |
+| 21-Nov-23 | BUY | 2,212 |
+| 07-Jun-24 | BUY | 2,687 |
+
+Investment Rating Criteria
+| Ratings | Large caps | Midcaps | Small Caps |
+|---------|------------|----------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | - | Upside is between 10%-15% | Upside is between 10%-20% |
+| Hold | Upside is between 0%-10% | Upside is between 0%-10% | Upside is between 0%-10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral | | | |

@@ -1,0 +1,246 @@
+# Tata Power Company Limited
+
+## Electric Utilities
+
+### Company Information
+- BSE CODE: 500400
+- NSE CODE: TATAPOWER
+- Bloomberg CODE: TPWR:IN
+- SENSEX: 76,811
+
+### Investment Details
+**HOLD**
+- 12 Months Investment Period
+- Rating as per Large Cap
+- CMP Rs. 452 (Closing: 13-06-24)
+- TARGET Rs. 490
+- RETURN 8% ↑
+
+### Performance Indicators
+- KEY CHANGES:
+- TARGET ↑
+- RATING ↔
+- EARNINGS ↑
+
+
+Strong performance; expensive valuation
+
+Tata Power Company Ltd generates and supplies electricity. It constructs and operates independent power plants and specialises in transmission and distribution of electricity.
+
+• Consolidated revenue rose 27.2% YoY to Rs. 15,847cr in Q4FY24 owing to strong performance of the generation and renewables segment.
+• EBITDA surged 5.4% YoY to Rs. 2,949cr, driven by revenue growth. Consequently, reported profit after tax grew 11.4% YoY at Rs. 1,046cr.
+• Performance was strong in Q4FY24, supported by its generation and renewables businesses. We anticipate a continued uptrend in its performance, driven by rising demand, capacity expansion, and promising opportunities in the rooftop solar business, renewables, and generation segments. As the stock trades at a premium valuation, we reiterate our HOLD rating with a revised target price of Rs. 490, based on 12x FY26E EV/EBITDA.
+
+Generation and renewables segments aid topline
+In Q4FY24, there was a substantial 27.2% increase in consolidated revenue, reaching Rs. 15,847cr, primarily driven by strong growth in the generation and renewable sectors. The generation business surged 68.4% YoY to Rs. 4,855cr, while the renewables business saw a 33.6% YoY growth, reaching Rs. 3,457cr. This growth was fuelled by a significant demand for power, indicated by an almost 8% increase. The transmission and distribution business also experienced growth, rising 8.8% YoY to Rs. 9,025cr. Notably, the distribution business performed exceptionally well in Odisha, Delhi, Mumbai, and Ajmer, despite challenges. The company successfully resolved various billing and collection issues, leading to improved performance and profitability in Odisha distribution companies (DISCOMs).
+
+Moderate margin improvement
+EBITDA rose 5.4% YoY to Rs. 2,949cr, due to revenue growth. However, EBITDA margin fell 390 basis points YoY to 18.6%, as fuel and other raw material costs rose significantly. This led to a slower rise in EBITDA, despite higher proportion of revenue. As a result, the reported profit after tax increased 11.4% YoY to Rs. 1,046cr, mainly due to lower interest cost and higher share of profits from associates.
+
+Key highlights
+• Tata Power Renewable Energy Ltd. (TPREL) has entered into an MoU with Gujarat's government for the development of 10 GW renewable energy ventures, spanning various cities.
+• Tata Power EZ.charge has activated a network of 5,500 public and captive electric vehicle (EV) charging points across more than 530 cities. Additionally, the company has installed over 86,000 home chargers and set up 850 bus charging points.
+• Tata Power made a significant move by acquiring Greenfield Intra State Transmission project in Uttar Pradesh, named Jalpura Khurja Power Transmission Limited, for about Rs. 800cr.
+
+Valuation
+The company delivered strong quarterly performance, driven by robust performance of its core businesses. It is optimistic about the prospects, due to an anticipated surge in energy consumption. Additionally, it foresees significant growth in its rooftop solar business and is strategically positioned to capitalise on emerging opportunities. The company's focus on robust capacity expansion is also expected to support earnings potential. However, the stock is currently trading at a premium valuation. Therefore, we reiterate our HOLD rating on the stock, with a revised target price of Rs. 490, based on 12x FY26E EV/EBITDA.
+
+
+Company Data
+| Metric | Value |
+|--------|--------|
+| Market Cap (cr) | Rs. 144,493 |
+| Enterprise Value (cr) | Rs. 189,408 |
+| Outstanding Shares (cr) | 319.6 |
+| Free Float | 53.0% |
+| Dividend Yield | 0.4% |
+| 52 week high | Rs. 464 |
+| 52 week low | Rs. 216 |
+| 6m average volume (lacs) | 221.1 |
+| Beta | 1.5 |
+| Face value | Rs. 1 |
+
+Shareholding (%)
+| Category | Q2FY24 | Q3FY24 | Q4FY24 |
+|----------|---------|---------|---------|
+| Promoters | 46.9 | 46.9 | 46.9 |
+| FII's | 10.0 | 9.9 | 9.5 |
+| MFs/Insti | 16.0 | 16.4 | 15.8 |
+| Public | 26.5 | 26.2 | 27.2 |
+| Others | 0.6 | 0.7 | 0.7 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promoters' pledge | 0.0 | 0.0 | 0.0 |
+
+Price Performance
+| Metric | 3 Month | 6 Month | 1 Year |
+|--------|----------|----------|---------|
+| Absolute Return | 21.6% | 33.8% | 104.0% |
+| Absolute Sensex | -0.5% | 4.1% | 14.7% |
+| Relative Return* | 22.1% | 29.7% | 89.3% |
+
+Consolidated (cr)
+| Metric | FY24A | FY25E | FY26E |
+|--------|--------|--------|--------|
+| Sales | 61,449 | 70,666 | 77,203 |
+| Growth (%) | 11.5 | 15.0 | 9.3 |
+| EBITDA | 12,607 | 13,108 | 15,089 |
+| EBITDA Margin (%) | 20.5 | 18.5 | 19.5 |
+| Adj. PAT | 3,423 | 4,495 | 5,296 |
+| Growth (%) | 2.6 | 31.3 | 17.8 |
+| Adj. EPS | 10.7 | 14.1 | 16.6 |
+| Growth (%) | 2.6 | 31.3 | 17.8 |
+| P/E | 36.8 | 32.1 | 27.3 |
+| P/B | 3.9 | 4.0 | 3.6 |
+| EV/EBITDA | 13.8 | 14.4 | 12.6 |
+| ROE (%) | 13.2 | 14.9 | 17.0 |
+| D/E | 1.3 | 1.1 | 0.9 |
+
+
+Quarterly Financials (Consolidated)
+
+Profit & Loss Account
+| Rs. cr | Q4FY24 | Q4FY23 | YoY Growth (%) | Q3FY24 | QoQ Growth (%) | FY24 | FY23 | YoY Growth (%) |
+|---------|---------|---------|----------------|---------|----------------|-------|-------|----------------|
+| Revenue | 15,847 | 12,454 | 27.2 | 14,651 | 8.2 | 61,449 | 55,109 | 11.5 |
+| EBITDA | 2,949 | 2,799 | 5.4 | 3,061 | (3.6) | 12,607 | 9,144 | 37.9 |
+| EBITDA margins | 18.6 | 22.5 | (390bps) | 20.9 | (230bps) | 20.5 | 16.6 | 390bps |
+| Depreciation | 1,041 | 926 | 12.4 | 926 | 12.4 | 3,786 | 3,439 | 10.1 |
+| EBIT | 1,908 | 1,873 | 1.9 | 2,134 | (10.6) | 8,821 | 5,705 | 54.6 |
+| Interest | 1,136 | 1,196 | (5.0) | 1,094 | 3.8 | 4,633 | 4,372 | 6.0 |
+| Other Income | 409 | 302 | 35.7 | 190 | 115.7 | 93 | 924 | (89.9) |
+| Exceptional Items | 39 | - | n.m. | - | n.m. | 273 | - | n.m. |
+| Share of profit from Associate | 316 | 179 | 76.6 | 259 | 22.1 | 1,178 | 3,199 | (63.2) |
+| PBT | 1,537 | 1,158 | 32.7 | 1,489 | 3.2 | 5,732 | 5,457 | 5.0 |
+| Tax | 491 | 219 | 124.1 | 413 | 19.1 | 1,452 | 1,647 | (11.9) |
+| Reported PAT | 1,046 | 939 | 11.4 | 1,076 | (2.8) | 4,280 | 3,810 | 12.3 |
+| Minority Interest | 150 | 161 | (6.6) | 123 | 22.2 | 584 | 473 | 23.4 |
+| PAT att. to shareholders | 895 | 778 | 15.1 | 953 | (6.1) | 3,696 | 3,336 | 10.8 |
+| Adjustments | (39) | - | n.m. | - | n.m. | (273) | - | n.m. |
+| Adj. PAT | 857 | 778 | 10.1 | 953 | (10.1) | 3,423 | 3,336 | 2.6 |
+| No. of shares | 319.6 | 319.6 | - | 319.6 | - | 319.6 | 319.6 | - |
+| Adj. EPS (Rs.) | 2.7 | 2.4 | 10.1 | 3.0 | (10.1) | 10.7 | 10.4 | 2.6 |
+
+Change in Estimates
+| Year / Rs. cr | Old estimates |  | New estimates |  | Change (%) |  |
+|---------------|---------------|---------------|----------------|---------------|---------------|---------------|
+| | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Revenue | 67,894 | 73,665 | 70,666 | 77,203 | 4.1 | 4.8 |
+| EBITDA | 12,499 | 14,314 | 13,108 | 15,089 | 4.9 | 5.4 |
+| Margins (%) | 18.4 | 19.4 | 18.5 | 19.5 | 10bps | 10bps |
+| Adj. PAT | 4,186 | 5,034 | 4,495 | 5,296 | 7.4 | 5.2 |
+| Adj. EPS | 13.1 | 15.8 | 14.1 | 16.6 | 7.4 | 5.2 |
+PROFIT & LOSS
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Revenue | 42,816 | 55,109 | 61,449 | 70,666 | 77,203 |
+| % change | 30.9 | 28.7 | 11.5 | 15.0 | 9.3 |
+| EBITDA | 8,431 | 9,144 | 12,607 | 13,108 | 15,089 |
+| % change | 12.1 | 7.6 | 39.0 | 3.5 | 15.4 |
+| Depreciation | 3,122 | 3,439 | 3,786 | 3,851 | 4,105 |
+| EBIT | 5,309 | 5,705 | 8,821 | 9,258 | 10,984 |
+| Interest | 3,859 | 4,372 | 4,633 | 4,184 | 3,769 |
+| Other Income | 1,553 | 4,124 | 1,544 | 2,061 | 1,896 |
+| PBT | 3,003 | 5,457 | 5,732 | 7,135 | 9,111 |
+| % change | 51.2 | 81.7 | 5.0 | 24.5 | 27.7 |
+| Tax | 380 | 1,647 | 1,452 | 1,784 | 2,278 |
+| Tax Rate (%) | 12.6 | 30.2 | 25.3 | 25.0 | 25.0 |
+| Reported PAT | 2,156 | 3,810 | 4,280 | 5,351 | 6,834 |
+| PAT att. to common shareholders | 1,741 | 3,336 | 3,696 | 4,495 | 5,296 |
+| Adj* | 150 | - | (273) | - | - |
+| Adj PAT | 1,892 | 3,336 | 3,423 | 4,495 | 5,296 |
+| % change | 53.0 | 76.4 | 2.6 | 31.3 | 17.8 |
+| No. of shares (cr) | 319.6 | 319.6 | 319.6 | 319.6 | 319.6 |
+| Adj EPS (Rs.) | 5.9 | 10.4 | 10.7 | 14.1 | 16.6 |
+| % change | 53.0 | 76.4 | 2.6 | 31.3 | 17.8 |
+| DPS (Rs.) | 1.8 | 2.0 | 2.0 | 2.8 | 3.3 |
+
+BALANCE SHEET
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Cash | 6,641 | 11,207 | 9,152 | 9,643 | 8,021 |
+| Accounts Receivable | 5,980 | 6,952 | 7,402 | 9,187 | 10,114 |
+| Inventories | 4,232 | 3,943 | 4,420 | 5,656 | 6,679 |
+| Other Cur. Assets | 14,591 | 17,423 | 15,791 | 16,121 | 16,126 |
+| Investments | 13,750 | 15,520 | 14,838 | 14,350 | 13,443 |
+| Gross Fixed Assets | 78,331 | 85,840 | 99,027 | 107,507 | 116,771 |
+| Net Fixed Assets | 54,165 | 58,507 | 63,993 | 69,574 | 75,682 |
+| CWIP | 4,635 | 5,376 | 11,561 | 10,983 | 10,434 |
+| Intangible Assets | 3,224 | 3,240 | 3,217 | 3,299 | 3,386 |
+| Def. Tax (Net) | 335 | 253 | 499 | 624 | 797 |
+| Other Assets | 5,333 | 5,928 | 8,681 | 8,578 | 8,477 |
+| Total Assets | 112,885 | 128,349 | 139,553 | 148,016 | 153,159 |
+| Current Liabilities | 24,508 | 27,062 | 29,880 | 37,185 | 39,681 |
+| Provisions | 1,218 | 1,420 | 1,865 | 1,902 | 1,940 |
+| Debt Funds | 48,747 | 50,385 | 50,987 | 47,712 | 44,600 |
+| Other Liabilities | 12,383 | 15,278 | 18,488 | 18,432 | 18,378 |
+| Equity Capital | 320 | 320 | 320 | 320 | 320 |
+| Reserves & Surplus | 22,122 | 28,468 | 32,036 | 35,632 | 39,868 |
+| Shareholder's Fund | 22,442 | 28,787 | 32,355 | 35,951 | 40,188 |
+| Minority Interest | 3,587 | 5,417 | 5,977 | 6,834 | 8,371 |
+| Total Liabilities | 112,885 | 128,349 | 139,553 | 148,016 | 153,159 |
+| BVPS (Rs.) | 70 | 90 | 101 | 113 | 126 |
+
+CASH FLOW
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Net inc. + Depn. | 5,017 | 6,894 | 7,681 | 8,746 | 10,452 |
+| Non-cash adj. | 1,650 | 4,044 | 4,323 | 4,311 | 2,567 |
+| Changes in W.C | 26 | (3,779) | 592 | 1,798 | (163) |
+| C.F. Operation | 6,693 | 7,159 | 12,596 | 14,855 | 12,856 |
+| Capital exp. | (7,233) | (7,606) | (13,187) | (8,480) | (9,264) |
+| Change in inv. | (1,128) | (3,549) | 950 | (74) | (78) |
+| Other invest.CF | 2,085 | 3,780 | 3,202 | 3,259 | 3,550 |
+| C.F - Investment | (6,277) | (7,375) | (9,035) | (5,294) | (5,792) |
+| Issue of equity | 758 | 5,461 | 1,118 | - | - |
+| Issue/repay debt | 4,157 | 1,169 | 513 | (3,275) | (3,112) |
+| Dividends paid | (559) | (787) | (887) | (899) | (1,059) |
+| Other finance.CF | (5,539) | (4,502) | (5,241) | (4,895) | (4,515) |
+| C.F - Finance | (1,183) | 1,341 | (4,497) | (9,069) | (8,686) |
+| Chg. in cash | (767) | 1,125 | (936) | 491 | (1,622) |
+| Closing cash | 6,641 | 11,207 | 9,152 | 9,643 | 8,021 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|--------|--------|
+| Profitab. & Return | | | | | |
+| EBITDA margin (%) | 19.7 | 16.6 | 20.5 | 18.5 | 19.5 |
+| EBIT margin (%) | 12.4 | 10.4 | 14.4 | 13.1 | 14.2 |
+| Net profit mgn(%) | 4.1 | 6.1 | 6.0 | 6.4 | 6.9 |
+| ROE (%) | 9.6 | 13.2 | 13.2 | 14.9 | 17.0 |
+| ROCE (%) | 7.1 | 6.7 | 9.9 | 10.2 | 11.8 |
+| WC & Liquidity | | | | | |
+| Receivables (days) | 51.0 | 46.0 | 44.0 | 47.5 | 47.8 |
+| Inventory (days) | 58.0 | 39.1 | 40.8 | 43.8 | 47.5 |
+| Payables (days) | 143.4 | 73.5 | 86.0 | 109.5 | 113.2 |
+| Current ratio (x) | 0.8 | 0.9 | 0.9 | 0.8 | 0.8 |
+| Quick ratio (x) | 0.3 | 0.4 | 0.4 | 0.4 | 0.4 |
+| Turnover & Leverage | | | | | |
+| Gross asset T/O (x) | 0.6 | 0.7 | 0.7 | 0.7 | 0.7 |
+| Total asset T/O (x) | 0.4 | 0.5 | 0.5 | 0.5 | 0.5 |
+| Int. coverage ratio (x) | 1.4 | 1.3 | 1.9 | 2.2 | 2.9 |
+| Adj. debt/equity (x) | 2.0 | 1.5 | 1.3 | 1.1 | 0.9 |
+| Valuation | | | | | |
+| EV/Sales (x) | 2.8 | 1.9 | 2.8 | 2.7 | 2.5 |
+| EV/EBITDA (x) | 14.5 | 11.5 | 13.8 | 14.4 | 12.6 |
+| P/E (x) | 40.3 | 18.0 | 36.8 | 32.1 | 27.3 |
+| P/BV (x) | 3.4 | 2.1 | 3.9 | 4.0 | 3.6 |
+Recommendation Summary (Last 3 Years)
+| Dates | Rating | Target |
+|-------|---------|---------|
+| 17-Feb-22 | BUY | 263 |
+| 18-May-22 | HOLD | 255 |
+| 2-Aug-22 | HOLD | 246 |
+| 20-Feb-23 | HOLD | 223 |
+| 15-May-23 | HOLD | 224 |
+| 11-Sep-23 | BUY | 301 |
+| 14-Feb-24 | HOLD | 393 |
+| 13-Jun-24 | HOLD | 490 |
+
+Investment Rating Criteria
+| Ratings | Large caps | Midcaps | Small Caps |
+|---------|------------|----------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | | Upside is between 10%-15% | Upside is between 10%-20% |
+| Hold | Upside is between 0%-10% | Upside is between 0%-10% | Upside is between 0%-10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral | | | |

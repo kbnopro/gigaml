@@ -1,0 +1,139 @@
+# ABB India Limited
+## Retail Equity Research | Capital Goods
+
+### Market Information
+- **BSE CODE**: 500002
+- **NSE CODE**: ABB
+- **Bloomberg CODE**: ABB:IN
+- **SENSEX**: 76,457
+
+### Investment Details
+- **Recommendation**: HOLD
+- **Investment Period**: 12 Months
+- **Rating**: as per Large Cap
+- **CMP**: Rs. 8,100
+- **TARGET**: Rs. 8,820
+- **RETURN**: 9%
+- **Closing Date**: 11-06-24
+
+### Status Indicators
+- **KEY CHANGES**: ↔
+- **TARGET**: ↑
+- **RATING**: ↔
+- **EARNINGS**: ↑
+
+
+Key growth factors boost near-term outlook
+
+ABB India Ltd (ABB) manufactures heavy engineering and industrial equipment and executes engineering and construction projects. It operates mainly through its robotics and motion, electrification products and industrial automation business units.
+
+• In Q1CY24, revenue grew 27.8% YoY to Rs. 3,080cr, led by revenue growth across all segments.
+
+• EBITDA stood at Rs. 565cr (+98.1% YoY) in Q1CY24. The margin expanded 650 basis points (bps) YoY to 18.3%, supported by superior product mix, better pricing, higher share of services and exports and cost optimisation. Profit after tax grew 87.5% YoY to Rs. 459cr.
+
+• New orders increased 15% YoY to Rs. 3,607cr and the overall order backlog rose 25% YoY to Rs. 8,935cr.
+
+• ABB India has recorded a good performance. Seamless execution of backlog orders, increasing contribution from services and exports, cost optimisation techniques and favourable product mix contributed to the overall result. Robust order book, increasing penetration of high efficiency power drives in motors and customer support are expected to further boost growth in the near term. However, the stock has rallied significantly in the recent past. Hence, we maintain our HOLD rating on the stock with a revised target price of Rs. 8,820 based on 73x 26E EPS.
+
+Revenue growth across segments supports topline
+
+In Q1CY24, ABB reported a revenue growth of 27.8% YoY to Rs. 3,080cr. The electrification segment grew 29.7% YoY to Rs. 1,296cr, driven by smooth execution of backlog orders. Order inflows grew 34% YoY, which were majorly received from data centres, smart buildings, expansion of original equipment manufacturers in tier 2/3 cities. Revenue in the robotics and motion segment grew 7.9% YoY to Rs. 1,122cr. Execution of backlog orders and good momentum execution of book and bill revenue drove growth. Revenue from industrial automation grew 72.9% YoY to Rs. 726cr, aided by strong execution of backlog and contribution from services and exports. Orders grew 17% YoY, led by power, metal and logistics.
+
+Several factors contribute to margin expansion
+
+EBITDA stood at Rs. 565cr (up 98.1% YoY). The margin expanded 650bps YoY to 18.3%, led by favourable product mix, better pricing power, higher contribution from services and exports and cost optimisation techniques. Cost of raw material and other expenses (including subcontracting charges) increased 26.2% and 13.9% YoY, respectively. Employee expenses rose 17.7% YoY, due to salary revision and an increase in headcount. Profit after tax rose 87.5% YoY to Rs. 459cr.
+
+Key concall highlights
+
+• ABB expects the use of high efficiency power drives, IE3 and IE4 to increase as energy efficiency norms tighten. Increasing penetration of power drives in motors is expected to boost orders.
+
+• Customers are opting for reliability and availability instead of price, resulting in a major section of customers shifting towards ABB.
+
+Valuation
+
+Continued execution of backlog orders, contribution from services and exports, cost reduction initiatives and improved product mix have aided ABB's performance. Further, strong pipeline, penetration of high efficiency power drives in motors and increasing customer support are likely to support the upcoming results in the near term. However, the stock looks expensive at current valuation. Therefore, we maintain our HOLD rating on the stock with a revised target price of Rs. 8,820 based on 73x 26E adjusted EPS.
+
+
+Company Data
+| Parameter | Value |
+|-----------|--------|
+| Market Cap (cr) | Rs. 171,648 |
+| Enterprise Value (cr) | Rs. 166,555 |
+| Outstanding Shares (cr) | 21.2 |
+| Free Float | 25.0% |
+| Dividend Yield | 0.4% |
+| 52 week high | Rs. 8,818 |
+| 52 week low | Rs. 3,848 |
+| 6m average volume (lacs) | 4.6 |
+| Beta | 1.2 |
+| Face value | Rs. 2 |
+
+Shareholding (%)
+| Category | Q3CY23 | Q4CY23 | Q1CY24 |
+|----------|---------|---------|---------|
+| Promoters | 75.0 | 75.0 | 75.0 |
+| FII's | 10.2 | 10.7 | 11.9 |
+| MFs/Insti | 7.4 | 6.9 | 6.0 |
+| Public | 7.3 | 7.1 | 6.9 |
+| Others | 0.2 | 0.3 | 0.2 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promoters' pledge | 0.0 | 0.0 | 0.0 |
+
+Price Performance
+| Parameter | 3 Month | 6 Month | 1 Year |
+|-----------|----------|----------|---------|
+| Absolute Return | 39.0% | 69.1% | 95.2% |
+| Absolute Sensex | -0.3% | 4.8% | 17.0% |
+| Relative Return* | 39.4% | 64.3% | 78.2% |
+
+Consolidated (cr)
+| Parameter | CY24E | CY25E | CY26E |
+|-----------|--------|--------|--------|
+| Sales | 12,924 | 15,343 | 17,855 |
+| Growth (%) | 23.7 | 18.7 | 16.4 |
+| EBITDA | 2,036 | 2,436 | 2,870 |
+| EBITDA Margin (%) | 15.8 | 15.9 | 16.1 |
+| Adj. PAT | 1,696 | 2,126 | 2,560 |
+| Growth (%) | 35.9 | 25.3 | 20.4 |
+| Adj. EPS | 80.0 | 100.3 | 120.8 |
+| Growth (%) | 35.9 | 25.3 | 20.4 |
+| P/E | 101.2 | 80.8 | 67.0 |
+| P/B | 23.5 | 18.8 | 15.3 |
+| EV/EBITDA | 81.8 | 68.0 | 57.3 |
+| ROE (%) | 23.2 | 23.3 | 22.9 |
+| D/E | 0.0 | 0.0 | 0.0 |
+
+
+Quarterly Financials (Consolidated)
+
+Profit & Loss Account
+| Rs. cr | Q1CY24 | Q1CY23 | YoY Growth (%) | Q4CY23 | QoQ Growth (%) |
+|---------|---------|---------|----------------|---------|----------------|
+| Revenue | 3,080 | 2,411 | 27.8 | 2,757 | 11.7 |
+| EBITDA | 565 | 285 | 98.1 | 417 | 35.5 |
+| EBITDA margins | 18.3 | 11.8 | 650bps | 15.1 | 320bps |
+| Depreciation | 31 | 27 | 14.3 | 33 | (4.6) |
+| EBIT | 534 | 258 | 107.0 | 384 | 38.9 |
+| Interest | 4 | 2 | 70.9 | 8 | (53.3) |
+| Other Income | 87 | 72 | 20.6 | 78 | 12.3 |
+| Exceptional Items | - | - | - | - | - |
+| Share of profit from Associate | - | - | - | - | - |
+| PBT | 617 | 328 | 88.2 | 454 | 36.0 |
+| Tax | 157 | 83 | 90.5 | 109 | 45.1 |
+| Reported PAT | 460 | 245 | 87.5 | 345 | 33.1 |
+| Minority Interest | - | - | - | - | - |
+| PAT att. to shareholders | 459 | 245 | 87.5 | 339 | 35.6 |
+| Adjustments | - | - | - | - | - |
+| Adj. PAT | 459 | 245 | 87.5 | 339 | 35.6 |
+| No. of shares | 21.2 | 21.2 | (0.0) | 21.2 | (0.0) |
+| Adj. EPS (Rs.) | 21.7 | 11.6 | 87.6 | 16.0 | 35.7 |
+
+Change in Estimates
+| Year / Rs. cr | Old estimates ||| New estimates ||| Change (%) ||
+|---------------|------------|------------|------------|------------|------------|------------|------------|------------|------------|
+| | CY24E | CY25E | CY26E | CY24E | CY25E | CY26E | CY24E | CY25E | CY26E |
+| Revenue | 13,183 | 14,850 | - | 12,924 | 15,343 | 17,855 | (2.0) | 3.3 | - |
+| EBITDA | 1,701 | 1,942 | - | 2,036 | 2,436 | 2,870 | 19.7 | 25.4 | - |
+| Margins (%) | 12.9 | 13.1 | - | 15.8 | 15.9 | 16.1 | 290bps | 280bps | - |
+| Adj. PAT | 1,408 | 1,582 | - | 1,696 | 2,126 | 2,560 | 20.5 | 34.4 | - |
+| Adj. EPS | 66.4 | 74.6 | - | 80.0 | 100.3 | 120.8 | 20.5 | 34.4 | - |

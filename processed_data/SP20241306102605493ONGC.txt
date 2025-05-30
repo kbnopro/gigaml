@@ -1,0 +1,244 @@
+# Oil & Natural Gas Corporation Ltd.
+
+## Company Information
+- **Sector:** Oil, Gas & Consumable Fuels
+- **BSE CODE:** 500312
+- **NSE CODE:** ONGC
+- **Bloomberg CODE:** ONGC:IN
+- **SENSEX:** 76,607
+
+## Investment Details
+- **Recommendation:** BUY
+- **CMP:** Rs. 275
+- **Target:** Rs. 327
+- **Expected Return:** 19%
+- **Investment Period:** 12 Months
+- **Closing Date:** 12-06-24
+- **Rating:** as per Large Cap
+
+## Market Indicators
+- **KEY CHANGES:** ↔
+- **TARGET:** ↑
+- **RATING:** ↑
+- **EARNINGS:** ↓
+
+
+Bullish Momentum; Strong Growth Prospects
+
+Oil and Natural Gas Corporation Ltd. specialises in the exploration and production of crude oil and gas. The company has joint ventures in the oil fields in Vietnam, Norway, Egypt, Tunisia, Iran, and Australia.
+
+• In Q4FY24, standalone revenue declined 4.6% YoY to Rs. 34,637cr due to reduction in gas prices.
+
+• EBITDA surged 31.7% YoY to Rs. 19,571cr, with margin jumping to 56.5% on account of lower exploratory costs and other expenses. Reported PAT improved to Rs. 9,869cr from Rs. 528cr in Q4FY23, owing to absence of exceptional items which impacted Q4FY23 results.
+
+• The company is expected to improve its earnings performance backed by increased production at KG 98/2 field, improved realisations, monetisation of discoveries, increased capital expenditure (capex) and potential adjustment of windfall tax. Hence, we upgrade our rating on the stock to BUY with a revised target price of Rs. 327 based on the sum-of-the-parts (SOTP) valuation.
+
+Gas prices weigh on topline; margin soars
+In Q4FY24, ONGC's standalone revenue dropped 4.6% YoY to Rs. 34,637cr, primarily due to a reduction in gas prices. Revenue from the offshore segment decreased 4.5% YoY to Rs. 23,891cr and onshore revenue, 4.7% YoY to Rs. 10,746cr. Though gross profit declined by 1.1% YoY to Rs. 34,590cr, gross profit margin improved by 351bps YoY to 99.9% owing to reduced input costs. However, EBITDA grew 31.7% YoY to Rs. 19,571cr, with margin improving 1,560bps YoY to 56.5%, driven by a fall in other expenses and exploratory costs. Consequently, the reported PAT jumped 1,769.7% YoY to Rs. 9,869cr, mainly driven by the absence of an exceptional item which affected last year's results.
+
+Fluctuating trends in volume and prices
+During Q4FY24, ONGC's net realisation for crude oil rose 4.8% YoY to $80.8 per barrel. Conversely, gas prices dropped 24.2% YoY to $6.5 per mmBtu, mainly owing to a reduction in statutory levies. Total crude production increased 2.4% YoY to 5.4 million metric tonne (mmt), driven by start of production at the KG 98/2 field. However, total gas production declined 3.0% YoY to 5.1 billion cubic metres (bcm) because of the maturing of the existing fields.
+
+Positive production outlook
+The company plans to increase production at its KG 98/2 field to 45,000 barrels by Q4FY25 from the current 12,000 barrels. It also expects to achieve a gas production rate of 10 million cubic meters per day by Q4FY25. Moreover, ONGC expects to raise its production from the current 39.45 mmtoe to ~47 mmtoe by FY27. It aims to take oil production to 22 mmt and gas production to about 25.5 bcm by FY27.
+
+Key concall highlights
+• ONGC's capex for FY24 was Rs. 37,000cr. For FY25, it expects it to be between Rs. 33,000cr and Rs. 35,000cr.
+• The company made 11 field discoveries in FY24; reserve replacement was 1.15x.
+
+Valuation
+The ramp-up of the KG 98/2 is expected to boost the company's oil and gas production in the coming years. Additionally, higher prices for its produce will support its performance as the windfall tax does not apply to KG 98/2. Furthermore, monetising new discoveries, securing premium gas prices for production from nomination field, and potential improvement in net realisations for crude oil are expected to enhance earnings. Moreover, the company's long term strong production guidance further assures better performance in the future. Hence, we upgrade our rating to BUY with a revised target price of Rs. 327 based on the SOTP valuation.
+
+
+Company Data
+| Parameter | Value |
+|-----------|--------|
+| Market Cap (cr) | Rs. 344,196 |
+| Enterprise Value (cr) | Rs. 350,289 |
+| Outstanding Shares (cr) | 1,258.0 |
+| Free Float | 31.0% |
+| Dividend Yield | 3.7% |
+| 52 week high | Rs. 293 |
+| 52 week low | Rs. 155 |
+| 6m average volume (lacs) | 221.2 |
+| Beta | 1.6 |
+| Face value | Rs. 5 |
+
+Shareholding (%)
+| Category | Q2FY24 | Q3FY24 | Q4FY24 |
+|----------|---------|---------|---------|
+| Promoters | 58.9 | 58.9 | 58.9 |
+| FII's | 8.4 | 9.2 | 8.9 |
+| MFs/Insti | 19.6 | 18.7 | 18.9 |
+| Public | 2.5 | 2.6 | 2.7 |
+| Others | 10.6 | 10.6 | 10.6 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promoters' pledge | 0.0 | 0.0 | 0.0 |
+
+Price Performance
+| Parameter | 3 Month | 6 Month | 1 Year |
+|-----------|----------|----------|---------|
+| Absolute Return | -6.8% | 32.3% | 68.0% |
+| Absolute Sensex | 3.2% | 9.5% | 22.1% |
+| Relative Return* | -10.0% | 22.7% | 45.8% |
+
+Standalone (cr)
+| Parameter | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|
+| Sales | 138,402 | 146,044 | 153,116 |
+| Growth (%) | (11.0) | 5.5 | 4.8 |
+| EBITDA | 77,593 | 80,227 | 84,518 |
+| EBITDA Margin (%) | 56.1 | 54.9 | 55.2 |
+| Adj. PAT | 40,526 | 43,109 | 45,473 |
+| Growth (%) | (17.8) | 6.4 | 5.5 |
+| Adj. EPS | 32.2 | 34.3 | 36.1 |
+| Growth (%) | (17.8) | 6.4 | 5.5 |
+| P/E | 8.3 | 8.0 | 7.6 |
+| P/B | 1.1 | 1.0 | 0.9 |
+| EV/EBITDA | 4.4 | 4.4 | 4.1 |
+| ROE (%) | 13.2 | 12.9 | 12.5 |
+| D/E | 0.0 | 0.0 | 0.0 |
+
+
+Quarterly Financials (Standalone)
+
+Profit & Loss Account
+| Rs. cr | Q4FY24 | Q4FY23 | YoY Growth(%) | Q3FY24 | QoQ Growth(%) | FY24 | FY23 | YoY Growth(%) |
+|---------|---------|---------|---------------|---------|---------------|-------|-------|---------------|
+| Revenue | 34,637 | 36,293 | (4.6) | 34,788 | (0.4) | 138,402 | 155,517 | (11.0) |
+| EBITDA | 19,571 | 14,860 | 31.7 | 18,735 | 4.5 | 77,593 | 80,843 | (4.0) |
+| EBITDA margins | 56.5 | 40.9 | 1,560bps | 53.9 | 260bps | 56.1 | 52.0 | 410bps |
+| Depreciation | 5,675 | 4,860 | 16.8 | 5,102 | 11.2 | 20,496 | 16,820 | 21.9 |
+| EBIT | 13,895 | 10,000 | 39.0 | 13,633 | 1.9 | 57,098 | 64,024 | (10.8) |
+| Interest | 1,035 | 708 | 46.2 | 1,023 | 1.2 | 4,081 | 2,700 | 51.2 |
+| Other Income | - | - | n.m. | - | n.m. | - | - | n.m |
+| Exceptional Items | - | (9,235) | n.m. | - | - | - | (9,235) | n.m. |
+| Share of profit from Associate | - | - | - | - | - | - | - | - |
+| PBT | 12,860 | 57 | n.m. | 12,610 | 2.0 | 53,016 | 52,089 | 1.8 |
+| Tax | 2,991 | (471) | n.m. | 2,719 | 10.0 | 12,490 | 11,992 | 4.2 |
+| Reported PAT | 9,869 | 528 | 1,769.7 | 9,892 | (0.2) | 40,526 | 40,097 | 1.1 |
+| Minority Interest | - | - | - | - | - | - | - | - |
+| PAT att. to shareholders | 9,869 | 528 | 1,769.7 | 9,892 | (0.2) | 40,526 | 40,097 | 1.1 |
+| Adjustments | - | 9,235 | n.m. | - | - | - | 9,235 | n.m. |
+| Adj. PAT | 9,869 | 9,763 | 1.1 | 9,892 | (0.2) | 40,526 | 49,332 | (17.8) |
+| No. of shares | 1,258.0 | 1,258.0 | - | 1,258.0 | - | 1,258.0 | 1,258.0 | - |
+| Adj. EPS (Rs.) | 7.8 | 7.8 | 1.1 | 7.9 | (0.2) | 32.2 | 39.2 | (17.8) |
+
+Change in Estimates
+| Year / Rs. cr | Old estimates |  | New estimates |  | Change (%) |  |
+|---------------|---------------|------------|----------------|------------|------------|------------|
+|               | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Revenue | 160,250 | - | 146,044 | 153,116 | (8.9) | - |
+| EBITDA | 87,602 | - | 80,227 | 84,518 | (8.4) | - |
+| Margins (%) | 54.7 | - | 54.9 | 55.2 | 20bps | - |
+| Adj. PAT | 45,751 | - | 43,109 | 45,473 | (5.8) | - |
+| Adj. EPS | 36.4 | - | 34.3 | 36.1 | (5.8) | - |
+
+Sum-Of-The-Parts (SOTP) Valuation
+| Particulars | Methodology | Multiple | % Holding | Value (Rs. cr.) | Value Per Share (Rs.) |
+|-------------|-------------|----------|------------|----------------|---------------------|
+| ONGC | FY26E P/E | 7.6 | 100.0% | 344,196 | 274 |
+| Investments |  | - |  |  | 106 |
+| - HPCL | Geojit TP | - | 54.9% | 42,301 | 34 |
+| - ONGC Videsh | P/BV | 1.0 | 100.0% | 15,000 | 12 |
+| - IOCL | Geojit TP | - | 14.2% | 35,999 | 29 |
+| - GAIL | Geojit TP | - | 5.0% | 7,180 | 6 |
+| - MRPL | Market Price | - | 71.6% | 26,759 | 21 |
+| - Petronet LNG | Geojit TP | - | 12.5% | 5,925 | 5 |
+| 50% holding discount to investments | | | | | (53) |
+| Target price | | | | | 327 |
+PROFIT & LOSS
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Revenue | 110,345 | 155,517 | 138,402 | 146,044 | 153,116 |
+| % change | 61.9 | 40.9 | (11.0) | 5.5 | 4.8 |
+| EBITDA | 60,946 | 80,843 | 77,593 | 80,227 | 84,518 |
+| % change | 81.5 | 32.6 | (4.0) | 3.4 | 5.3 |
+| Depreciation | 17,546 | 16,820 | 20,496 | 19,476 | 20,657 |
+| EBIT | 43,400 | 64,024 | 57,098 | 60,751 | 63,862 |
+| Interest | 2,360 | 2,700 | 4,081 | 4,582 | 4,612 |
+| Other Income | (0) | (9,235) | 0 | - | 0 |
+| PBT | 41,040 | 52,089 | 53,016 | 56,169 | 59,250 |
+| % change | 150.2 | 26.9 | 1.8 | 5.9 | 5.5 |
+| Tax | 734 | 11,992 | 12,490 | 13,061 | 13,777 |
+| Tax Rate (%) | 1.8 | 23.0 | 23.6 | 23.3 | 23.3 |
+| Reported PAT | 40,306 | 40,097 | 40,526 | 43,109 | 45,473 |
+| PAT att. to common shareholders | 40,306 | 40,097 | 40,526 | 43,109 | 45,473 |
+| Adj* | - | 9,235 | - | - | - |
+| Adj PAT | 40,306 | 49,332 | 40,526 | 43,109 | 45,473 |
+| % change | 308.3 | 22.4 | (17.8) | 6.4 | 5.5 |
+| No. of shares (cr) | 1258.0 | 1258.0 | 1258.0 | 1258.0 | 1258.0 |
+| Adj EPS (Rs.) | 32.0 | 39.2 | 32.2 | 34.3 | 36.1 |
+| % change | 308.3 | 22.4 | (17.8) | 6.4 | 5.5 |
+| DPS (Rs.) | 10.5 | 11.3 | 12.3 | 13.0 | 13.7 |
+
+BALANCE SHEET
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Cash | 50 | 77 | 35 | 57 | 89 |
+| Accounts Receivable | 11,788 | 10,250 | 11,410 | 12,136 | 12,830 |
+| Inventories | 7,861 | 8,321 | 10,712 | 11,391 | 12,387 |
+| Other Cur. Assets | 16,226 | 34,431 | 43,586 | 47,172 | 50,591 |
+| Investments | 85,173 | 84,986 | 105,371 | 105,371 | 105,371 |
+| Gross Fixed Assets | 244,678 | 283,201 | 320,868 | 355,627 | 390,904 |
+| Net Fixed Assets | 136,753 | 141,728 | 178,877 | 190,698 | 201,586 |
+| CWIP | 25,966 | 29,734 | 30,219 | 31,730 | 33,317 |
+| Intangible Assets | 13,399 | 16,203 | 20,029 | 22,031 | 24,235 |
+| Def. Tax (Net) | - | - | - | - | - |
+| Other Assets | 40,046 | 44,149 | 45,784 | 46,682 | 47,457 |
+| Total Assets | 337,264 | 369,878 | 446,021 | 467,270 | 487,863 |
+| Current Liabilities | 36,601 | 37,881 | 39,448 | 41,255 | 41,468 |
+| Provisions | 30,186 | 37,474 | 48,170 | 49,134 | 49,871 |
+| Debt Funds | 6,397 | 7,219 | 6,109 | 6,149 | 6,189 |
+| Other Liabilities | 26,932 | 27,332 | 46,317 | 37,220 | 27,778 |
+| Equity Capital | 6,290 | 6,290 | 6,290 | 6,290 | 6,290 |
+| Reserves & Surplus | 230,858 | 253,682 | 299,686 | 327,222 | 356,267 |
+| Shareholder's Fund | 237,148 | 259,972 | 305,977 | 333,512 | 362,557 |
+| Minority Interest | - | - | - | - | - |
+| Total Liabilities | 337,264 | 369,878 | 446,021 | 467,270 | 487,863 |
+| BVPS (Rs.) | 189 | 207 | 243 | 265 | 288 |
+
+CASH FLOW
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Net inc.+ Depn. | 57,811 | 56,876 | 60,981 | 62,531 | 66,073 |
+| Non-cash adj. | (8,819) | 19,947 | 4,029 | (6,076) | (7,293) |
+| Changes in W.C | 309 | 4,016 | 325 | (1,054) | (1,533) |
+| C.F. Operation | 49,301 | 80,838 | 65,336 | 55,401 | 57,247 |
+| Capital exp. | (27,393) | (38,523) | (37,667) | (34,759) | (35,278) |
+| Change in inv. | (123) | (21,400) | (10,329) | 198 | - |
+| Other invest.CF | 4,014 | 2,558 | 5,303 | 8,641 | 8,754 |
+| C.F - Investment | (23,502) | (57,365) | (42,694) | (25,920) | (26,524) |
+| Issue of equity | - | - | - | - | - |
+| Issue/repay.debt | (8,695) | 629 | (1,148) | 40 | 40 |
+| Dividends paid | (11,449) | (17,609) | (12,095) | (15,573) | (16,427) |
+| Other finance.CF | (5,725) | (6,465) | (8,642) | (13,926) | (14,304) |
+| C.F - Finance | (25,869) | (23,445) | (22,685) | (29,459) | (30,691) |
+| Chg. in cash | (70) | 27 | (43) | 22 | 32 |
+| Closing cash | 50 | 77 | 35 | 57 | 89 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|--------|--------|
+| Profitab. & Return | | | | | |
+| EBITDA margin (%) | 55.2 | 52.0 | 56.1 | 54.9 | 55.2 |
+| EBIT margin (%) | 39.3 | 41.2 | 41.3 | 41.6 | 41.7 |
+| Net profit mgn.(%) | 36.5 | 25.8 | 29.3 | 29.5 | 29.7 |
+| ROE (%) | 17.0 | 15.4 | 13.2 | 12.9 | 12.5 |
+| ROCE (%) | 17.8 | 24.0 | 18.3 | 17.9 | 17.3 |
+| WC & Liquidity | | | | | |
+| Receivables (days) | 39.0 | 24.1 | 30.1 | 30.3 | 30.6 |
+| Inventory (days) | 26.0 | 19.5 | 28.2 | 28.5 | 29.5 |
+| Payables (days) | 20.4 | 14.7 | 16.8 | 16.8 | 16.4 |
+| Current ratio (x) | 1.0 | 1.3 | 1.6 | 1.6 | 1.7 |
+| Quick ratio (x) | 0.3 | 0.3 | 0.3 | 0.3 | 0.3 |
+| Turnover & Leverage | | | | | |
+| Gross asset T/O (x) | 0.5 | 0.6 | 0.5 | 0.4 | 0.4 |
+| Total asset T/O (x) | 0.3 | 0.4 | 0.3 | 0.3 | 0.3 |
+| Int. coverage ratio (x) | 18.4 | 23.7 | 14.0 | 13.3 | 13.8 |
+| Adj. debt/equity (x) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Valuation | | | | | |
+| EV/Sales (x) | 1.9 | 1.3 | 2.5 | 2.4 | 2.3 |
+| EV/EBITDA (x) | 3.5 | 2.4 | 4.4 | 4.4 | 4.1 |
+| P/E (x) | 5.1 | 3.9 | 8.3 | 8.0 | 7.6 |
+| P/BV (x) | 0.9 | 0.7 | 1.1 | 1.0 | 0.9 |

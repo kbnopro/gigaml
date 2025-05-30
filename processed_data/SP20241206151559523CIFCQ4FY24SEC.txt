@@ -1,0 +1,100 @@
+# Retail Equity Research
+# Cholamandalam Invst & Fin Co. Ltd.
+
+## NBFC
+
+**Stock Information:**
+- BSE CODE: 511243
+- NSE CODE: CHOLAFIN
+- BLOOMBERG CODE: CIFC:IN
+- SENSEX: 76,457
+
+**Investment Details:**
+- **Recommendation:** BUY
+- **12Month Investment Period**
+- **Rating as per Large cap**
+- CMP Rs1,332
+- TARGET Rs1,485
+- RETURN 11% ↑
+- (Closing: 11-06-24)
+
+
+Strong business momentum...
+
+• CIFC's AUM for Q4FY24 grew by 36% YoY/9% QoQ driven by strong traction in new business segments. Disbursement saw 18% YoY/11% QoQ growth across segments.
+
+• NII grew by 33% YoY/8% QoQ on the back of healthy AUM growth and stable NIM at 7.8%. Opex increased by 63% YoY/21% QoQ with C/I ratio at 44%. PAT higher by 24% YoY due to lower credit cost.
+
+• Asset quality improved further with GS3/NS3 assets ratio down by 34bps/23 bps QoQ to 2.5%/1.4% with better collection efficiency.
+
+• The company expects 25-30% AUM growth and 20-25% disbursement growth in FY25e on the back of strong growth in the vehicle financing segment and further scale up of new business.
+
+• We value the stock at a P/BV of 4.2x on FY26E BVPS and arrive target price of Rs1,485 with Buy rating.
+
+Non-vehicle segment led AUM growth...
+CIFC's AUM remained strong in Q4FY24, exhibiting 36% YoY/9% QoQ growth to Rs1,53,718cr led by strong performance across its existing product lines and growing new business. New business loan higher by 87% YoY, /17% QoQ on a low base while home loans increased by 58% YoY/11% QoQ. LAP segment AUM grew by 38% YoY/11% QoQ. Vehicle finance reported 26% YoY/6% QoQ AUM growth driven by 27% YoY/7% QoQ growth in used vehicle segment. The share of vehicle finance has now reduced to 58% in March 2024 from 72% in March 2021. Disbursement grew by 18% YoY /10.7% QoQ to Rs24,784cr. The new business disbursement grew by 49% YoY for FY24, demonstrating strong position in the market. The company is optimistic of delivering AUM growth of 25-30% and disbursement growth of 20-25% in FY25e on the back of strong growth in the vehicle financing segment and further scale up of new business. Moreover, company targets new business book to constitute ~15% of the AUM in the next few years.
+
+Stable margins despite increased cost of funds...
+CIFC witnessed strong performance during the quarter. Net Interest Income (NII) grew by 33% YoY/8% QoQ on the back of healthy AUM growth coupled with stable margins. Net Interest Margin (NIM) stood at 7.8% with 40bps YoY improvement despite increased cost of funds due to product mix with a focus on high yielding segment. Margin expect to be 7.5% range in case of no rate hikes in FY25. With continued investments in various segments and scaling up new business resulted higher opex (+63% YoY/+21% QoQ) which leading to 591bps YoY/287QoQ increase in cost to income ratio to 44.1%. Opex to Avg.AUM remain elevated at 3.5% vs 3.1% QoQ and CIFC hopes to be 3% for current FY and maintain below 3.1% for FY25. PAT registered growth of 24% YoY/20% QoQ aided by QoQ lower provision of 46.8% and strong operating performance.
+
+Asset quality improved across segments...
+Asset quality improved with GS3/NS3 assets ratio improved by 34bps/23bps QoQ to 2.5%/1.4% supported by better collection efficiency. Most of the segments seen improvement in GS3, excluding CSEL which up by 7bps QoQ GS3 to 1.17% vs 1.10% QoQ and SBPL- 0.42% vs 0.30% QoQ . PCR increased to 46.45% in Q4FY24 from 45.15% in Q3FY24.
+
+Outlook & Valuations
+Company continued to witness strong performance with robust AUM growth aided by new business segment, lower credit cost and improvement in asset quality. Gradual shift in mix towards high yielding new segments and reducing in the vehicle finance segment will result in margin expansion. Company has expanded its branch network across all its segments in FY24, which help to sustain growth trajectory going forward. Management is confident of delivering AUM growth of 25-30% and disbursement growth of 20-25% in FY25e on the back of strong growth in the vehicle financing segment and further scale up of new business. We upgrade our Hold Rating to Buy and value the stock at P/BV of 4.2x on FY26E BVPS and arrive target price of Rs1,485.
+
+
+Company Data
+| Metric | Value |
+|--------|--------|
+| Market Cap (cr) | Rs. 1,14,243 |
+| Outstanding Shares (cr) | 84.0 |
+| Free Float | 49.7 |
+| Dividend Yield | 0.1 |
+| 52 week high | Rs. 1,369 |
+| 52 week low | Rs.997 |
+| 6m average volume (cr) | 1.8 |
+| Beta | 1.05 |
+| Face value | Rs.2 |
+
+Standalone (Rs.cr)
+| Metrics | FY24A | FY25E | FY26E |
+|---------|--------|--------|--------|
+| Net Interest Income | 8,383 | 11,458 | 14,549 |
+| Growth (%) | 32% | 34% | 27% |
+| NIM | 6.5 | 7.0 | 7.1 |
+| PBT | 4,582 | 7,994 | 10,228 |
+| PAT Adj | 3,423 | 4,431 | 5,749 |
+| Growth (%) | 28% | 35% | 30% |
+| Adj.EPS (Rs) | 41 | 53 | 68 |
+| Growth (%) | 27% | 34% | 27% |
+| BVPS | 233 | 284 | 353 |
+| P/E (x) | 33 | 26 | 20 |
+| P/B (x) | 5.8 | 4.8 | 3.8 |
+| ROE (%) | 20 | 20 | 21 |
+| ROA (%) | 2.5 | 2.5 | 2.6 |
+
+
+Quarterly Financials
+
+Profit & Loss
+| Rs (cr) | Q4FY24 | Q4FY23 | YoY Growth % | Q3FY24 | QoQ Growth % | Comments |
+|---------|---------|---------|--------------|---------|--------------|-----------|
+| Interest Income | 4,934.1 | 3,499.1 | 41 | 4,609.9 | 7.0 | |
+| Interest expenses | 2,579.3 | 1,734.2 | 48.7 | 2,439.0 | 5.8 | |
+| Net Interest Income | 2,354.8 | 1,764.9 | 33.4 | 2,170.9 | 8.5 | |
+| Non Interest Income | 558.0 | 295.2 | 89.0 | 408.7 | 36.5 | |
+| Operating expenses | 1,285.0 | 787.0 | 63 | 1,064.0 | 21 | |
+| Pre Provi.Profit | 1,627.8 | 1,273.1 | 27.9 | 1,515.6 | 7.4 | |
+| Provisions | 190.8 | 114.0 | 67.4 | 358.8 | -46.8 | |
+| PBT | 1,436.9 | 1,159.1 | 24.0 | 1,156.8 | 24.2 | |
+| Tax | 278.8 | 306.3 | 23.7 | 280.7 | 34.9 | |
+| PAT | 1,058.1 | 852.8 | 24.1 | 876.1 | 20.8 | |
+Investment Criteria
+| Ratings | Large caps | Midcaps | Small caps |
+| --- | --- | --- | --- |
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | | Upside is between 10% - 15% | Upside is between 10% - 20% |
+| Hold | Upside is between 0% - 10% | Upside is between 0% - 10% | Upside is between 0% - 10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral | - | - | - |

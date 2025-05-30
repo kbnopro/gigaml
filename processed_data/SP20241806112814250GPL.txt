@@ -1,0 +1,254 @@
+# Glenmark Pharmaceuticals Limited
+
+## Company Details
+- **Sector:** Pharmaceuticals
+- **BSE CODE:** 532296
+- **NSE CODE:** GLENMARK
+- **Bloomberg CODE:** GNP:IN
+- **SENSEX:** 76,993
+
+## Investment Metrics
+- **Recommendation:** HOLD
+- **Investment Period:** 12 Months
+- **Rating:** as per Mid Cap
+- **CMP Rs.:** 1,236
+- **TARGET Rs.:** 1,319
+- **RETURN:** 7% ↑
+- **Closing Date:** 14-06-24
+
+## Status Indicators
+- **KEY CHANGES:** —
+- **TARGET:** ↑
+- **RATING:** ↔
+- **EARNINGS:** ↓
+
+
+Near-term challenges; maintain HOLD
+
+Glenmark Pharmaceuticals Ltd (GNP) is an Indian pharmaceuticals company with a presence in more than 80 countries. It focuses on the generics, specialty and over-the-counter businesses, and has a strong presence in diabetes, cardiovascular and oral contraceptives.
+
+• GNP reported revenue growth of 2.1% YoY to Rs. 3,063cr in Q4FY24. Growth in the Indian and rest of world (ROW) businesses was partially offset by a decline in the North America segment.
+
+• In Q4FY24, EBITDA stood at Rs. 504cr (+26.7% YoY). EBITDA margin expanded 320bps YoY to 16.5%, mainly on account of lower cost of sales. Reported loss after tax rose 125.4% YoY to Rs. 1,238cr in Q4FY24.
+
+• Topline was subdued due to poor performance of the North America region. However, continued market share gains by RYALTRIS, pending launches and reduction in debt are key positives for the company. Though GNP has launched injectables and filed a New Drug Application (NDA) for the respiratory category in the US, we are cautious on account of regulatory challenges. Therefore, we retain our HOLD rating on the stock with a revised target price of Rs. 1,319, based on 23x FY26E adjusted EPS.
+
+Indian and ROW markets drive topline growth
+
+In Q4FY24, revenue grew a mere 2.1% YoY to Rs. 3,063cr. The Indian segment expanded 12.9% YoY to Rs. 939cr, driven by high growth and market share gain in the cardiac and dermatology therapeutic portfolio. Rest of world (ROW) revenue grew 9.7% YoY to Rs. 752cr in Q4FY24. Strong secondary sales, market share gains, introduction of RYALTRIS in new markets and growth in the respiratory segment supported the expansion in Russia, Latin America, Middle East and Asia. Revenue in Europe remained flat at Rs. 612cr due to the impact of slow growth in the tender market. Branded markets across Poland and Slovakia registered double-digit growth in Q4FY24. Growth declined in the North America market to Rs. 758cr (-12.4% YoY) due to lack of new product launches and delay in scale-up of recent injectable launches. The company guided FY25 revenue in the range of Rs. 135-140bn.
+
+Margins expands on lower input costs
+
+GNP reported earnings before interest, tax, depreciation, and amortisation (EBITDA) of Rs. 504cr (up 26.7% YoY). The EBITDA margin increased 320bps YoY to 16.5%, led by lower cost of sales. During the quarter, the cost of sales dropped 13.9% YoY to Rs. 996cr. The company expects EBITDA margin to be close to 19% in FY25.
+
+Key concall highlights
+
+• The management plans to launch Winlevi, a prescription acne cream, in some markets of Europe from FY26.
+
+• As planned, GNP has divested 75% of its stake in Glenmark Life Sciences to Nirma Ltd and has turned net cash positive.
+
+• The company has filed the NDA for generic fluent 44 MCG PMDI (pressured metered dose inhaler) in May 2024 and plans to file for another respiratory PMDI in FY25 in the US.
+
+Valuation
+
+Challenges in the North America region weakened topline growth. RYALTRIS market share gains in Europe and ROW, upcoming launches and positive net cash are expected to aid performance in the medium-to-long term. However, overall growth in the US market is expected to remain challenging owing to the lack of new product launches, delay in scale-up of recent launches and regulatory hurdles. Therefore, we cautiously retain our HOLD rating on the stock with a revised target price of Rs.1,319, based on 23x FY26E adjusted EPS.
+
+
+Company Data
+| Metric | Value |
+|--------|--------|
+| Market Cap (cr) | Rs. 34,883 |
+| Enterprise Value (cr) | Rs. 26,221 |
+| Outstanding Shares (cr) | 28.2 |
+| Free Float | 53.0% |
+| Dividend Yield | 0.2% |
+| 52 week high | Rs. 1,265 |
+| 52 week low | Rs. 620 |
+| 6m average volume (lacs) | 12.5 |
+| Beta | 0.8 |
+| Face value | Rs. 1 |
+
+Shareholding (%)
+| Category | Q2FY24 | Q3FY24 | Q4FY24 |
+|----------|---------|---------|---------|
+| Promoters | 46.7 | 46.7 | 46.6 |
+| FII's | 24.8 | 23.7 | 21.4 |
+| MFs/Insti | 10.4 | 11.0 | 13.4 |
+| Public | 17.9 | 18.4 | 18.3 |
+| Others | 0.3 | 0.3 | 0.3 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promoters' pledge | 0.0 | 0.0 | 0.0 |
+
+Price Performance
+| Metric | 3 Month | 6 Month | 1 Year |
+|--------|----------|----------|---------|
+| Absolute Return | 36.3% | 51.0% | 88.9% |
+| Absolute Sensex | 5.6% | 10.4% | 21.6% |
+| Relative Return* | 30.7% | 40.6% | 67.2% |
+
+Consolidated (cr)
+| Metric | FY24A | FY25E | FY26E |
+|--------|--------|--------|--------|
+| Sales | 11,813 | 13,693 | 15,062 |
+| Growth (%) | 2.0 | 15.9 | 10.0 |
+| EBITDA | 1,195 | 2,570 | 2,907 |
+| EBITDA Margin (%) | 10.1 | 18.8 | 19.3 |
+| Adj. PAT | (998) | 1,299 | 1,619 |
+| Growth (%) | (267.4) | n.m. | 24.6 |
+| Adj. EPS | (35.4) | 46.0 | 57.4 |
+| Growth (%) | (267.4) | n.m. | 24.6 |
+| P/E | n.m. | 20.8 | 16.7 |
+| P/B | 3.4 | 3.0 | 2.5 |
+| EV/EBITDA | 22.2 | 10.2 | 8.9 |
+| ROE (%) | (23.3) | 15.6 | 16.3 |
+| D/E | 0.2 | 0.1 | 0.1 |
+
+
+Quarterly Financials (Consolidated)
+
+Profit & Loss Account
+| Rs. cr | Q4FY24* | Q4FY23* | YoY Growth (%) | Q3FY24* | QoQ Growth (%) | FY24* | FY23* | YoY Growth (%) |
+|---------|----------|----------|----------------|----------|----------------|--------|--------|----------------|
+| Revenue | 3,063 | 3,001 | 2.1 | 2,507 | 22.2 | 11,813 | 11,583 | 2.0 |
+| EBITDA | 504 | 398 | 26.7 | (209) | n.m. | 1,195 | 1,635 | (26.9) |
+| EBITDA margins | 16.5 | 13.3 | 320bps | (8.3) | 2480bps | 10.1 | 14.1 | (400bps) |
+| Depreciation | 151 | 135 | 12.1 | 147 | 2.9 | 582 | 569 | 2.2 |
+| EBIT | 353 | 263 | 34.3 | (356) | n.m. | 613 | 1,066 | (42.4) |
+| Interest | 149 | 109 | 36.1 | 134 | 10.6 | 516 | 349 | 47.8 |
+| Other Income | 773 | (42) | n.m. | 45 | 1,602.6 | 1,398 | 1,082 | 29.2 |
+| Exceptional Items | (447) | (800) | 44.1 | (77) | (482.3) | (901) | (766) | (17.6) |
+| Share of profit from Associate | - | - | - | - | - | - | - | - |
+| PBT | 531 | (688) | n.m. | (521) | n.m. | 594 | 1,033 | (42.5) |
+| Tax | 1,769 | (139) | n.m. | (72) | n.m. | 119 | 303 | (60.7) |
+| Reported PAT | (1,239) | (549) | (125.4) | (450) | (175.5) | 475 | 730 | (34.9) |
+| Minority Interest | 4 | 25 | (84.1) | 21 | (80.5) | 68 | 80 | (15.0) |
+| PAT att. to shareholders | (1,242) | (575) | (116.2) | (470) | (164.3) | (1,899) | (170) | (1,018.9) |
+| Adjustments | 447 | 800 | (44.1) | 77 | 482.3 | 901 | 766 | 17.6 |
+| Adj. PAT | (796) | 225 | n.m. | (393) | (102.2) | (998) | 596 | n.m. |
+| No. of shares | 28.2 | 28.2 | 0.0 | 28.2 | 0.0 | 28.2 | 28.2 | 0.0 |
+| Adj. EPS (Rs.) | (28.2) | 8.0 | n.m. | (13.9) | (102.2) | (35.4) | 21.1 | n.m. |
+
+Change in Estimates
+| Year / Rs. cr | Old estimates | | New estimates | | Change (%) | |
+|---------------|---------------|---|----------------|---|------------|---|
+| | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Revenue | 15,168 | - | 13,693 | 15,062 | (9.7) | - |
+| EBITDA | 2,894 | - | 2,570 | 2,907 | (11.2) | - |
+| Margins (%) | 19.1 | - | 18.8 | 19.3 | (30bps) | - |
+| Adj. PAT | 1,312 | - | 1,299 | 1,619 | (1) | - |
+| Adj. EPS | 46.5 | - | 46.0 | 57.4 | (1) | - |
+PROFIT & LOSS
+| Y.E March (Rs. cr) | FY22A | FY23A* | FY24A* | FY25E | FY26E |
+|-------------------|--------|---------|---------|--------|--------|
+| Revenue | 12,305 | 11,583 | 11,813 | 13,693 | 15,062 |
+| % change | 12.4 | (5.9) | 2.0 | 15.9 | 10.0 |
+| EBITDA | 2,320 | 1,635 | 1,195 | 2,570 | 2,907 |
+| % change | 11.3 | (29.5) | (26.9) | 115.0 | 13.1 |
+| Depreciation | 487 | 611 | 631 | 645 | 647 |
+| EBIT | 1,834 | 1,066 | 613 | 1,925 | 2,260 |
+| Interest | 298 | 349 | 516 | 526 | 537 |
+| Other Income | (94) | (477) | (61) | 546 | 655 |
+| PBT | 1,441 | 240 | 36 | 1,945 | 2,378 |
+| % change | 4.3 | (83.4) | (84.8) | 5,228.1 | 22.3 |
+| Tax | 448 | 329 | 1,867 | 525 | 642 |
+| Tax Rate (%) | 31.1 | 137.3 | 5116.7 | 27.0 | 27.0 |
+| Reported PAT | 994 | (90) | (1,831) | 1,419 | 1,736 |
+| PAT att. to common shareholders | 942 | (170) | (1,899) | 1,299 | 1,619 |
+| Adj* | 261 | 766 | 901 | - | - |
+| Adj PAT | 1,203 | 596 | (998) | 1,299 | 1,619 |
+| % change | 29.9 | (50.4) | n.m. | n.m. | 24.6 |
+| No. of shares (cr) | 28.2 | 28.2 | 28.2 | 28.2 | 28.2 |
+| Adj EPS (Rs.) | 42.6 | 21.1 | (35.4) | 46.0 | 57.4 |
+| % change | 29.9 | (50.4) | n.m. | n.m. | 24.6 |
+| DPS (Rs.) | 2.5 | 2.5 | 2.5 | 2.5 | 2.5 |
+
+BALANCE SHEET
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Cash | 1,412 | 1,160 | 1,659 | 2,199 | 2,602 |
+| Accounts Receivable | 3,101 | 3,665 | 1,858 | 2,160 | 2,672 |
+| Inventories | 2,500 | 2,374 | 2,513 | 2,775 | 3,234 |
+| Other Cur.Assets | 1,270 | 3,526 | 1,397 | 1,616 | 1,777 |
+| Investments | 299 | 261 | 989 | 989 | 989 |
+| Gross Fixed Assets | 6,128 | 6,909 | 7,805 | 8,548 | 9,364 |
+| Net Fixed Assets | 3,442 | 2,913 | 2,919 | 2,783 | 2,719 |
+| CWIP | 921 | 1,066 | 419 | 653 | 887 |
+| Intangible Assets | 2,285 | 2,416 | 1,335 | 1,335 | 1,335 |
+| Def. Tax (Net) | 1,686 | 1,806 | 1,050 | 1,260 | 1,734 |
+| Other Assets | 168 | 184 | 219 | 219 | 219 |
+| Total Assets | 17,083 | 19,372 | 14,359 | 15,988 | 18,168 |
+| Current Liabilities | 3,499 | 4,526 | 4,739 | 4,970 | 5,431 |
+| Provisions | - | - | - | - | - |
+| Debt Funds | 3,962 | 4,608 | 1,231 | 1,280 | 1,334 |
+| Other Liabilities | 184 | 398 | 541 | 541 | 541 |
+| Equity Capital | 28 | 28 | 28 | 28 | 28 |
+| Reserves & Surplus | 9,058 | 9,446 | 7,820 | 9,048 | 10,596 |
+| Shareholder's Fund | 9,087 | 9,474 | 7,848 | 9,076 | 10,625 |
+| Minority Interest | 351 | 365 | (0) | 120 | 237 |
+| Total Liabilities | 17,083 | 19,372 | 14,359 | 15,988 | 18,168 |
+| BVPS (Rs.) | 322 | 336 | 278 | 322 | 377 |
+
+CASH FLOW
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|---------|--------|--------|
+| Net inc. + Depn. | 1,480 | 522 | (1,200) | 2,064 | 2,383 |
+| Non-cash adj. | 296 | 1,161 | 1,213 | 137 | 4 |
+| Changes in W.C | (668) | (1,058) | (279) | (372) | (613) |
+| C.F. Operation | 1,109 | 625 | (265) | 1,829 | 1,774 |
+| Capital exp. | (789) | (551) | (896) | (742) | (817) |
+| Change in inv. | - | - | 3,450 | - | - |
+| Other invest.CF | 455 | 22 | 8 | - | - |
+| C.F - Investment | (333) | (528) | 2,561 | (742) | (817) |
+| Issue of equity | - | - | 1 | - | - |
+| Issue/repay debt | (1,132) | 523 | (3,273) | 50 | 54 |
+| Dividends paid | (93) | (137) | (118) | (71) | (71) |
+| Other finance.CF | 704 | (464) | (517) | (526) | (537) |
+| C.F - Finance | (520) | (77) | (3,906) | (547) | (554) |
+| Chg. in cash | 255 | 19 | 389 | 540 | 403 |
+| Closing cash | 1,412 | 1,160 | 1,659 | 2,199 | 2,602 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|--------|--------|
+| Profitab. & Return | | | | | |
+| EBITDA margin (%) | 18.9 | 14.1 | 10.1 | 18.8 | 19.3 |
+| EBIT margin (%) | 14.9 | 9.2 | 5.2 | 14.1 | 15.0 |
+| Net profit mgn.(%) | 7.7 | (1.5) | (16.1) | 9.5 | 10.7 |
+| ROE (%) | 10.9 | (0.9) | (23.3) | 15.6 | 16.3 |
+| ROCE (%) | 13.7 | 7.4 | 6.8 | 18.4 | 18.5 |
+| W.C & Liquidity | | | | | |
+| Receivables (days) | 92.0 | 115.5 | 57.4 | 57.6 | 64.8 |
+| Inventory (days) | 208.1 | 203.5 | 207.8 | 211.7 | 219.0 |
+| Payables (days) | 190.5 | 171.5 | 209.7 | 208.1 | 209.0 |
+| Current ratio (x) | 1.8 | 2.1 | 1.3 | 1.4 | 1.6 |
+| Quick ratio (x) | 1.0 | 0.9 | 0.6 | 0.7 | 0.8 |
+| Turnover & Leverage | | | | | |
+| Gross asset T/O (x) | 2.1 | 1.8 | 1.6 | 1.7 | 1.7 |
+| Total asset T/O (x) | 0.8 | 0.6 | 0.7 | 0.9 | 0.9 |
+| Int. coverage ratio (x) | 6.2 | 3.1 | 1.2 | 3.7 | 4.2 |
+| Adj. debt/equity (x) | 0.4 | 0.5 | 0.2 | 0.1 | 0.1 |
+| Valuation | | | | | |
+| EV/Sales (x) | 1.2 | 1.5 | 2.3 | 1.9 | 1.7 |
+| EV/EBITDA (x) | 6.6 | 10.4 | 22.2 | 10.2 | 8.9 |
+| P/E (x) | 10.4 | 22.0 | n.m. | 20.8 | 16.7 |
+| P/BV (x) | 1.4 | 1.4 | 3.4 | 3.0 | 2.5 |
+Recommendation Summary (Last 3 Years)
+| Dates | Rating | Target |
+|-------|---------|---------|
+| 27-Nov-20 | BUY | 548 |
+| 3-Jun-21 | BUY | 717 |
+| 17-Nov-21 | ACCUMULATE | 575 |
+| 7-Jun-22 | BUY | 485 |
+| 26-May-23 | HOLD | 638 |
+| 24-Aug-23 | HOLD | 815 |
+| 17-Nov-23 | HOLD | 837 |
+| 18-Jun-24 | HOLD | 1,319 |
+
+Investment Rating Criteria
+| Ratings | Large caps | Midcaps | Small Caps |
+|---------|------------|----------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | | Upside is between 10%-15% | Upside is between 10%-20% |
+| Hold | Upside is between 0%-10% | Upside is between 0%-10% | Upside is between 0%-10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral | | | |

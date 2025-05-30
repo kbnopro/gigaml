@@ -1,0 +1,217 @@
+# City Union Bank Ltd.
+## Retail Equity Research
+### Banking
+
+**Stock Information:**
+- BSE CODE: 532210
+- NSE CODE: CUB
+- BLOOMBERG CODE: CUBK:IN
+- SENSEX: 77,479
+
+**Investment Details:**
+- **Rating:** ACCUMULATE
+- **Investment Period:** 12 Months
+- **Rating Category:** Small Cap
+- **CMP:** Rs. 166
+- **Target:** Rs. 185
+- **Expected Return:** 11% ↑
+- *(Closing: 20-06-2024)*
+
+
+New channels to support growth.....
+
+City Union Bank Ltd. (CUB), the oldest private sector bank in India, is a mid-sized commercial bank headquartered in Tamil Nadu, with a network of 800 branches spread across the country and a loan book size of Rs.46,482cr.
+
+• Loan growth was healthy on a sequential basis at 5.6%, but it was mediocre on a YoY basis at 5.7%.
+
+• The regulatory actions impacted the gold portfolio, forcing the bank to trim down its Agri-gold loans. Yet, its non-Agri Gold loan portfolio grew by 21%YoY. Currently, gold portfolios constitute 25% of the total loan book.
+
+• Yield on advances increased by 23bps sequentially to 9.85%, and the cost of deposit only increased by 8bps, resulting the NIM expanding by 16bps sequentially to 3.66%.
+
+• Asset quality continues to improve, with GNPA/NNPA standing at 3.99%/1.93%, respectively, compared to 4.47%/ 2.14% during Q3FY24. We expect the current trend of reducing slippage and increasing recoveries to continue in FY25 as well.
+
+• While the bank refrained from providing loan growth guidance, we expect the loan growth to accelerate to the previous guidance of 12-13% in FY25-26. We estimate ROA to remain broadly stable at 1.4-1.5% by FY25-26E. Therefore, we reiterate our rating of Accumulate with a revised target price of Rs.185, based on 1.3x FY26E BVPS.
+
+Reviving business model
+
+In Q4FY24, the bank's gross advances grew 5.7% QoQ but remained flat YoY. The bank is focusing on achieving double-digit growth soon. Regulatory actions impacted the Gold KCC product, now fully run-down, with demand redirected to agri- or non-agri-gold loans. CUB has nearly finalized processes for secured retail products like LAP, affordable housing, micro-LAP, etc. On the deposit front, CASA grew 8.9% YoY, and fixed deposits increased by 5.1% YoY, with total deposits up 6.2% YoY. The CASA ratio rose to 30.6% from 29.9% in Q4FY23. We expect advances to grow moderately at 12%-13% over FY25-26E. The capital adequacy ratio is 20.9%.
+
+ROA maintained at its long term average
+
+Net Interest Income (NII) for the quarter grew by 5.9% QoQ as interest income witnessed a growth of 3.6% QoQ and interest expense increased by 2.1% QoQ. The Net Interest Margin showed a sequential increase of 16bps to 3.66%. The cost of deposit rose by 8bps sequentially to 5.75%, while the yield on advances increased by 23bps sequentially to 9.85%. The cost-to-income ratio has risen to 51.26%, compared to 41.2% in Q4FY23, mainly due to continued investment in products, people, channels, and technology. Although the cost-to-income ratio is likely to remain high, we expect the ROA to stay stable at 1.4-1.5% for FY25-26E.
+
+Asset quality expected to improve gradually
+
+During the quarter, asset quality improved significantly. Total slippages for the quarter amounted to Rs. 219.4 crore. The GNPA and NNPA for the quarter were 3.99% and 1.93%, respectively, compared to 4.37% and 2.31% in Q4FY23. The Provision Coverage Ratio has also improved to 72%, up from 69% in Q4FY23.
+
+Outlook and valuation
+
+The receding impact of legacy issues, improved IT systems, and a focus on new products/channels provide a clear path to growth. This growth is expected to accelerate to ~12-13% YoY over FY25/26E. The loan-to-deposit ratio, currently at 81%, remains comfortable. Therefore, we reiterate our Accumulate rating with a revised target price of Rs.185, based on 1.3x FY26E BVPS.
+
+
+Company Data
+| Metric | Value |
+|--------|--------|
+| Market Cap (Rs cr) | 12,306.3 |
+| Outstanding Shares (cr) | 74.1 |
+| Free Float (%) | 97.0 |
+| Dividend Yield (%) | 0.7 |
+| 52 week high (Rs) | 167.7 |
+| 52 week low (Rs) | 119.5 |
+| 6m average volume (cr) | 0.1 |
+| Beta | 1.4 |
+| Face value (Rs) | 1.0 |
+
+Shareholding (%)
+| Category | Q2FY24 | Q3FY24 | Q4FY24 |
+|----------|---------|---------|---------|
+| Promoters | - | - | - |
+| FII's | 23.7 | 26.6 | 27.0 |
+| MFs/Institutions | 33.2 | 32.4 | 29.5 |
+| Public/others | 43.1 | 41.0 | 43.5 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promoter pledge | - | - | - |
+
+Price Performance
+| Metric | 3 Month | 6 Month | 1 Year |
+|---------|----------|----------|---------|
+| Absolute Return | 22.2% | 13.0% | 32.4% |
+| Absolute Sensex | 6.4% | 9.0% | 22.0% |
+| Relative Return* | 15.8% | 4.0% | 10.4% |
+
+Standalone (Rs cr)
+| Metric | FY24A | FY25E | FY26E |
+|---------|--------|--------|--------|
+| NII | 2,123 | 2,342 | 2,463 |
+| Growth(%) | -1.8 | 10.3 | 5.1 |
+| NIM(%) | 3.6 | 3.6 | 3.6 |
+| Provisions | 286 | 280 | 294 |
+| Adj. PAT | 1,016 | 1,075 | 1,243 |
+| Growth(%) | 8.3 | 5.9 | 15.6 |
+| Adj. EPS | 13.6 | 14.4 | 16.7 |
+| Growth(%) | 8.3 | 5.9 | 15.6 |
+| BVPS | 113.4 | 126.4 | 141.7 |
+| Adj BVPS | 98.2 | 111.3 | 128.0 |
+| P/E | 12.3 | 11.6 | 10.0 |
+| P/B | 1.5 | 1.3 | 1.2 |
+| Adj. P/B | 1.7 | 1.5 | 1.3 |
+| ROE (%) | 12.8 | 12.1 | 12.5 |
+
+
+Quarterly Financials (Standalone)
+| (Rs.cr) | Q4FY24 | Q4FY23 | YoY Growth (%) | Q3FY24 | QoQ Growth (%) | FY24 | FY23 | YoY Growth (%) |
+|---------|---------|---------|----------------|---------|----------------|-------|-------|----------------|
+| Interest Income | 1,374 | 1,228 | 11.9 | 1,326 | 3.6 | 5,271 | 4,714 | 11.8 |
+| Interest Expense | 828 | 714 | 15.9 | 810 | 2.1 | 3,147 | 2,552 | 23.3 |
+| Net Interest Income (NII) | 547 | 514 | 6.3 | 516 | 5.9 | 2,123 | 2,163 | -1.8 |
+| Fee and Other Income | 175 | 195 | -10.1 | 193 | -9.1 | 742 | 810 | -8.5 |
+| Total Income | 722 | 709 | 1.8 | 709 | 1.8 | 2,865 | 2,973 | -3.6 |
+| Expenditure | 370 | 292 | 26.6 | 345 | 7.3 | 1,348 | 1,155 | 16.7 |
+| Pre-Provision Profit | 352 | 417 | -15.6 | 364 | -3.4 | 1,517 | 1,818 | -16.6 |
+| Provision | 32 | 159 | -79.9 | 46 | -30.4 | 286 | 641 | -55.3 |
+| PBT | 320 | 258 | 23.9 | 318 | 0.6 | 1,231 | 1,177 | 4.5 |
+| Tax | 65 | 40 | 62.5 | 65 | 0.0 | 215 | 240 | -10.4 |
+| Reported PAT | 255 | 218 | 16.9 | 253 | 0.7 | 1,016 | 937 | 8.3 |
+| Adjustment | - | - | - | - | - | - | - | - |
+| Adj. PAT | 255 | 218 | 16.9 | 253 | 0.7 | 1,016 | 937 | 8.3 |
+| Diluted EPS (Rs) | 3.42 | 2.9 | 17.1 | 3.4 | 0.9 | 13.6 | 12.6 | 8.3 |
+
+Change in Estimates
+| Year / Rs cr | Old Estimates | | New Estimates | | Change(%) | |
+|--------------|---------------|---|---------------|---|-----------|---|
+| | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Net Interest Income (NII) | 2,674 | - | 2,342 | 2,463 | -12.4 | - |
+| Net Interest Margin (%) | 4.1 | - | 3.6 | 3.6 | -54 | - |
+| Pre-Provision Profit | 2,268 | - | 1,714 | 1,951 | -24.4 | - |
+| Adj. PAT | 1,255 | - | 1,075 | 1,243 | -14.3 | - |
+| Diluted EPS (Rs) | 17.4 | - | 14.4 | 16.7 | -17.2 | - |
+PROFIT & LOSS
+| Y.E March (Rs cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Interest Income | 4,105 | 4,714 | 5,271 | 5,774 | 5,989 |
+| Interest Expense | 2,188 | 2,552 | 3,147 | 3,431 | 3,527 |
+| Net Int. Income | 1,916 | 2,163 | 2,123 | 2,342 | 2,463 |
+| Change(%) | 4.7 | 12.9 | -1.8 | 10.3 | 5.1 |
+| Non Int. Income | 759 | 810 | 742 | 908 | 1,133 |
+| Operating Income | 2,676 | 2,973 | 2,865 | 3,250 | 3,596 |
+| Change(%) | 6.2 | 11.1 | -3.6 | 13.4 | 10.6 |
+| Operating Exp. | 1,080 | 1,155 | 1,348 | 1,537 | 1,645 |
+| Pre Prov. Profit | 1,595 | 1,818 | 1,517 | 1,714 | 1,951 |
+| Prov. & Conting. | 610 | 641 | 286 | 280 | 294 |
+| PBT | 985 | 1,177 | 1,231 | 1,434 | 1,657 |
+| Change(%) | 42.2 | 19.5 | 4.5 | 16.5 | 15.6 |
+| Tax | 225 | 240 | 215 | 358 | 414 |
+| Tax Rate(%) | 22.8 | 20.4 | 25.5 | 25.0 | 25.0 |
+| Net Profit | 760 | 937 | 1016 | 1075 | 1243 |
+| Adj* | - | - | - | - | - |
+| Adj. Net Profit | 760 | 937 | 1,016 | 1,075 | 1,243 |
+| Change(%) | 28.2 | 23.3 | 8.3 | 5.9 | 15.6 |
+| No. of shares (Cr) | 74 | 74 | 74 | 74 | 74 |
+| EPS (Rs) | 10.2 | 12.6 | 13.6 | 14.4 | 16.7 |
+| Change(%) | 27.7 | 23.5 | 8.3 | 5.9 | 15.6 |
+| DPS (Rs) | 0.3 | 1.0 | 1.0 | 1.5 | 1.5 |
+
+BALANCE SHEET
+| Y.E March (Rs cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Cash | 6,687 | 3,302 | 4,615 | 5,633 | 4,998 |
+| Loans & Advances | 40,358 | 43,053 | 45,526 | 50,970 | 57,822 |
+| Investments | 12,221 | 14,333 | 15,664 | 17,077 | 18,849 |
+| Net Fixed Assets | 215 | 239 | 270 | 293 | 320 |
+| Other Assets | 2,050 | 5,667 | 4,750 | 4,896 | 5,285 |
+| Total Assets | 61,531 | 66,595 | 70,826 | 78,870 | 87,274 |
+| Deposits | 47,690 | 52,398 | 55,657 | 62,028 | 68,591 |
+| Debt Funds | 5,312 | 4,688 | 4,724 | 5,004 | 5,551 |
+| Other Liabilities and provision | 1,944 | 2,051 | 2,044 | 2,472 | 2,635 |
+| Equity Capital | 74 | 74 | 74 | 74 | 74 |
+| Reserves & Surplus | 6,512 | 7,383 | 8,327 | 9,292 | 10,422 |
+| Shareholder's Funds | 6,586 | 7,457 | 8,401 | 9,366 | 10,496 |
+| Total Liabilities | 61,531 | 66,595 | 70,826 | 78,870 | 87,274 |
+| BVPS (Rs) | 89 | 101 | 113.4 | 126 | 142 |
+| Change(%) | 11.9 | 13.1 | 12.6 | 11.5 | 12.1 |
+| Adj. BVPS (Rs) | 73 | 85 | 98 | 111 | 128 |
+| Change(%) | 12.4 | 16.6 | 15.5 | 13.3 | 15.0 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|------------|--------|--------|--------|--------|--------|
+| Profitab. & Return |  |  |  |  |  |
+| Interest yield (%) | 8.4 | 8.6 | 8.9 | 8.9 | 8.8 |
+| Cost of funds (%) | 4.4 | 4.8 | 5.8 | 5.6 | 5.0 |
+| Spread(%) | 3.9 | 3.8 | 3.1 | 3.3 | 3.8 |
+| NIM (%) | 3.9 | 3.9 | 3.6 | 3.6 | 3.6 |
+| ROE (%) | 12.2 | 13.4 | 12.8 | 12.1 | 12.5 |
+| ROA(%) | 1.3 | 1.5 | 1.5 | 1.4 | 1.5 |
+| Business Ratios |  |  |  |  |  |
+| Loan growth (%) | 11.6 | 6.7 | 5.7 | 12.0 | 13.4 |
+| Deposit growth (%) | 7.1 | 9.9 | 6.2 | 11.4 | 10.6 |
+| Operating Ratios |  |  |  |  |  |
+| Cost to Income (%) | 40.4 | 38.9 | 47.1 | 47.3 | 45.8 |
+| CASA (%) | 32.6 | 31.5 | 31.3 | 29.6 | 29.1 |
+| Asset Quality |  |  |  |  |  |
+| GNPA (%) | 4.7 | 4.4 | 4.0 | 3.6 | 3.6 |
+| NNPA (%) | 2.9 | 2.3 | 1.9 | 2.0 | 1.9 |
+| Capital Adequacy |  |  |  |  |  |
+| CAR (%) | 20.9 | 20.9 | 20.9 | 20.5 | 20.1 |
+| Valuation |  |  |  |  |  |
+| P/E (x) | 16.3 | 13.2 | 12.2 | 11.5 | 10.0 |
+| P/B (x) | 1.9 | 1.6 | 1.5 | 1.3 | 1.2 |
+| Adj. P/B (x) | 2.3 | 2.0 | 1.7 | 1.5 | 1.3 |
+Recommendation Summary (last 3 years)
+| Dates | Rating | Target |
+|-------|---------|---------|
+| 02-Jun-21 | Buy | 208 |
+| 17-Nov-21 | Buy | 190 |
+| 23-Feb-22 | Buy | 170 |
+| 26-Aug-22 | Accumulate | 209 |
+| 20-Feb-23 | Accumulate | 159 |
+| 20-Jun-24 | Accumulate | 185 |
+
+Investment Criteria
+| Ratings | Large caps | Midcaps | Small Caps |
+|---------|------------|----------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | - | Upside is between 10%-15% | Upside is between 10%-20% |
+| Hold | Upside is between 0% - 10% | Upside is between 0%-10% | Upside is between 0%-10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral | | | |

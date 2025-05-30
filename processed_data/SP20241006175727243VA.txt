@@ -1,0 +1,217 @@
+# VA Tech Wabag Ltd.
+## Retail Equity Research
+### Capital Goods
+
+**Stock Information:**
+- BSE CODE: 533269
+- NSE CODE: WABAG  
+- BLOOMBERG CODE: VATW:IN
+- SENSEX: 76,490
+
+**Investment Summary:**
+- Rating: ACCUMULATE
+- Investment Period: 12 Months
+- CMP Rs.1,154
+- TARGET Rs. 1,340
+- RETURN 16% ↑
+- (Closing: 10-06-2024)
+
+
+Positive orderbook outlook, Margins to improve
+
+VA Tech Wabag Ltd. (VATW), is a Chennai-based multinational company specializing in water technology. With its expertise in the turnkey execution and operation of water and wastewater treatment plants, the company primarily serves both municipal and industrial sectors, focusing on providing comprehensive solutions for water-related challenges.
+
+• VATW beat our FY24 revenue and EBITDA estimates, but PAT missed by 6% due to higher finance costs, tax expenses, and lower other income.
+
+• At4XFY24 revenues, the orderbook position at ~Rs.114 bn. provides long-term topline visibility. O&M and the industrial segment's share of the orderbook pie improved with higher intake from international and industrial orders, which is in line with the company's strategy.
+
+• VATW expects to unlock more value from the CBG sector, shifting its focus to selling gas rather than captive purposes. Management guided for 15-20% CAGR topline growth for 3-5 years with optimistic improvements in EBITDA and PAT margins. The medium-term outlook expects order inflow contributions to be driven by international, industrial, and O&M segments.
+
+• We build our expectations for topline to grow at ~17%CAGR in FY24-26E period and EBITDA/PAT margins to improve to 13.8%/9.5% by FY26E. With the EPS expected to grow at ~22%CAGR, we value the stock at 22X PE on FY26EPS, maintaining our recommendation to ACCUMULATE the stock with a target of Rs.1,340.
+
+Revenue & EBITDA beat Geojit Estimates, PAT miss
+VATW beat our FY24 Revenue/EBITDA estimates by 2%/4% respectively. Despite 3.5%YoY decline in revenues in FY24, lower costs of revenues and other operational expenses aided in 242bps expansion in EBITDA margins. However, an increase in finance costs, higher tax expenses, and lower other income led to a 17.1% YoY decline in PAT, which missed our estimates by 6%.
+
+Orderbook composition and intake in line with strategy
+With ~Rs.114bn. in orderbook (incl. framework contracts) at hand, the orderbook-to-sales ratio stands at 4XFY24 revenues, which provides visibility for the long term. O&M's share of the pie increased by 5%, & industrials increased by 3%. While the Indian orderbook remains higher, FY24 saw a higher intake of international orders, with over 67% from the rest of the world and 24% from the industrial segment.
+
+Positive commentary on CBG, Hydrogen and Semiconductor play
+The management reiterated its interest in Compressed Biogas (CBG) sector by shifting focus from captive purposes to selling the gas to the government, PSUs and gas stations etc. Moreover, it looks to tap into semiconductor and green hydrogen manufacturing opportunities by being a water partner. Although the current cost is high, the management expects hydrogen production to be more affordable in the future.
+
+Guidance indicates topline and margin improvement
+The management has guided a robust pipeline, with bids submitted for more than 1bn dollars in the Gulf region alone. Topline growth is expected to be at 15-20% CAGR growth in the top line for the next 3-4 years, and EBITDA/PAT margins are targeted to be in the range of 13%-15%/9%-10% respectively. The orderbook is expected to grow to ~Rs.16,000Cr. in FY25E, with a good pick-up from the second quarter in India & ME&A. The medium-term outlook guides for 50%/30% of the order inflows to come from international/industrial segments, while the O&M segment would constitute 20%.
+
+Valuations
+We build our top-line expectations at ~16%/18% YoY growth in FY25E/FY26E driven by a robust pipeline & strong executions. Focus on international, O&M and industrial segments is expected to deliver better margins. Nevertheless, we build a 13.8%/9.5% EBITDA/PAT margin expectation, which is conservative to guidance due to geopolitical instabilities and inflationary pressures. With EPS forecasted to grow at ~23% CAGR in FY24-26E period, we value the stock at 22XFY26E-EPS & recommend accumulating the stock with a target of Rs. 1,340.
+
+
+| Company Data | |
+|---|---|
+| Market Cap (cr) | ₹7,179 |
+| Enterprise Value (cr) | ₹6,957 |
+| Outstanding Shares (cr) | 6.2 |
+| Free Float (%) | 81 |
+| Dividend Yield (%) | - |
+| 52 week high | ₹1,177 |
+| 52 week low | ₹436 |
+| 6m average volume (cr) | 0.07 |
+| Beta | 0.8 |
+| Face value | 2 |
+
+| Shareholding (%) | Q2FY24 | Q3FY24 | Q4FY24 |
+|---|---|---|---|
+| Promoters | 19.1 | 19.1 | 19.1 |
+| FII's | 15.6 | 13.1 | 12.5 |
+| MFs/Institutions | 3.5 | 5.9 | 5.6 |
+| Public | 61.7 | 61.9 | 62.8 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promoter pledge | Nil | Nil | Nil |
+
+| Price Performance | 3 Month | 6 Month | 1 Year |
+|---|---|---|---|
+| Absolute Return | 66.1% | 81.3% | 133.8% |
+| Absolute Sensex | 3.8% | 9.9% | 22.1% |
+| Relative Return* | 62.2% | 71.4% | 111.6% |
+
+| Consolidated (cr) | FY24A | FY25E | FY26E |
+|---|---|---|---|
+| Sales | 2,856.4 | 3,307.6 | 3,903.0 |
+| Growth (%) | -3.5 | 15.8 | 18.0 |
+| EBITDA | 375.7 | 448.2 | 546.4 |
+| EBITDA Margin(%) | 13.2 | 13.6 | 14.0 |
+| PAT Adj. | 250.4 | 299.0 | 378.7 |
+| Growth (%) | -16.6 | 19.4 | 26.7 |
+| Adj.EPS | 40.3 | 48.1 | 60.9 |
+| Growth (%) | -16.6 | 19.4 | 26.7 |
+| P/E | 28.7 | 24.0 | 19.0 |
+| P/B | 3.9 | 3.4 | 2.9 |
+| EV/EBITDA | 19.9 | 16.6 | 13.5 |
+| ROE(%) | 14.8 | 15.2 | 16.4 |
+| D/E | 0.2 | 0.1 | 0.1 |
+
+
+Quarterly Financials (Consolidated)
+
+Profit & Loss Account
+| (Rs cr) | Q4FY24 | Q4FY23 | YoY Growth (%) | Q3FY24 | QoQ Growth (%) | FY24 | FY23 | YoY Growth (%) |
+|---------|---------|---------|----------------|---------|----------------|-------|-------|----------------|
+| Sales | 934.2 | 926.9 | 0.8 | 704.4 | 32.6 | 2,856.4 | 2,960.5 | -3.5 |
+| EBITDA | 115.5 | 108.4 | 6.5 | 98.9 | 16.8 | 375.7 | 317.8 | 18.2 |
+| EBITDA margins (%) | 12.4 | 11.7 | 66bps | 14.0 | -168bps | 13.2 | 10.7 | 242bps |
+| Depreciation | 2.5 | 2.2 | 16.3 | 2.1 | 19.0 | 8.4 | 8.8 | -4.7 |
+| EBIT | 113.0 | 106.3 | 6.3 | 96.8 | 16.7 | 367.3 | 309.0 | 18.9 |
+| Interest | 21.8 | 16.2 | 34.8 | 16.7 | 30.5 | 71.1 | 65.8 | 8.1 |
+| Other Income | 8.2 | 7.7 | 7.2 | 3.7 | 121.6 | 43.4 | 53.6 | -19.0 |
+| Exceptional Items | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| PBT | 99.4 | 97.8 | 1.7 | 83.8 | 18.6 | 339.6 | 296.8 | 14.4 |
+| Tax | 21.8 | -29.9 | -172.9 | 20.7 | 5.3 | 79.7 | 5.9 | 1,250.8 |
+| Reported PAT | 78.1 | -112.0 | -169.8 | 62.6 | 24.8 | 250.4 | 12.9 | 1,848.6 |
+| Adjustments | 0.0 | 243.4 |  | 0.0 |  | 0.0 | 2,892.3 |  |
+| Adj PAT | 78.1 | 131.4 | -40.6 | 62.6 | 24.8 | 250.4 | 302.1 | -17.1 |
+| No. of Shares | 6.2 | 6.2 |  | 6.2 |  | 6.2 | 6.2 |  |
+| EPS (Rs) | 12.6 | -18.0 | -169.8 | 10.1 | 24.8 | 40.3 | 2.1 | 1,848.6 |
+
+Change in Estimates
+| Year / Rs cr | Old estimates |  | New estimates |  | Change (%) |  |
+|--------------|--------------|------------|----------------|------------|------------|------------|
+|              | FY25E | FY26E | FY25E | FY26E | FY25E | FY25E |
+| Revenue | 3,341 | 3,719 | 3,308 | 3,903 | -1.00 | 4.95 |
+| EBITDA | 461 | 517 | 448 | 546 | -2.78 | 5.69 |
+| Margins (%) | 13.8 | 13.9 | 13.6 | 14.0 | -20bps | 10bps |
+| Adj. PAT | 339 | 380 | 299 | 379 | -11.80 | -0.33 |
+| EPS | 54 | 61 | 48 | 61 | -11.62 | -0.32 |
+Consolidated Financials
+
+PROFIT & LOSS
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Revenue | 2,979.3 | 2,960.5 | 2,856.4 | 3,307.6 | 3,903.0 |
+| % change | 5.1 | -0.6 | -3.5 | 15.8 | 18.0 |
+| EBITDA | 237.0 | 317.8 | 375.7 | 448.2 | 546.4 |
+| % change | 8.3 | 34.1 | 18.2 | 19.3 | 21.9 |
+| Depreciation | 10.1 | 8.8 | 8.4 | 8.3 | 8.2 |
+| EBIT | 226.9 | 309.0 | 367.3 | 439.9 | 538.2 |
+| Interest | 87.7 | 65.8 | 71.1 | 71.9 | 64.0 |
+| Other Income | 32.4 | 53.6 | 43.4 | 43.4 | 43.4 |
+| PBT | 171.6 | 7.6 | 339.6 | 411.3 | 517.7 |
+| % change | 37.8 | -95.6 | 4,380.2 | 21.1 | 25.9 |
+| Tax | 36.3 | 5.9 | 79.7 | 102.8 | 129.4 |
+| Tax Rate (%) | 21.2 | 77.8 | 23.5 | 25.0 | 25.0 |
+| Reported PAT | 132.1 | 12.4 | 250.4 | 299.0 | 378.7 |
+| Adj* | 0.0 | 289.2 | 0.0 | 0.0 | 0.0 |
+| Adj PAT | 132.1 | 300.1 | 250.4 | 299.0 | 378.7 |
+| % change | 20.0 | 127.1 | -16.6 | 19.4 | 26.7 |
+| No. of shares (cr) | 6.2 | 6.2 | 6.2 | 6.2 | 6.2 |
+| Adj EPS (Rs.) | 21.2 | 48.3 | 40.3 | 48.1 | 60.9 |
+| % change | 20.0 | 127.1 | -16.6 | 19.4 | 26.7 |
+| DPS (Rs.) | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+
+BALANCE SHEET
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Cash | 321.0 | 180.6 | 439.9 | 861.8 | 979.7 |
+| Accounts Receivable | 2,071.1 | 2,193.9 | 2,521.5 | 2,310.8 | 2,726.7 |
+| Inventories | 32.0 | 35.3 | 35.9 | 41.0 | 48.1 |
+| Other Cur. Assets | 1,285.3 | 1,349.0 | 1,158.4 | 1,322.3 | 1,363.6 |
+| Investments | 37.6 | 45.8 | 67.1 | 70.5 | 74.0 |
+| Gross Fixed Assets | 136.3 | 119.1 | 124.6 | 123.6 | 122.6 |
+| Net Fixed Assets | 76.6 | 71.8 | 68.9 | 59.6 | 50.4 |
+| CWIP | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Intangible Assets | 3.3 | 3.6 | 3.6 | 3.6 | 3.6 |
+| Def. Tax (Net) | 36.2 | 37.1 | 45.0 | 45.4 | 45.2 |
+| Other Assets | 139.3 | 172.1 | 234.2 | 217.5 | 256.6 |
+| Total Assets | 4,002.3 | 4,089.2 | 4,574.5 | 4,932.4 | 5,547.9 |
+| Current Liabilities | 1,926.5 | 2,227.2 | 2,082.1 | 2,292.0 | 2,527.3 |
+| Provisions | 81.6 | 66.1 | 128.0 | 90.6 | 106.9 |
+| Debt Funds | 428.5 | 213.2 | 280.6 | 242.6 | 222.6 |
+| Other Liabilities | 26.6 | 7.8 | 265.1 | 189.4 | 194.6 |
+| Equity Capital | 12.4 | 12.4 | 12.4 | 12.4 | 12.4 |
+| Reserves & Surplus | 1,526.7 | 1,562.5 | 1,806.3 | 2,105.3 | 2,484.0 |
+| Shareholder's Fund | 1,539.1 | 1,574.9 | 1,818.7 | 2,117.7 | 2,496.4 |
+| Total Liabilities | 4,002.3 | 4,089.2 | 4,574.5 | 4,932.4 | 5,547.9 |
+| BVPS (Rs.) | 247.5 | 253.2 | 292.4 | 340.5 | 401.4 |
+
+CASH FLOW
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Net Inc. + Depn. | 142.3 | 21.7 | 258.8 | 307.3 | 386.9 |
+| Non-cash adj. | 151.2 | 16.1 | 162.9 | 71.9 | 64.0 |
+| Changes in W.C | -281.7 | 49.2 | -288.2 | 155.3 | -246.7 |
+| C.F - Operation | 11.7 | 86.9 | 133.5 | 534.6 | 204.2 |
+| Capital exp. | -2.6 | -1.7 | -11.0 | 1.0 | 1.0 |
+| Change in inv. | -18.3 | 0.0 | 43.8 | -3.4 | -3.5 |
+| Other invest.CF | -13.1 | 17.5 | 51.3 | 0.0 | 0.0 |
+| C.F - Investment | -34.0 | 15.8 | 84.1 | -2.7 | -2.3 |
+| Issue of equity | 0.0 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Issue/repay debt | 46.2 | -238.3 | 41.1 | -109.9 | -84.0 |
+| Dividends paid | -0.2 | 0.0 | 0.0 | 0.0 | 0.0 |
+| Other finance.CF | 0.2 | 13.0 | 0.0 | 0.0 | 0.0 |
+| C.F - Finance | 44.3 | -227.1 | 43.6 | -109.9 | -84.0 |
+| Chg. in cash | 22.1 | -124.5 | 261.2 | 421.9 | 117.9 |
+| Closing cash | 320.8 | 221.5 | 439.9 | 861.8 | 979.7 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|--------|--------|
+| Profitab. & Return |  |  |  |  |  |
+| EBITDA margin (%) | 8.0 | 10.7 | 13.2 | 13.6 | 14.0 |
+| EBIT margin (%) | 7.6 | 10.4 | 12.9 | 13.3 | 13.8 |
+| Net profit mgn.(%) | 4.4 | 10.1 | 8.8 | 9.0 | 9.7 |
+| ROE (%) | 9.0 | 19.3 | 14.8 | 15.2 | 16.4 |
+| ROCE (%) | 7.3 | 8.9 | 10.7 | 11.4 | 12.6 |
+| W.C & Liquidity |  |  |  |  |  |
+| Receivables (days) | 243.1 | 262.9 | 301.3 | 266.6 | 235.6 |
+| Inventory (days) | 3.8 | 4.1 | 4.5 | 4.2 | 4.2 |
+| Payables (days) | 186.0 | 188.4 | 198.7 | 184.6 | 185.3 |
+| Current ratio (x) | 1.8 | 1.6 | 1.9 | 1.9 | 1.9 |
+| Quick ratio (x) | 1.1 | 1.0 | 1.2 | 1.0 | 1.1 |
+| Turnover & Leverage |  |  |  |  |  |
+| Gross asset T/O (x) | 21.4 | 23.2 | 23.4 | 26.7 | 31.7 |
+| Total asset T/O (x) | 0.7 | 0.7 | 0.7 | 0.7 | 0.7 |
+| Int. coverage ratio (x) | 2.6 | 4.7 | 5.2 | 6.1 | 8.4 |
+| Adj. debt/equity (x) | 0.3 | 0.1 | 0.2 | 0.1 | 0.1 |
+| Valuation |  |  |  |  |  |
+| EV/Sales (x) | 2.6 | 2.5 | 2.6 | 2.2 | 1.9 |
+| EV/EBITDA (x) | 32.1 | 23.3 | 19.9 | 16.6 | 13.5 |
+| P/E (x) | 54.3 | 23.9 | 28.7 | 24.0 | 19.0 |
+| P/BV (x) | 4.7 | 4.6 | 3.9 | 3.4 | 2.9 |

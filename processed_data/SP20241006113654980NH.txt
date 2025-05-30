@@ -1,0 +1,236 @@
+# Retail Equity Research
+## Narayana Hrudayalaya Ltd.
+
+### Healthcare Services
+
+**Stock Information:**
+- BSE CODE: 539551
+- NSE CODE: NH
+- BLOOMBERG CODE: NARH:IN
+- SENSEX: 76,693
+
+**Investment Details:**
+- Recommendation: **Accumulate**
+- 12 Months Investment Period
+- Rating as per Mid cap
+- CMP Rs.1,267
+- TARGET Rs. 1,455
+- RETURN 15% ↑
+- (Closing: 07-06-2024)
+
+
+Outlook for Success: Strategic Growth Initiatives
+Narayana Hrudayalaya Ltd. (NH) is a network of hospitals specialising in various medical fields, with locations in both India and the Cayman Islands.
+
+• NH reported a 10% increase in consolidated revenue, amounting to Rs. 5,018cr. for FY24, fuelled by better performance in both its Indian and Cayman operations
+
+• The ARPOB rose by 10% to Rs. 1.40cr. in FY24, attributed to improvements in specialties and the payer mix.
+
+• The EBITDA margin rose to 23% in FY24, an increase of 165 bps from 21.3% in FY23. This growth was achieved through cost optimization efforts, including digitization, business transformation, and strategic technology investments.
+
+• The company's growth potential in integrated care units and the upcoming launch of a new insurance business are promising indicators for its future success.
+
+• Considering the strategic expansion efforts, the positive impact of digital initiatives on cost reduction and growth, and an aggressive capex plan, we revise our target price to Rs. 1,455, based on a forward EV/EBITDA multiple of 20x for FY26E, and maintain an 'Accumulate' rating.
+
+Efficiency drives margin expansion.
+In FY24, NH reported consolidated revenue of Rs. 5,018cr, reflecting a solid 10% YoY increase, though this figure fell short of our estimates. Improved cost management and enhanced efficiency led to a remarkable 23% EBITDA margin, outperforming our forecast by 60 bps and demonstrating a 170 bps improvement compared to FY23, resulting in an EBITDA of Rs. 1,152cr. The company also achieved a PAT of Rs. 789cr, representing substantial 30% year-over-year growth. ARPOB increased by 10% YoY, rising from Rs. 1.35cr. in Q4 FY23 to Rs. 1.49cr in Q4FY24, driven by improvements in both specialties and the payer mix. Additionally, HCG Cayman maintained strong business performance, reporting quarterly revenue of $30.5mn and total annual revenue of $123.9mn.
+
+Cost optimization and digitization..
+The company's EBITDA increased to Rs. 1,152cr. in FY24, reflecting a robust 19% YoY growth compared to Rs. 966cr. in FY23. Additionally, the EBITDA margin improved to 23%, marking a significant 170 bps increase from the 21.3% margin in the previous year. This improvement can be attributed to cost optimization efforts driven by a focus on digitization, business transformation, and strategic investments in technology and throughput. Notably, the adoption of the ATHMA platform streamlined supply chain management across the group, while the nursing app NAMAH contributed to efficiency gains within the Narayana Health System.
+
+Capex boosts infrastructure and bed capacity
+For FY25, the company has allocated Rs. 1,700cr. for capital expenditure. The expansion plans primarily target centers in Bangalore and Kolkata. In Bangalore, the focus is on enhancing the existing Health City campus. Additionally ~Rs. 300cr. is set aside for routine biomedical and maintenance purposes, while an extra Rs. 250cr is earmarked for the new Cayman facility. Funding for this capital expenditure will be sourced from internal accruals (20%) and debt financing (80%). Management anticipates significant expansion, including completing construction and adding beds over the next three to four years.
+
+Outlook and valuation
+Heightened The Cayman and Indian operations of Narayana Hrudayalaya have experienced revenue growth due to ARPOB, resulting from an improved payer mix and strategic expansion of patient care. Ongoing digital initiatives aimed at enhancing efficiency and reducing costs will further support expanded patient services and contribute to future revenue streams and margin improvement. The integrated care units and the upcoming implementation plan of a new insurance business stream are positive indicators for the company's future success outlook. With an aggressive Capex plan in place, we maintain 'Accumulate' rating with a revised target price of Rs. 1,455 based on a 20x EV/EBITDA multiple for FY26E.
+
+
+Company Data
+| Metric | Value |
+|--------|--------|
+| Market Cap (Rs cr) | 25,426 |
+| Enterprise Value (Rs cr) | 25,615 |
+| Outstanding Shares (cr) | 20.4 |
+| Free Float (%) | 36.1 |
+| Dividend Yield (%) | 0.2 |
+| 52 week high (Rs) | 1,445 |
+| 52 week low (Rs) | 919 |
+| 6m average volume (cr) | 0.04 |
+| Beta | 0.63 |
+| Face value (Rs) | 10 |
+
+Shareholding (%)
+| Category | Q2FY23 | Q3FY24 | Q4FY24 |
+|----------|---------|---------|---------|
+| Promoters | 63.8 | 63.8 | 63.8 |
+| FPI's | 11.6 | 11.5 | 10.9 |
+| MFs/Institutions | 11.0 | 10.3 | 9.6 |
+| Public/Others | 13.6 | 14.4 | 15.7 |
+| Total | 100.0 | 100.0 | 100.0 |
+
+Price Performance
+| Metric | 3 Month | 6 Month | 1 Year |
+|--------|----------|----------|---------|
+| Absolute Return | 5.4% | 6.1% | 34.5% |
+| Absolute Sensex | 0.9% | 7.1% | 18.4% |
+| Relative Return | 4.5% | -1.0% | 16.2% |
+
+Consolidated (cr)
+| Metric | FY24A | FY25E | FY26E |
+|--------|--------|--------|--------|
+| Sales | 5,018 | 5,712 | 6,533 |
+| Growth (%) | 11 | 14 | 14 |
+| EBITDA | 1,152 | 1,331 | 1,563 |
+| EBITDA Margin(%) | 23.0 | 23.3 | 23.9 |
+| PAT Adj. | 789 | 784 | 899 |
+| Growth (%) | 30 | -1 | 15 |
+| Adj. EPS | 39 | 38 | 44 |
+| Growth (%) | 30 | -1 | 15 |
+| P/E | 32.2 | 32.5 | 28.3 |
+| P/B | 8.8 | 7.1 | 5.7 |
+| EV/EBITDA | 23.0 | 20.5 | 17.4 |
+| ROE (%) | 31.4 | 24.1 | 22.3 |
+| D/E | 0.50 | 0.65 | 0.53 |
+
+
+Quarterly Financials (Consolidated)
+
+Profit & Loss
+| Rs.cr | Q4FY24 | Q4FY23 | YoY Growth (%) | Q3FY24 | QoQ Growth (%) | FY24 | FY23 | YoY Growth (%) |
+|--------|---------|---------|----------------|---------|----------------|-------|-------|----------------|
+| Sales | 1,279 | 1,222 | 4.7 | 1,203.6 | 6.3 | 5,018 | 4,525 | 10.9 |
+| EBITDA | 295 | 276 | 6.8 | 279 | 5.6 | 1,152 | 966 | 19.3 |
+| EBITDA margins(%) | 23.0 | 22.5 | 45bps | 23.2 | -15bps | 23.0 | 21.3 | 170bps |
+| Depreciation | 65 | 57 | 13.1 | 63 | 2.5 | 242 | 210 | 15.3 |
+| EBIT | 230 | 218 | 5.2 | 216 | 6.5 | 910 | 756 | 20.5 |
+| Interest | 28 | 21 | 36.2 | 25 | 11.8 | 97 | 69 | 39.5 |
+| Other Income | 24 | 15 | 62.7 | 18 | 33.4 | 75 | 65 | 14.9 |
+| Exceptional Items | 0 | 0 |  | 0 |  | -1 | 0 |  |
+| PBT | 226 | 213 | 6.2 | 209 | 8.2 | 889 | 752 | 18.2 |
+| Tax | 35 | 40 | -13.4 | 36 | -2.9 | 99 | 145 | -31.8 |
+| Reported PAT | 191 | 172 | 10.7 | 188 | 1.4 | 789 | 606 | 30.2 |
+| Adjustments | 0 | 0 |  | 0 |  | -1 | 0 |  |
+| Adj PAT | 191 | 172 | 10.7 | 188 | 1.4 | 789 | 606 | 30.2 |
+| No. of Shares | 20.4 | 20.4 |  | 20.4 | 0.0 | 19.4 | 20.4 |  |
+| EPS (Rs) | 9.0 | 8.0 | 10.7 | 9.0 | 1.4 | 39.0 | 30.0 | 30.2 |
+
+Change in Estimates
+| Year / Rs cr | Old estimates |  | New estimates |  | Change (%) |  |
+|--------------|---------------|---------------|---------------|---------------|------------|------------|
+|              | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Revenue | 5,838 | 6,583 | 5,712 | 6,533 | -2.20 | -0.77 |
+| EBITDA | 1,308 | 1,530 | 1,331 | 1,563 | 1.74 | 2.13 |
+| Margin (%) | 22.4 | 23.2 | 23.3 | 23.9 | 90bps | 72bps |
+| Adj. PAT | 761 | 885 | 784 | 899 | 3.08 | 1.58 |
+| EPS | 37 | 43 | 38 | 44 | 3.92 | 2.48 |
+Consolidated Financials
+
+PROFIT & LOSS
+| Y.E March (Rs cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Sales | 3,701 | 4,525 | 5,018 | 5,712 | 6,533 |
+| % change | 43 | 22 | 11 | 14 | 14 |
+| EBITDA | 654 | 966 | 1,152 | 1,331 | 1,563 |
+| % change | 259 | 48 | 19 | 15 | 17 |
+| Depreciation | 142 | 210 | 242 | 311 | 385 |
+| EBIT | 512 | 756 | 910 | 1,019 | 1,178 |
+| Interest | 66 | 69 | 97 | 167 | 203 |
+| Other Income | 35 | 65 | 75 | 87 | 101 |
+| PBT | 480 | 752 | 889 | 939 | 1,077 |
+| % change | -6,589 | 57 | 18 | 6 | 15 |
+| Tax | 88 | 145 | 99 | 155 | 178 |
+| Tax Rate (%) | 25.5 | 19.3 | 11.1 | 16.5 | 16.5 |
+| Reported PAT | 384 | 606 | 789 | 784 | 899 |
+| Adj.* | 0 | 0 | 0 | 0 | 0 |
+| Adj. PAT | 384 | 606 | 789 | 784 | 899 |
+| % change | 1,297 | 58 | 30 | -1 | 15 |
+| No. of shares (cr) | 20 | 20 | 20 | 20 | 20 |
+| Adj EPS (Rs) | 19 | 30 | 39 | 38 | 44 |
+| % change | 1,297 | 58 | 30 | -1 | 15 |
+| DPS (Rs) | 0 | 1 | 4 | 3 | 3 |
+
+BALANCE SHEET
+| Y.E March (Rs cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Cash | 172 | 380 | 416 | 510 | 636 |
+| Accounts Receivable | 437 | 432 | 422 | 548 | 644 |
+| Inventories | 59 | 72 | 110 | 94 | 100 |
+| Other Curr Assets | 170 | 314 | 582 | 662 | 750 |
+| Investments | 132 | 252 | 844 | 945 | 1,041 |
+| Gross Fixed Assets | 3,158 | 3,670 | 4,227 | 5,732 | 6,582 |
+| Net Fixed Assets | 1,876 | 2,053 | 2,400 | 3,536 | 4,048 |
+| CWIP | 63 | 259 | 514 | 670 | 555 |
+| Intangible Assets | 109 | 283 | 251 | 308 | 362 |
+| Def. Tax (Net) | 1 | 6 | 5 | 5 | 5 |
+| Other Assets | 111 | 112 | 79 | 103 | 63 |
+| Total Assets | 3,130 | 4,162 | 5,625 | 7,382 | 8,204 |
+| Current Liabilities | 626 | 799 | 789 | 841 | 808 |
+| Provisions | 69 | 83 | 91 | 94 | 94 |
+| Debt Funds | 545 | 762 | 1,444 | 2,360 | 2,358 |
+| Total Liabilities | 401 | 385 | 417 | 479 | 492 |
+| Equity Capital | 204 | 204 | 204 | 204 | 204 |
+| Reserves & Surplus | 1,284 | 1,927 | 2,679 | 3,403 | 4,240 |
+| Shareholder's Fund | 1,489 | 2,131 | 2,884 | 3,607 | 4,445 |
+| Total Liabilities | 3,130 | 4,162 | 5,625 | 7,382 | 8,204 |
+| BVPS | 68 | 90 | 129 | 161 | 197 |
+
+CASH FLOW
+| Y.E March (Rs cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Net inc.+ Depn. | 526 | 816 | 242 | 1,251 | 1,461 |
+| Non-cash adj. | 82 | 113 | 62 | -242 | -279 |
+| Changes in W.C | -152 | 105 | -15 | -134 | -216 |
+| CF-Operation | 485 | 1,085 | 1,066 | 1,042 | 1,169 |
+| Capital exp. | -250 | -521 | -971 | -1,661 | -735 |
+| Change in inv. | -27 | -201 | -582 | -125 | -156 |
+| CF - investment | -267 | -1,174 | -1,458 | -1,698 | -790 |
+| Issue of equity | 0 | 0 | 0 | 0 | 0 |
+| Issue/repay debt | -68 | 208 | 360 | 916 | -2 |
+| Dividends paid | 0 | -20 | -51 | -61 | -61 |
+| Other finance/CF | -91 | -100 | 171 | -105 | -190 |
+| CF - Finance | -159 | 88 | 480 | 750 | -253 |
+| Chg. in cash | 59 | -2 | 97 | 94 | 126 |
+| Closing cash | 172 | 380 | 416 | 510 | 636 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|--------|--------|
+| Profitab. & Return |  |  |  |  |  |
+| EBITDA margin (%) | 17.7 | 21.3 | 23.0 | 23.3 | 23.9 |
+| EBIT margin (%) | 13.8 | 16.7 | 18.1 | 17.8 | 18.0 |
+| Net profit mrgn(%) | 10.4 | 13.4 | 15.7 | 13.7 | 13.8 |
+| ROE (%) | 29.4 | 33.5 | 31.5 | 24.2 | 22.3 |
+| ROCE (%) | 20.4 | 22.5 | 18.8 | 15.6 | 15.9 |
+| W.C & Liquidity |  |  |  |  |  |
+| Receivables (days) | 35 | 35 | 31 | 31 | 33 |
+| Inventory (days) | 5 | 5 | 7 | 7 | 5 |
+| Payables (days) | 50 | 56 | 60 | 56 | 46 |
+| Current ratio(x) | 1.3 | 1.5 | 1.9 | 2.2 | 2.6 |
+| Quick ratio (x) | 1.0 | 1.0 | 1.1 | 1.3 | 1.6 |
+| Turnover &Leverage |  |  |  |  |  |
+| Gross asset T/O (x) | 1.4 | 1.5 | 1.5 | 1.2 | 1.2 |
+| Total asset T/O (x) | 1.2 | 1.1 | 0.9 | 0.8 | 0.8 |
+| Int. covge. ratio (x) | 7.7 | 10.9 | 9.4 | 6.1 | 5.8 |
+| Adj. debt/equity (x) | 0.4 | 0.4 | 0.5 | 0.7 | 0.5 |
+| Valuation |  |  |  |  |  |
+| EV/Sales (x) | 6.7 | 5.5 | 5.3 | 4.8 | 4.2 |
+| EV/EBITDA (x) | 38.1 | 25.8 | 23.0 | 20.5 | 17.4 |
+| P/E (x) | 63.9 | 40.5 | 32.2 | 32.5 | 28.3 |
+| P/BV (x) | 16.5 | 11.5 | 8.8 | 7.1 | 5.7 |
+Recommendation Summary (last 3 years)
+| Dates | Rating | Target |
+|-------|---------|---------|
+| 9th March 2023 | Accumulate | 911 |
+| 13th June 2023 | Hold | 1,029 |
+| 31st August 2023 | Accumulate | 1,158 |
+| 2nd January 2024 | Accumulate | 1,331 |
+| 10th June 2024 | Accumulate | 1,455 |
+
+Investment Criteria
+| Ratings | Large caps | Midcaps | Small caps |
+|---------|------------|----------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | Upside is between 0% - 10% | Upside is between 10% - 15% | Upside is between 10% - 20% |
+| Hold | Upside is between 0% - 10% | Upside is between 0% - 10% | Upside is between 0% - 10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral |   |   |   |

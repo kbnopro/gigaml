@@ -1,0 +1,245 @@
+# TTK Prestige Ltd.
+## Kitchen Appliances
+
+### Company Information
+- **BSE CODE**: 517506
+- **NSE CODE**: TTKPRESTIG
+- **Bloomberg CODE**: TTKPT:IN
+- **SENSEX**: 76,811
+
+### Investment Details
+- **Recommendation**: BUY
+- **Investment Period**: 12Months
+- **CMP**: Rs. 751
+- **TARGET**: Rs. 902
+- **RETURN**: 20% ↑
+- **Closing**: 13-06-24
+- **Rating**: as per Small Cap
+
+### Status Indicators
+- **KEY CHANGES**: →
+- **TARGET**: ↓
+- **RATING**: ↔
+- **EARNINGS**: ↓
+
+
+Demand to improve...
+
+TTK Prestige Ltd. (TTK), the flagship company of the TTK group, mainly focuses on the kitchen appliances segment. The company operates five manufacturing plants and has strong distribution networks.
+
+• We revised our target price to Rs. 902 (earlier Rs. 950) and maintain Buy rating considering the positive demand outlook.
+• Revenue grew by 2% YoY in Q4FY24 (-8% YoY in exports & 3%YoY in domestic). Exports were impacted due to inflationary pressure.
+• Gross margin improved by a 100bps, aided by reduction in input prices, however, operating margin declined by 70bps YoY to 12.4% due to higher other expenses.
+• The recently acquired modular kitchen business (Ultrafresh) has recorded a sale of Rs. 31cr in FY24 (Rs. 23cr YoY) and has a total of 147 studios now vs 142 YoY.
+• Decreasing inflation will improve discretionary spending, while strong growth in real estate and the GOI's push for affordable housing are expected to improve demand for kitchen appliances, positive for TTK.
+• Expect Revenue/EBITDA/PAT to grow at 9%/17%/17% CAGR over FY24-FY26E. We value TTK at 41x FY26E EPS.
+
+Modest revenue growth due to pressure on discretionary spending
+
+For Q4FY24, consolidated revenue grew only marginally by 2%YoY due to tepid demand amidst inflationary pressure. Domestic business grew by 3%YoY, while export business declined by ~8% YoY to Rs.13.5cr due to inflationary pressure in global markets. Going forward, exports are expected to improve, aided by decreasing global inflation and new client additions (in the European market). Domestically, decreasing inflation will improve discretionary spending, while strong growth in real estate and GOI's push for affordable housing are expected to improve demand for kitchen appliances which is positive for TTK. TTK has introduced 27 new SKUs during the quarter and is slated to launch ~90 new SKUs in Q1FY25. General trade continues to struggle while e-commerce and the company's own exclusive retail channel have done well. Amidst increased competition, TTK has maintained its market share in various product categories due to its well-established brand, extensive distribution network, and diverse range of products. Additionally, the company is actively pursuing a sub-segmentation strategy to further enhance its market share across different product categories. TTK's Judge brand caters to the lower price segment, while the company is planning to launch a new premium brand. We expect a revenue CAGR of ~9% over FY24-FY26E.
+
+Decline in input prices will benefit margins going forward.
+
+The gross margin improved by 100bps YoY due to a reduction in input prices, while EBITDA margin declined by 70bps YoY to 12.4% due to higher other expenses. Raw material prices have witnessed a surge recently, which may limit margin improvement in the near term. However, a strong demand outlook is expected to support margins in the long-term as TTK has strong pricing power.
+
+Valuation & Outlook:
+
+Barring short-term strains on demand and margins, the long-term outlook remains positive given lowering inflation, improvements in the real estate sector and a strong GoI focus on housing. This, along with TTK's strong brand recall, augurs well for the company. The stock currently trades at ~38x 1Yr Fwd P/E. We value TTK at 41x FY26E EPS (5Yr avg=42x) to arrive at a revised target of Rs. 902, maintain BUY rating.
+
+Vincent K A
+Research Analyst
+
+
+| Company Data | |
+|---|---|
+| Market Cap (Rs.cr) | 10,410 |
+| Enterprise Value (Rs.cr) | 10,259 |
+| Outstanding Shares (cr) | 13.9 |
+| Free Float | 29% |
+| Dividend Yield | 0.80% |
+| 52 week high (Rs.) | 832 |
+| 52 week low (Rs.) | 647 |
+| 6m average volume (Lakhs) | 0.98 |
+| Beta | 0.7 |
+| Face value Rs. | 1 |
+
+| Shareholding (%) | Q2FY24 | Q3FY24 | Q4FY24 |
+|---|---|---|---|
+| Promoters | 70.4 | 70.4 | 70.4 |
+| FII's | 8.0 | 6.7 | 6.8 |
+| MFs/Institutions | 13.4 | 14.6 | 14.7 |
+| Public | 7.5 | 7.6 | 7.5 |
+| Others | 0.7 | 0.7 | 0.7 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promotor pledge | Nil | Nil | Nil |
+
+| Price Performance | 3 Month | 6 Month | 1 Year |
+|---|---|---|---|
+| Absolute Return | 7.8% | 0.1% | 4.0% |
+| Absolute Sensex | 5.7% | 7.5% | 21.5% |
+| Relative Return* | 2.1% | -7.4% | -17.5% |
+
+| Consolidated (cr) | FY24A | FY25E | FY26E |
+|---|---|---|---|
+| Sales | 2,678 | 2,904 | 3,153 |
+| Growth (%) | -3.6 | 8.5 | 8.6 |
+| EBITDA | 304 | 355 | 412 |
+| EBITDA Margin (%) | 11.3 | 12.2 | 13.1 |
+| Adj. PAT | 225 | 258 | 306 |
+| Growth (%) | -11.6 | 14.3 | 19.0 |
+| Adj. EPS | 16.3 | 18.6 | 22.1 |
+| Growth (%) | -11.6 | 14.3 | 19.0 |
+| P/E | 46.2 | 40.4 | 34.0 |
+| P/B | 4.9 | 4.5 | 4.0 |
+| EV/EBITDA | 33.5 | 28.1 | 23.7 |
+| ROE (%) | 11.1 | 11.6 | 12.5 |
+| D/E | 0.1 | 0.1 | 0.0 |
+
+
+Quarterly Financials (Consolidated)
+
+Profit & Loss
+| Rs (cr) | Q4FY24 | Q4FY23 | YoY Growth | Q3FY24 | QoQ Growth | FY24 | FY23 | YoY Growth |
+|---------|---------|---------|-------------|---------|-------------|------|------|------------|
+| Sales | 623 | 611 | 1.9% | 738 | -15.7% | 2,678 | 2,777 | -3.6% |
+| EBITDA | 77 | 80 | -3.8% | 85 | -9.3% | 304 | 356 | -14.8% |
+| EBITDA margins | 12.4% | 13.1% | -70bps | 11.5% | 90bps | 11.3% | 12.8% | -150bps |
+| Depreciation | 17 | 16 | 3.4% | 17 | -3.0% | 64 | 53 | 21.4% |
+| EBIT | 61 | 64 | -5.7% | 68 | -10.8% | 239 | 303 | -21.1% |
+| Interest | 5 | 3 | 48.4% | 3 | 52.8% | 13 | 8 | 68.1% |
+| Other Income | 19 | 17 | 9.3% | 18 | 3.2% | 75 | 46 | 65.0% |
+| Exceptional Items | 0 | 0 | 0.0% | 0 | 0.0% | 0 | 0 | 0.0% |
+| PBT | 75 | 78 | -4.5% | 83 | -10.1% | 301 | 341 | -11.7% |
+| Tax | 17 | 20 | -14.8% | 21 | -19.8% | 76 | 88 | -14.0% |
+| Share of profit from associates | 0 | 0 | NA | 0 | NA | 0 | 0 | NA |
+| Minority interest | 0 | 0 | NA | 0 | NA | 0 | 0 | NA |
+| Reported PAT | 57 | 58 | -1.0% | 62 | -6.7% | 225 | 253 | -10.8% |
+| Adjustments | 0 | 0 | 0.0% | 0 | 0.0% | 0 | 0 | 0.0% |
+| Adj PAT | 57 | 58 | -1.0% | 62 | -6.7% | 225 | 253 | -10.8% |
+| No. of Shares | 12 | 12 | 0.0% | 12 | 0.0% | 12 | 12 | 0.0% |
+| Adj EPS (Rs) | 4.1 | 4.2 | -1.0% | 4.4 | -6.7% | 16.3 | 18.2 | -10.8% |
+
+Change in Estimates
+| Year / Rs cr | Old estimates | | New estimates | | Change | |
+|--------------|---------------|---|---------------|---|---------|---|
+| | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Revenue | 3,263 | NA | 2,904 | 3,153 | -11.0% | NA |
+| EBITDA | 465 | NA | 355 | 412 | -23.6% | NA |
+| Margins | 14.3% | NA | 12.2% | 13.1% | -200bps | NA |
+| Adj. PAT* | 344 | NA | 258 | 306 | -25.1% | NA |
+| EPS | 24.8 | NA | 18.6 | 22.1 | -25.1% | NA |
+PROFIT & LOSS
+| Y.E March (Rs. cr) | FY21A | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|--------|
+| Revenue | 2,194 | 2,732 | 2,777 | 2,678 | 2,904 | 3,153 |
+| % change | 5.8 | 24.1 | 2.0 | -3.6 | 8.5 | 8.6 |
+| EBITDA | 321 | 426 | 359 | 304 | 355 | 412 |
+| % change | 27.6 | 32.6 | -15.8 | -15.3 | 16.9 | 16.2 |
+| Depreciation | 40 | 44 | 53 | 64 | 70 | 74 |
+| EBIT | 281 | 382 | 305 | 239 | 285 | 338 |
+| Interest | 5 | 6 | 8 | 13 | 12 | 11 |
+| Other Income | 29 | 35 | 46 | 75 | 73 | 85 |
+| PBT | 305 | 411 | 343 | 301 | 346 | 412 |
+| % change | 30.1 | 34.7 | -16.4 | -12.2 | 14.8 | 19.3 |
+| Tax | 81 | 105 | 88 | 76 | 88 | 106 |
+| Tax Rate | 26.6% | 25.6% | 25.7% | 25.2% | 25.5% | 25.7% |
+| Reported PAT | 237 | 305 | 255 | 225 | 258 | 306 |
+| Adj* | 13 | 0 | 0 | 0 | 0 | 0 |
+| Adj PAT | 224 | 305 | 255 | 225 | 258 | 306 |
+| % change | 21.4 | 36.4 | -16.6 | -11.6 | 14.3 | 19.0 |
+| No. of shares (cr) | 13.9 | 13.9 | 13.9 | 13.9 | 13.9 | 13.9 |
+| Adj EPS (Rs.) | 17.1 | 22.0 | 18.4 | 16.3 | 18.6 | 22.1 |
+| % change | 21.4 | 36.4 | -16.6 | -11.6 | 14.3 | 19.0 |
+| DPS (Rs.) | 4 | 5 | 3 | 3 | 3 | 3 |
+| CEPS (Rs.) | 19.0 | 25.2 | 22.2 | 20.9 | 23.7 | 27.5 |
+
+BALANCE SHEET
+| Y.E March (Rs. cr) | FY21A | FY22A | FY23A | FY24 | FY25E | FY26E |
+|-------------------|--------|--------|--------|-------|--------|--------|
+| Cash | 76 | 58 | 33 | 76 | 61 | 59 |
+| Accounts Receivable | 327 | 367 | 370 | 367 | 390 | 415 |
+| Inventories | 448 | 586 | 593 | 552 | 598 | 666 |
+| Other Cur. Assets | 161 | 425 | 654 | 633 | 635 | 642 |
+| Investments | 420 | 356 | 379 | 343 | 493 | 668 |
+| Gross Fixed Assets | 609 | 675 | 784 | 885 | 955 | 1,025 |
+| Net Fixed Assets | 441 | 462 | 519 | 556 | 555 | 551 |
+| CWIP | 18 | 7 | 10 | 10 | 10 | 10 |
+| Intangible Assets | 132 | 155 | 164 | 164 | 164 | 164 |
+| Def. Tax (Net) | 0 | 1 | 7 | 7 | 7 | 7 |
+| Other Assets | 52 | 57 | 32 | 88 | 95 | 104 |
+| Total Assets | 2,075 | 2,452 | 2,632 | 2,797 | 3,011 | 3,286 |
+| Current Liabilities | 452 | 592 | 520 | 460 | 514 | 561 |
+| Provisions | 0 | 1 | 2 | 2 | 2 | 3 |
+| Debt Funds | 84 | 92 | 131 | 179 | 129 | 99 |
+| Other Liabilities | 35 | 38 | 38 | 38 | 38 | 38 |
+| Equity Capital | 14 | 14 | 14 | 14 | 14 | 14 |
+| Reserves & Surplus | 1,491 | 1,716 | 1,925 | 2,101 | 2,310 | 2,568 |
+| Shareholder's Fund | 1,505 | 1,730 | 1,942 | 2,119 | 2,328 | 2,586 |
+| Total Liabilities | 2,075 | 2,452 | 2,632 | 2,797 | 3,011 | 3,286 |
+| BVPS (Rs.) | 108 | 124 | 139 | 152 | 167 | 186 |
+
+CASH FLOW
+| Y.E March (Rs. cr) | FY21A | FY22A | FY23A | FY24 | FY25E | FY26E |
+|-------------------|--------|--------|--------|-------|--------|--------|
+| Net inc.+ Depn. | 264 | 350 | 308 | 290 | 328 | 381 |
+| Non-cash adj. | -8 | -4 | 5 | 0 | 0 | 0 |
+| Other adjustments | 22 | 2 | -23 | 13 | 12 | 11 |
+| Changes in W.C | -50 | -81 | -114 | -51 | -24 | -59 |
+| CF: Operation | 289 | 294 | 199 | 252 | 316 | 332 |
+| Capital exp. | -28 | -42 | -68 | -101 | -70 | -70 |
+| Change in inv. | -89 | 65 | 84 | -94 | -150 | -175 |
+| Other invest CF | -66 | -244 | -173 | 0 | 0 | 0 |
+| CF - Investment | -184 | -221 | -157 | -195 | -220 | -245 |
+| Issue of equity | 0 | 0 | 0 | 0 | 0 | 0 |
+| Issue/repay debt | -25 | 8 | -16 | 48 | -50 | -30 |
+| Dividends paid | -55 | -76 | -49 | -49 | -49 | -49 |
+| Other finance CF | -2 | -6 | -3 | -13 | -12 | -11 |
+| CF - Finance | -82 | -91 | -67 | -14 | -110 | -89 |
+| Chg in cash | 23 | -18 | -25 | 43 | -14 | -2 |
+| Closing cash | 76 | 58 | 33 | 76 | 61 | 59 |
+
+RATIOS
+| Y.E March | FY21A | FY22A | FY23A | FY24 | FY25E | FY26E |
+|-----------|--------|--------|--------|-------|--------|--------|
+| Profitab. & Return | | | | | | |
+| EBITDA margin (%) | 14.6 | 15.6 | 12.9 | 11.3 | 12.2 | 13.1 |
+| EBIT margin (%) | 12.8 | 14.0 | 11.0 | 8.9 | 9.8 | 10.7 |
+| Net profit marg (%) | 10.2 | 11.2 | 9.2 | 8.4 | 8.9 | 9.7 |
+| ROE (%) | 15.9 | 18.9 | 13.9 | 11.1 | 11.6 | 12.5 |
+| ROCE (%) | 11.3 | 13.6 | 10.0 | 8.2 | 8.4 | 9.2 |
+| W.C & Liquidity | | | | | | |
+| Receivables (days) | 51.7 | 46.6 | 48.5 | 50.2 | 47.6 | 46.6 |
+| Inventory (days) | 76.4 | 69.3 | 77.5 | 78.1 | 72.3 | 73.2 |
+| Payables (days) | 61.4 | 71.1 | 73.3 | 59.6 | 56.1 | 57.4 |
+| Current ratio (x) | 3.1 | 2.8 | 3.6 | 3.8 | 4.1 | 4.3 |
+| Quick ratio (x) | 0.9 | 0.7 | 0.8 | 0.8 | 0.8 | 0.8 |
+| Turnover & Leverage | | | | | | |
+| Gross asset T.O (x) | 3.7 | 4.2 | 3.8 | 3.2 | 3.2 | 3.2 |
+| Total asset T.O (x) | 1.1 | 1.2 | 1.1 | 1.0 | 1.0 | 1.0 |
+| Int. coverage ratio (x) | 55.7 | 61.4 | 38.3 | 17.9 | 24.5 | 31.0 |
+| Adj. debt/equity (x) | 0.1 | 0.1 | 0.1 | 0.1 | 0.1 | 0.0 |
+| Valuation | | | | | | |
+| EV/Sales (x) | 4.6 | 3.7 | 3.7 | 3.8 | 3.4 | 3.1 |
+| EV/EBITDA (x) | 31.1 | 23.7 | 28.6 | 33.5 | 28.1 | 23.7 |
+| P/E (x) | 46.5 | 34.1 | 40.8 | 46.2 | 40.4 | 34.0 |
+| P/BV (x) | 6.9 | 6.0 | 5.4 | 4.9 | 4.5 | 4.0 |
+Recommendation Summary-(Last 3 Years)
+| Dates | Rating | Target |
+|---------|---------|---------|
+| 01-Nov-21 | Accumulate | 1,225 |
+| 02-March-22 | Buy | 975 |
+| 21-June-22 | Accumulate | 885 |
+| 09-Aug-22 | Accumulate | 1,028 |
+| 24-Nov-22 | Accumulate | 1,025 |
+| 22-March-23 | Buy | 857 |
+| 15-Sept-23 | Buy | 950 |
+| 14-June-24 | Buy | 902 |
+
+Investment Rating Criteria
+| Ratings | Large caps | Midcaps | Small Caps |
+|---------|------------|----------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | - | Upside is between 10%-15% | Upside is between 10%-20% |
+| Hold | Upside is between 0% -10% | Upside is between 0%-10% | Upside is between 0%-10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral | | | |

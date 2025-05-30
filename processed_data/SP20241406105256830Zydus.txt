@@ -1,0 +1,119 @@
+# Retail Equity Research
+## Zydus Wellness Ltd.
+
+### Company Details
+**Sector:** FMCG  
+**Rating:** Hold  
+**Investment Period:** 12 Months
+
+### Stock Information
+- **BSE Code:** 531335
+- **NSE Code:** ZYDUSWELL
+- **Bloomberg Code:** ZYWL:IN
+- **SENSEX:** 76,811
+
+### Investment Metrics
+**CMP:** Rs. 1,862  
+**Target:** Rs. 2,046  
+**Expected Return:** 10% ⬆️  
+*(Closing: 13-06-2024)*
+
+*Rating as per Small Cap*
+
+
+Healthy demand outlook and volume upturn...
+
+• In Q4FY24, topline grew 10% YoY to Rs.783cr due to growth in personal care & food and nutrition segment.
+
+• EBITDA grew 12% YoY to Rs.162cr and EBITDA margin improved marginally by 40bps YoY to 21%. Management expects margins to improve over the next two years.
+
+• PAT stood flat YoY at Rs.150cr due to higher interest and tax expenses.
+
+• Revenue is expected to grow at 11% CAGR over FY24-26E backed by new innovations and online & offline organised trade.
+
+• Management focuses on generating constant double-digit revenue growth through distributor expansion, consumer-centric innovations, and increased marketing activities. The company currently trades at 1 Yr Fwd PE of 30x. We value at 31x P/E (5Yr Avg = 31)on FY26E EPS of Rs.66 and recommend Hold rating on the stock with a target price of Rs.2,046.
+
+Topline led by healthy volume growth.....
+
+Topline grew 10% YoY to Rs.783cr due to sustained rise in sales volume. Food and nutrition categories grew 6% YoY, while the personal care segment grew 23% YoY in Q4FY24. The key brands such as Glucon-D, Sugar Free, Nycil, Everyuth Scrub maintained their leadership position in respective categories. Glucon D maintained its No.1 position with a 59.5% market share. Complan has started showing signs of revival in the latter half of the year from a slowdown last year. The Sugar Free brand retained its leadership in the sugar-substitute category with a 95.9% market share. Everyuth registered strong growth and continues to outpace segment growth. Nycil continues to be the No.1brand with a 35% market share in prickly heat powder. The company expects demand to pick up in the hope of a good monsoon and better macro-economic factors. Going ahead Revenue is expected to grow at 11% CAGR over FY24-26E backed by new innovations, online and offline organised trade and reduced cost.
+
+Slow rise in EBITDA margin; Focus on strengthening distribution....
+
+EBITDA margin improved marginally by 40bps YoY. Management expects margins to improve over the next two years on account of stable raw-material prices, cost efficiencies, and better operating leverage. PAT stood flat YoY at Rs. 150cr due to higher interest and tax expenses. The management is confident on regaining growth momentum and aimed at high single digit volume growth in FY25, led by innovation, distribution and its international foray and expect margins to revert over the next two years, aided by operating leverage and softer input prices.
+
+Outlook & Valuations
+
+Management anticipates double-digit revenue growth and margin expansion in FY25. In the medium term, the main focus is on generating constant double-digit revenue growth through distributor expansion, consumer-centric innovations, and increased marketing activities. The Scale-up of the international business and some of the new launches reaching maturity will improve growth prospects in the long run. Key brands of the company continue to maintain their strong leadership position and gain market share consistently. Margins are expected to improve with the correction in prices of key input materials. Muted performance in FY24 can be attributed to brand-specific issues, which dragged overall performance. The company currently trades at 1 Yr Fwd PE of 30x. We value at 31x (5Yr Avg = 31) and recommend Hold rating on the stock with a target price of Rs.2,046.
+
+
+Company Data
+| Metric | Value |
+|--------|--------|
+| Market Cap (Rs cr) | 11,463 |
+| Enterprise Value (Rs cr) | 11,471 |
+| Outstanding Shares (Rs cr) | 6.4 |
+| Free Float | 30.4% |
+| Dividend Yield | 0.3% |
+| 52 week high | 1,813 |
+| 52 week low | 1,425 |
+| 6m average volume (cr) | 0.044 |
+| Beta | 0.55 |
+| Face value (Rs) | 10 |
+
+Shareholding Pattern as on March-2024
+| Category | Percentage |
+|----------|------------|
+| Promoter | 69.6% |
+| FII's | 3.3% |
+| MF/Inst | 8.3% |
+| Public | 18.9% |
+
+Consolidated
+| (Rs.cr) | FY24A | FY25E | FY26E |
+|---------|--------|--------|--------|
+| Sales | 2,315 | 2,592 | 2,896 |
+| Growth (%) | 3 | 12 | 12 |
+| EBITDA | 308 | 418 | 503 |
+| Margin (%) | 13 | 16 | 17 |
+| PAT Adj | 267 | 394 | 422 |
+| Growth (%) | -14 | 48 | 7 |
+| Adj. EPS (Rs) | 42 | 62 | 66 |
+| Growth (%) | -16 | 48 | 7 |
+| P/E (x) | 43 | 29 | 27 |
+| P/B (x) | 2.0 | 2.0 | 1.9 |
+| EV/EBITDA (x) | 30 | 27 | 23 |
+| ROE (%) | 5.1 | 7.0 | 7.2 |
+
+
+Quarterly Financials (Consolidated)
+
+Profit & Loss
+| Rs (cr) | Q4FY24 | Q4FY23 | YoY Growth % | Q3FY24 | QoQ Growth % | Comments |
+|---------|---------|---------|--------------|---------|--------------|-----------|
+| Sales | 782.6 | 713.0 | 10 | 403.2 | 94.1 | Growth due to volume upturn of products |
+| EBITDA | 162.2 | 144.6 | 12 | 12.7 | 1177 | |
+| EBITDA margin(%) | 20.7 | 20.3 | 40bps | 3.1 | 1,760bps | Growth due to higher prices, softer input costs, and operating leverage |
+| Depreciation | 5.70 | 6.60 | -14 | 6.10 | -7 | |
+| EBIT | 156.5 | 138.0 | 13 | 6.6 | - | |
+| Interest | 6.10 | 5.20 | 17 | 6.30 | -3 | |
+| Other Income | 4.0 | 0.7 | 471 | 21.6 | -82 | |
+| Exceptional Items | 0 | 7 | | | | |
+| PBT | 154.4 | 126.3 | 22 | 3.7 | - | |
+| Tax | 4.10 | -19.00 | -122 | 3.70 | 21 | |
+| Share of profit from Associate | 0.0 | 0.0 | | | | |
+| Share of profit from joint venture | 0.0 | 0.0 | 0 | 0.0 | 0 | |
+| Reported PAT | 150.3 | 145.3 | 3 | 0.3 | - | |
+| Adjustments | | | | | | |
+| Adj PAT | 150.3 | 145.3 | 3 | 0.3 | - | PAT stood flat due to higher interest and tax expenses |
+| No. of Shares (Cr) | 6.4 | 6.4 | | 6.4 | | |
+| EPS (Rs) | 23.62 | 22.83 | 3 | 0.05 | - | |
+PRICE HISTORY (Last 3 Years)
+
+Investment Criteria
+| Ratings | Large caps | Midcaps | Small caps |
+|---------|------------|----------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | Upside is between 0% - 10% | Upside is between 10% - 15% | Upside is between 10% - 20% |
+| Hold | Upside is between 0% - 10% | Upside is between 0% - 10% | Upside is between 0% - 10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral |   |   |   |

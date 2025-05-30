@@ -1,0 +1,221 @@
+# Retail Equity Research
+
+## Indian Bank Ltd.
+### Banking
+
+**Stock Information:**
+- BSE CODE: 532814
+- BLOOMBERG CODE: INBK:IN
+- NSE CODE: INDIANB
+- SENSEX: 76,693
+
+**Investment Details:**
+- Rating: BUY
+- 12 Months Investment Period
+- Rating as per Mid Cap
+- CMP Rs. 535 *(Closing: 07-06-23)*
+- TARGET Rs. 619
+- RETURN 16% ↑
+
+
+Consistent performance to continue
+
+Indian Bank is a mid-sized bank in the public sector, with a loan book size of Rs.5.3 lakh crore and a deposit base of Rs.6.9 lakh crore. Allahabad Bank was merged with Indian Bank on April 1, 2020, and it operates through a network of 5,847 domestic branches.
+
+• Advances grew by 13%YoY, driven by 14% growth in RAM. Deposit growth lagged at 11%YoY, with the CASA account growing 8%YoY. The CASA ratio stands at 42.31%, up 1.17% sequentially.
+
+• Net Interest Income grew by 9.2%YoY, aided by robust advance growth, while NIM saw a slight increase to 3.52%.
+
+• Asset quality continues to improve, with GNPA/NPPA declining to 3.95%/0.43% from 4.47%/0.53%.
+
+• Provision coverage ratio (PCR) increased to 96.3% from 93.8% in last year.
+
+• We expect the current performance to continue in the near future. Therefore, we assign BUY rating with a target price of Rs. 619, based on 1.1x FY26E BVPS.
+
+Modest advance growth ; deposits lag
+
+Bank's total business grew by 12% YoY to Rs.12.22 lakh cr, with deposits growing at 11% YoY to Rs.6.88 lakh cr and advances at 13% YoY to Rs.5.34 lakh cr during Q4FY24. Advance growth was supported by 14% YoY growth in RAM, while corporate book which constitutes 37.8% of the book, grew by 10%. As of Q4FY24, total RAM advances stood at 62.2% of gross domestic advances. CASA deposit showcased a dismal growth of 8% YoY, with the savings account growing at 7% and the current account at 9%. The CASA ratio of the bank came up to 42.3%, compared to 41.1% last quarter due to sequential increase in CASA book. We expect advances to grow at 15% CAGR over FY25-26E, while deposits are estimated to grow at 13% during the same period.
+
+Consistently improving ROA
+
+Indian Bank displayed strong business momentum during Q4FY24, with Net Interest Income (NII) growing at 9.2%YoY as interest income grew by 19.4% YoY while interest expenses grew by 28%YoY. NIM stood almost flat sequentially with a 3bps growth to 3.52% as yield on advances expanded by 3bps to 8.81% while cost of funds grew by 4bps to 5.13%. The cost-to-Income ratio of the bank stood at 48% during Q4 compared to 46.9% during Q3 and 46.5% in Q4FY23. The provision for the quarter stood at Rs.1,248cr compared to Rs.2,565cr in Q4FY23. The bank reported PAT of Rs.2,247cr registering a growth of 55% YoY. We expect the bank to maintain the ROA above 1% during FY25-26.
+
+Improving asset quality with controlled slippages
+
+The NPA levels have shown improvement, as GNPA stands at 3.95% compared to 4.47% in the previous quarter. NNPA has been significantly reduced and currently stands at 0.43%, down from 0.53% in Q3. The slippage ratio of the bank has improved, declining to 1.1% from 1.3% in Q3. This continuous improvement is expected to further reduce credit costs.
+
+Outlook and valuation
+
+The bank's impressive progress in enhancing asset quality and other business metrics, including margins, is expected to continue in the near future. Therefore, we assign BUY rating with a target price of Rs.619, based on 1.1x FY26 BVPS.
+
+
+Company Data
+| Parameter | Value |
+|-----------|--------|
+| Market Cap (Rs cr) | 72,487 |
+| Outstanding Shares (cr) | 135 |
+| Free Float (%) | 26 |
+| Dividend Yield(%) | 2.3 |
+| 52 week high (Rs) | 626 |
+| 52 week low (Rs) | 276 |
+| 6m average volume (cr) | 0.31 |
+| Beta | 1.2 |
+| Face value (Rs) | 10 |
+
+Shareholding (%)
+| Category | Q2FY24 | Q3FY24 | Q4FY24 |
+|----------|---------|---------|---------|
+| Promoters | 79.9 | 73.8 | 73.8 |
+| FII's | 4.3 | 5.9 | 5.3 |
+| MFs/Institutions | 11.8 | 15.9 | 17.0 |
+| Public | 4.0 | 4.4 | 3.9 |
+| Total | 100 | 100 | 100 |
+| Promoter pledge | Nil | Nil | Nil |
+
+Price Performance
+| Parameter | 3 Month | 6 Month | 1 Year |
+|-----------|---------|---------|---------|
+| Absolute Return | -2.4% | 21.7% | 88.5% |
+| Absolute Sensex | -2.7% | 3.7% | 14.8% |
+| Relative Return* | 0.3% | 18.0% | 73.7% |
+
+Standalone (cr)
+| Parameter | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|
+| NII | 23,273 | 26,923 | 32,200 |
+| Growth(%) | 15.1 | 15.7 | 19.6 |
+| NIM(%) | 3.3 | 3.3 | 3.5 |
+| Provisions | 5,888 | 6,673 | 8,323 |
+| Adj. PAT | 8,063 | 9,549 | 11,093 |
+| Growth(%) | 52.7 | 18.4 | 16.2 |
+| Adj. EPS | 63.2 | 70.9 | 82.4 |
+| Growth(%) | 49.1 | 12.1 | 16.2 |
+| P/E | 8.60 | 7.26 | 6.25 |
+| BVPS | 433.5 | 492.4 | 560.7 |
+| Growth(%) | 12.5 | 13.6 | 13.9 |
+| Adj.BVPS | 417.0 | 471.7 | 539.6 |
+| Growth(%) | 18.2 | 13.1 | 14.4 |
+| P/B | 1.19 | 1.05 | 0.92 |
+| ROA(%) | 1.07 | 1.13 | 1.17 |
+| ROE(%) | 15.16 | 15.31 | 15.64 |
+
+
+Quarterly Financials (Standalone)
+| (Rs cr) | Q4FY24 | Q3FY24 | QoQ Growth (%) | Q4FY23 | YoY Growth (%) | FY24 | FY23 | YoY Growth (%) |
+|---------|---------|---------|----------------|---------|----------------|-------|-------|----------------|
+| Interest Income | 14,624 | 14,198 | 3.0 | 12,244 | 19.4 | 55,615 | 44,942 | 23.7 |
+| Interest Expense | 8,609 | 8,383 | 2.7 | 6,736 | 27.8 | 32,341 | 24,717 | 30.8 |
+| Net Interest Income (NII) | 6,015 | 5,814 | 3.5 | 5,508 | 9.2 | 23,273 | 20,225 | 15.1 |
+| Fee and Other Income | 2,263 | 1,902 | 19.0 | 1,994 | 13.5 | 7,867 | 7,143 | 10.1 |
+| Total Income | 8,278 | 7,716 | 7.3 | 7,502 | 10.3 | 31,140 | 27,369 | 13.8 |
+| Expenditure | 3,973 | 3,619 | 9.8 | 3,487 | 13.9 | 14,300 | 12,098 | 18.2 |
+| Pre-Provision Profit | 4,305 | 4,097 | 5.1 | 4,016 | 7.2 | 16,840 | 15,271 | 10.3 |
+| Provision | 1,248 | 1,349 | -7.5 | 2,563 | -51.3 | 5,888 | 9,356 | -37.1 |
+| PBT | 3,057 | 2,748 | 11.3 | 1,453 | 110.5 | 10,951 | 5,914 | 85.2 |
+| Tax | 810 | 628 | 28.9 | 5 | 15216.3 | 2,888 | 633 | -99.2 |
+| Reported PAT | 2,247 | 2,119 | 6.0 | 1,447 | 55.3 | 8,063 | 5,282 | 52.7 |
+| Adjustment | - | - | - | - | - | - | - | - |
+| Adj. PAT | 2,247 | 2,119 | 6.0 | 1,447 | 55.3 | 8,063 | 5,282 | 52.7 |
+| Diluted EPS (Rs) | 16.7 | 16.8 | -0.6 | 11.6 | 43.5 | 63.2 | 42.4 | 49.1 |
+
+Change in Estimates
+| Year / Rs cr | Old Estimates | Old Estimates | New Estimates | New Estimates | Change(%) | Change(%) |
+|--------------|---------------|---------------|---------------|---------------|------------|------------|
+| | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Net Interest Income (NII) | 24,962 | - | 26,923 | 32,200 | 7.9 | - |
+| Net Interest Margin (%) | 3.2 | - | 3.3 | 3.5 | 0.1bps | - |
+| Pre-Provision Profit | 18,948 | - | 19,405 | 23,115 | 2.4 | - |
+| Adj. PAT | 8,054 | - | 9,549 | 11,093 | 18.6 | - |
+| Diluted EPS (Rs) | 64.7 | - | 70.9 | 82.4 | 9.6 | - |
+PROFIT & LOSS
+| Y.E March (Rs cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Interest Income | 38,856 | 44,942 | 55,615 | 62,594 | 69,671 |
+| Interest Expense | 22,128 | 24,717 | 32,341 | 35,671 | 37,470 |
+| Net Int. Income | 16,728 | 20,225 | 23,273 | 26,923 | 32,200 |
+| Change(%) | 4.8 | 20.9 | 15.1 | 15.7 | 19.6 |
+| Non Int. Income | 6,915 | 7,143 | 7,867 | 8,496 | 9,091 |
+| Operating Income | 23,643 | 27,369 | 31,140 | 35,419 | 41,291 |
+| Change(%) | 10.9 | 15.8 | 13.8 | 13.7 | 16.6 |
+| Operating Exp. | 10,926 | 12,098 | 14,300 | 16,014 | 18,176 |
+| Pre Prov. Profit | 12,717 | 15,271 | 16,840 | 19,405 | 23,115 |
+| Prov. & Conting. | 9,513 | 9,356 | 5,888 | 6,673 | 8,323 |
+| PPT | 3,204 | 5,914 | 10,951 | 12,732 | 14,791 |
+| Change(%) | 10.3 | 84.6 | 85.2 | 16.3 | 16.2 |
+| Tax | -741 | 633 | 2,888 | 3,183 | 3,698 |
+| Tax Rate(%) | -23.1 | 10.7 | 26.4 | 25.0 | 25.0 |
+| Reported PAT | 3,945 | 5,282 | 8,063 | 9,549 | 11,093 |
+| Adj* | - | - | - | - | - |
+| Adj. PAT | 3,945 | 5,282 | 8,063 | 9,549 | 11,093 |
+| Change(%) | 31.3 | 33.9 | 52.7 | 18.4 | 16.2 |
+| No. of shares (mn) | 125 | 125 | 135 | 135 | 135 |
+| EPS (Rs) | 31.7 | 42.4 | 63.2 | 70.9 | 82.4 |
+| Change(%) | 19.1 | 33.9 | 49.1 | 12.1 | 16.2 |
+| DPS (Rs) | 2.0 | 6.5 | 8.6 | 12.0 | 14.0 |
+
+BALANCE SHEET
+| Y.E March (Rs cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Cash | 58,555 | 32,693 | 32,703 | 51,235 | 59,711 |
+| Loans & Advances | 389,186 | 449,297 | 514,889 | 597,271 | 692,835 |
+| Investments | 174,559 | 185,988 | 212,554 | 218,931 | 232,067 |
+| Gross Fixed Assets | 11,486 | 12,319 | 13,662 | 14,162 | 14,662 |
+| Net Fixed Assets | 7,684 | 7,459 | 7,515 | 7,389 | 7,240 |
+| Other Assets | 20,324 | 17,624 | 15,551 | 17,609 | 19,792 |
+| Total Assets | 671,668 | 710,501 | 792,619 | 892,435 | 1,011,646 |
+| Deposits | 593,618 | 621,166 | 688,000 | 774,000 | 878,490 |
+| Debt Funds | 17,144 | 22,073 | 23,131 | 24,288 | 25,503 |
+| Other Liabilities & Provision | 17,197 | 19,289 | 23,100 | 27,826 | 32,125 |
+| Equity Capital | 1,245 | 1,245 | 1,347 | 1,347 | 1,347 |
+| Reserves & Surplus | 42,463 | 46,727 | 57,041 | 64,974 | 74,181 |
+| Shareholder's Funds | 43,709 | 47,973 | 58,388 | 66,321 | 75,528 |
+| Total Liabilities | 671,668 | 710,501 | 792,619 | 892,435 | 1,011,646 |
+| BVPS (Rs) | 351 | 385 | 433 | 492 | 561 |
+| Change(%) | 3.2 | 9.8 | 12.5 | 13.6 | 13.9 |
+| Adj. BVPS (Rs) | 280 | 353 | 417 | 472 | 540 |
+| Change(%) | 20.9 | 26.0 | 18.2 | 13.1 | 14.4 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|------------|--------|--------|--------|--------|--------|
+| Profitab. & Return |  |  |  |  |  |
+| Interest yield (%) | 6.5 | 6.7 | 7.3 | 7.8 | 7.7 |
+| Cost of funds (%) | 3.8 | 4.1 | 4.5 | 4.7 | 4.4 |
+| Spread (%) | 2.6 | 2.6 | 2.8 | 3.0 | 3.3 |
+| NIM (%) | 2.6 | 2.9 | 3.3 | 3.3 | 3.5 |
+| ROE (%) | 9.6 | 11.5 | 15.2 | 15.3 | 15.6 |
+| ROA(%) | 0.6 | 0.8 | 1.1 | 1.1 | 1.2 |
+| Business Growth (yoy) |  |  |  |  |  |
+| Loans & Advances (%) | 6.5 | 13.9 | 12.7 | 14.6 | 15.4 |
+| Deposits (%) | 10.3 | 4.6 | 10.8 | 12.5 | 13.5 |
+| Operating Ratios |  |  |  |  |  |
+| Cost to Income (%) | 46.2 | 44.2 | 45.9 | 45.2 | 44.0 |
+| CASA (%) | 41.8 | 42.0 | 40.8 | 38.9 | 40.6 |
+| Asset Quality |  |  |  |  |  |
+| GNPA (%) | 8.5 | 6.0 | 4.0 | 3.8 | 3.9 |
+| NNPA (%) | 2.1 | 0.9 | 0.4 | 0.5 | 0.5 |
+| Capital Adequacy |  |  |  |  |  |
+| CAR (%) | 16.5 | 16.8 | 16.5 | 16.3 | 16.1 |
+| Valuation ratios |  |  |  |  |  |
+| P/E (x) | 16.6 | 12.4 | 8.8 | 7.4 | 6.4 |
+| P/B (x) | 1.5 | 1.4 | 1.2 | 1.1 | 0.9 |
+| Adj. P/B (x) | 1.9 | 1.5 | 1.3 | 1.1 | 1.0 |
+Recommendation Summary (last 3 years)
+| Dates | Rating | Target |
+|------------|------------|--------|
+| 08 June 21 | Buy | 175 |
+| 09 November 21 | Accumulate | 201 |
+| 18 May 22 | Accumulate | 173 |
+| 06 August 22 | Accumulate | 200 |
+| 10 November 22 | Sell | 233 |
+| 04 September 23 | Sell | 323 |
+| 10 June 24 | Buy | 619 |
+
+Investment Criteria
+| Ratings | Large caps | Midcaps | Small Caps |
+|------------|------------|------------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | - | Upside is between 10%-15% | Upside is between 10%-20% |
+| Hold | Upside is between 0% - 10% | Upside is between 0%-10% | Upside is between 0%-10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral | | | |

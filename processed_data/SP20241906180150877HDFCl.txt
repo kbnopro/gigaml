@@ -1,0 +1,244 @@
+# HDFC Life Insurance Company Ltd
+## Retail Equity Research
+
+### Company Information
+- **Sector:** Life Insurance
+- **BSE CODE:** 540777
+- **NSE CODE:** HDFCLIFE
+- **Bloomberg CODE:** HDFCLIFE:IN
+- **SENSEX:** 77,338
+
+### Investment Details
+- **Rating:** BUY
+- **Investment Period:** 12 Months
+- **CMP:** Rs. 596
+- **TARGET:** Rs. 710
+- **RETURN:** 19%
+- **Closing Date:** 19-06-24
+- **Rating Category:** Large Cap
+
+### Market Indicators
+- **KEY CHANGES:** ↑
+- **TARGET:** ↑
+- **RATING:** ↑
+- **EARNINGS:** ↑
+
+
+Decent results, outlook positive
+
+HDFC Life Insurance Co Ltd (HDFC Life), a subsidiary of HDFC Bank, provides insurance services — life, health, property and automobile protection, among others.
+
+• In Q4FY24, HDFC Life reported a net premium growth of 5.5% YoY to Rs. 20,488cr. Decline in new business premium was offset by a growth in renewal premium.
+
+• HDFC Life reported a value of new business (VNB) of Rs. 3,501cr (-4.7% YoY). Also, the VNB margin contracted 130bps to 26.3% owing to unfavourable product mix and jump in commission expenses. AUM, however, increased 22.4% YoY to Rs. 2,92,220cr.
+
+• The management is optimistic of achieving 15% YoY growth in retail and total annualised premium equivalent (APE) in FY25. It expects to drive long-term growth by increasing bancassurance share in the channel mix and maintaining balanced product mix. Increasing number of agents and expanding branch network auger well for its future performance. Thus, we upgrade our rating on the stock to BUY from HOLD with a revised target price of Rs. 710 based on 2.25x FY26E embedded value (EV) per share.
+
+Adverse product mix & rise in commission expense impact margin
+
+HDFC Life's gross premium rose 6.7% YoY to Rs. 20,935cr in Q4FY24. First-year and single premiums declined 10.2% YoY and 6.6% YoY, respectively. However, renewal premium grew 23.3% YoY to Rs. 11,406cr led by stable persistency ratio. 13th/61st persistency ratio stood at 86.2%/ 52.0%, compared to 85.3%/ 52.5% in prior year period. The APE further declined 8.4% YoY to Rs. 4,727cr. VNB fell 4.7% YoY to Rs. 3,501cr. As a result, VNB margin contracted 130bps YoY to 26.3% owing to increasing share of unit-linked insurance product (ULIP) in the product mix. Commission expenses shot up 94.5% YoY, which further impacted the margin growth. Profit after tax grew 14.8% YoY to Rs. 412cr.
+
+Key concall highlights
+
+• Bancassurance share in channel mix of the company increased to 65% in FY24 vs 56% in FY23. Direct/ agency/ broker shares in the mix fell to 11%/ 18%/ 6% in FY24 from 13%/ 20%/ 11% in FY23. The company added ~80,000 agents in FY24 to enhance reach.
+
+• In FY24, HDFC Life launched a range of US dollar denominated life and health insurance plans to cater to the NRI audience.
+
+• Annuity and protection plans comprise ~50% of new business premium. The management has highlighted pricing pressure in the segments owing to intense competition.
+
+Valuation
+
+ULIP's share in the product mix increased during the year. The management is focused on maintaining a balanced product mix and expects to maintain one-fourth or one-third share for each category. Further, the management expects to grow cross-selling at HDFC Bank counter (banca partner) and enhance its reach in tier 2 and 3 cities. It opened 75 new branches in FY24 and plans to expand its presence to over 600 touchpoints in FY25. The company added ~80,000 agents during the year, which is expected to aid growth. The management is optimistic of achieving 15% YoY growth in both retail and total APE in FY25. Therefore, we have upgraded our rating on the stock to BUY, with a revised target price of Rs. 710 based on 2.25x FY26E EV per share.
+
+
+Company Data
+| Parameter | Value |
+|-----------|--------|
+| Market Cap (cr) | Rs. 129,411 |
+| Outstanding Shares (cr) | 215.1 |
+| Free Float | 45.0% |
+| Dividend Yield | 0.3% |
+| 52 week high | Rs. 711 |
+| 52 week low | Rs. 511 |
+| 6m average volume (lacs) | 54.5 |
+| Beta | 0.6 |
+| Face value | Rs. 10 |
+
+Shareholding (%)
+| Category | Q2FY24 | Q3FY24 | Q4FY24 |
+|----------|---------|---------|---------|
+| Promoters | 50.4 | 50.4 | 50.4 |
+| FII's | 30.5 | 31.3 | 30.0 |
+| MFs/Insti | 6.9 | 6.6 | 7.9 |
+| Public | 7.1 | 6.7 | 6.7 |
+| Others | 5.1 | 5.1 | 5.0 |
+| Total | 100.0 | 100.0 | 100.0 |
+| Promoters' pledge | 0.0 | 0.0 | 0.0 |
+
+Price Performance
+| Parameter | 3 Month | 6 Month | 1 Year |
+|-----------|---------|---------|---------|
+| Absolute Return | -5.1% | -10.5% | -1.3% |
+| Absolute Sensex | 6.3% | 8.4% | 22.0% |
+| Relative Return* | -11.3% | -18.9% | -23.3% |
+
+Standalone (cr)
+| Parameter | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|
+| Net Premium | 61,959 | 74,682 | 87,957 |
+| Growth (%) | 9.2 | 20.5 | 17.8 |
+| Total Income | 100,774 | 104,053 | 121,750 |
+| Growth (%) | 42.5 | 3.3 | 17.0 |
+| New Business (%) | 26.3 | 25.5 | 25.0 |
+| Net Profit | 1,569 | 2,170 | 2,399 |
+| Growth (%) | 15.3 | 38.3 | 10.5 |
+| EPS (Rs.) | 7.3 | 10.1 | 11.1 |
+| Growth (%) | 14.4 | 38.3 | 10.5 |
+| BVPS (Rs.) | 68.1 | 67.9 | 75.1 |
+| EVPS (Rs.) | 220.6 | 262.7 | 312.2 |
+| RoE | 11.0 | 15.3 | 15.3 |
+| RoEV | 17.5 | 20.0 | 20.0 |
+| P/E | 86.8 | 59.7 | 54.0 |
+| P/EV | 2.9 | 2.3 | 1.9 |
+| Solvency (%) | 187.0 | 198.0 | 198.0 |
+
+
+Quarterly Financials (Standalone)
+
+Profit & Loss Account
+| Rs. Cr | Q4FY24 | Q4FY23 | YoY Growth (%) | Q3FY24 | QoQ Growth (%) | FY24 | FY23 | YoY Growth (%) |
+|---------|---------|---------|----------------|---------|----------------|-------|-------|----------------|
+| Premium Earned (Net) | 20,488 | 19,427 | 5.5 | 15,235 | 34.5 | 61,959 | 56,764 | 9.2 |
+| Income from investments | 7,251 | 1,190 | 509.6 | 11,370 | (36.2) | 38,354 | 12,598 | 204.5 |
+| Other income | 153 | 810 | (81.1) | 90 | 70.8 | 461 | 1,344 | (65.7) |
+| Total Income | 27,893 | 21,426 | 30.2 | 26,695 | 4.5 | 100,774 | 70,705 | 42.5 |
+| Incurred Claims | 12,421 | 11,205 | 10.8 | 9,866 | 25.9 | 39,696 | 38,872 | 2.1 |
+| Other expenses | 15,200 | 9,398 | 61.7 | 16,770 | (9.4) | 60,895 | 30,315 | 100.9 |
+| Total Expenses | 27,620 | 20,603 | 34.1 | 26,636 | 3.7 | 100,592 | 69,187 | 45.4 |
+| Tax (policyholders' A/c) | (0) | 251 | n.m. | (2) | n.m. | (592) | 159 | (472.3) |
+| Surplus (Post tax) | 273 | 572 | (52.3) | 61 | 345.2 | 775 | 1,359 | (43.0) |
+| Transfer to shareholder account | 303 | 584 | (48.1) | 129 | 134.2 | 799 | 1,469 | (45.6) |
+| Interest and other income | 256 | 259 | (1.4) | 281 | (9.0) | 1,015 | 783 | (29.6) |
+| Other expenses | 109 | 573 | (81.0) | 44 | 149.9 | 250 | 979 | (74.4) |
+| PBT | 450 | 270 | 66.7 | 367 | 22.6 | 1,564 | 1,272 | 22.9 |
+| Tax (shareholders' A/c) | 38 | -89 | n.m. | 2 | n.m. | (5) | (88) | (94.3) |
+| Reported PAT | 412 | 359 | 14.8 | 365 | 12.8 | 1,569 | 1,360 | 15.3 |
+| Adj. EPS (Rs.) | 1.9 | 1.7 | 13.7 | 1.7 | 12.4 | 7.3 | 6.4 | 14.4 |
+
+Change in Estimates
+| Year / Rs. cr | Old estimates | | New estimates | | Change (%) | |
+|---------------|---------------|---------------|----------------|---------------|------------|------------|
+| | FY25E | FY26E | FY25E | FY26E | FY25E | FY26E |
+| Premium Earned (Net) | 81,261 | - | 74,682 | 87,957 | (8.1) | - |
+| Profit before tax | 1,874 | - | 2,195 | 2,426 | 17.1 | - |
+| Net Profit | 1,853 | - | 2,170 | 2,399 | 17.1 | - |
+| EPS (Rs) | 8.6 | - | 10.1 | 11.1 | 17.0 | - |
+Policyholders' Profit & Loss Account
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Net Premium | 45,396 | 56,764 | 61,959 | 74,682 | 87,957 |
+| % change | 19.1 | 25.0 | 9.2 | 20.5 | 17.8 |
+| Income from Inv. | 19,216 | 12,598 | 38,354 | 28,766 | 33,081 |
+| Transfer of funds from shareholder's account | 569 | 879 | 125 | 164 | 193 |
+| Other income | 177 | 464 | 336 | 441 | 519 |
+| Total Income | 65,358 | 70,705 | 100,774 | 104,053 | 121,750 |
+| Commission | 1,940 | 2,887 | 5,256 | 5,203 | 6,087 |
+| Operating Expenses | 5,612 | 8,437 | 6,901 | 8,324 | 9,740 |
+| Other Expenses | 116 | 405 | 318 | 320 | 374 |
+| Operating Profit | 57,689 | 58,976 | 88,299 | 90,206 | 105,548 |
+| % change | (10.9) | 2.2 | 49.7 | 2.2 | 17.0 |
+| Benefits Paid (Net) | 31,864 | 38,872 | 39,696 | 46,199 | 54,057 |
+| Change in Reserves | 24,682 | 18,586 | 48,419 | 42,454 | 49,674 |
+| Tax | 185 | 159 | (592) | 163 | 191 |
+| Tax Rate (%) | 16.1 | 10.5 | -324.2 | 10.5 | 10.5 |
+| Surplus/Deficit | 960 | 1,359 | 775 | 1,390 | 1,627 |
+| % change | (12.6) | 41.6 | (43.0) | 79.4 | 17.0 |
+
+Shareholders' Profit & Loss Account
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Transfer from Technical A/c | 1,009 | 1,469 | 799 | 1,460 | 1,708 |
+| Investment Inc. | 789 | 783 | 1,015 | 1,037 | 1,064 |
+| Total Income | 1,799 | 2,252 | 1,814 | 2,496 | 2,772 |
+| % change | 9.8 | 25.2 | (19.4) | 37.6 | 11.0 |
+| Other Expenses | 49 | 100 | 125 | 137 | 152 |
+| Contri to Technical A/c | 569 | 879 | 125 | 164 | 193 |
+| Total Expenses | 619 | 979 | 250 | 301 | 346 |
+| PBT | 1,180 | 1,272 | 1,564 | 2,195 | 2,426 |
+| % change | (12.8) | 7.8 | 22.9 | 40.4 | 10.5 |
+| Tax | (28) | (88) | (5) | 25 | 27 |
+| Tax Rate (%) | (2.3) | (6.9) | (0.3) | 1.1 | 1.1 |
+| Reported PAT | 1,208 | 1,360 | 1,569 | 2,170 | 2,399 |
+| Adj PAT | 1,208 | 1,360 | 1,569 | 2,170 | 2,399 |
+| % change | -11.2 | 12.6 | 15.3 | 38.3 | 10.5 |
+| No. of shares (cr) | 211 | 214 | 215 | 215 | 215 |
+| Adj EPS (Rs) | 5.7 | 6.4 | 7.3 | 10.1 | 11.1 |
+| % change | (12.4) | 8.0 | 14.4 | 38.3 | 10.5 |
+| DPS (Rs) | 1.7 | 1.9 | 2.0 | 3.0 | 3.3 |
+
+BALANCE SHEET
+| Y.E March (Rs. cr) | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-------------------|--------|--------|--------|--------|--------|
+| Source of Funds |  |  |  |  |  |
+| Share Capital | 2,113 | 2,149 | 2,151 | 2,151 | 2,151 |
+| Reserves & Surplus | 13,285 | 10,815 | 12,050 | 12,007 | 13,570 |
+| Fair Value Change | 88 | 23 | 451 | 451 | 451 |
+| Shareholders' Fund | 15,486 | 12,987 | 14,652 | 14,608 | 16,172 |
+| Policy Liabilities | 104,343 | 143,270 | 175,349 | 196,391 | 219,957 |
+| Others | 83,391 | 82,127 | 102,517 | 116,975 | 134,830 |
+| Policyholders' Fund | 187,734 | 225,397 | 277,866 | 313,365 | 354,787 |
+| Funds for Future appropriations | 941 | 1,235 | 1,211 | 1,142 | 1,142 |
+| Total | 204,161 | 239,619 | 293,729 | 329,116 | 372,101 |
+| Application of Funds |  |  |  |  |  |
+| Shareholders' | 15,238 | 13,132 | 14,882 | 18,463 | 22,906 |
+| Policyholders' | 108,311 | 146,449 | 181,797 | 196,340 | 212,048 |
+| Assets held to cover linked liabilities | 80,622 | 79,201 | 95,542 | 112,782 | 135,592 |
+| Loans | 643 | 1,585 | 1,897 | 2,087 | 2,296 |
+| Fixed assets | 343 | 380 | 416 | 420 | 424 |
+| Net Current assets | (995) | (1,128) | (804) | (977) | (1,164) |
+| Total | 204,161 | 239,619 | 293,729 | 329,116 | 372,101 |
+| BVPS (Rs) | 75.7 | 60.8 | 68.1 | 67.9 | 75.1 |
+| % change | 76.9 | (19.6) | 11.9 | (0.3) | 10.7 |
+
+RATIOS
+| Y.E March | FY22A | FY23A | FY24A | FY25E | FY26E |
+|-----------|--------|--------|--------|--------|--------|
+| Per Share (Rs.) |  |  |  |  |  |
+| EPS | 5.9 | 6.4 | 7.3 | 10.1 | 11.2 |
+| DPS | 1.7 | 1.9 | 2.0 | 3.0 | 3.3 |
+| EVPS | 146.8 | 185.1 | 220.6 | 262.7 | 312.2 |
+| Earnings (%) |  |  |  |  |  |
+| RoE | 7.8 | 10.5 | 11.0 | 15.3 | 15.3 |
+| RoEV | 10 | 17 | 7.5 | 10 | 10 |
+| Valuation (x) |  |  |  |  |  |
+| P/E (x) | 91.2 | 78.4 | 86.8 | 59.7 | 54.0 |
+| P/EV (x) | 3.7 | 2.7 | 2.9 | 2.3 | 1.9 |
+| Div. Yield (%) | 0.3 | 0.4 | 0.3 | 0.5 | 0.6 |
+| Exps. (% of premium) |  |  |  |  |  |
+| Commission | 3 | 1 | 5 | 0 | 9 |
+| Operating Expenses | 12.4 | 14.9 | 11.1 | 11.1 | 11.1 |
+| Total Expenses | 16.9 | 20.7 | 20.1 | 18.5 | 18.4 |
+| Margin (%) |  |  |  |  |  |
+| New Business | 27.4 | 27.6 | 26.3 | 25.5 | 25.0 |
+| Solvency (%) | 176.0 | 203.0 | 187.0 | 198.0 | 198.0 |
+Recommendation Summary (Last 3 Years)
+| Dates | Rating | Target |
+|-------|---------|---------|
+| 24-Aug-20 | BUY | 245 |
+| 28-Jan-21 | BUY | 790 |
+| 23-Jul-21 | BUY | 760 |
+| 27-Oct-21 | BUY | 790 |
+| 3-Jun-22 | BUY | 750 |
+| 31-Oct-22 | BUY | 650 |
+| 24-Feb-23 | HOLD | 520 |
+| 31-Jul-23 | HOLD | 703 |
+| 19-Jun-24 | BUY | 710 |
+
+Investment Rating Criteria
+| Ratings | Large caps | Midcaps | Small Caps |
+|---------|------------|----------|------------|
+| Buy | Upside is above 10% | Upside is above 15% | Upside is above 20% |
+| Accumulate | | Upside is between 10%-15% | Upside is between 10%-20% |
+| Hold | Upside is between 0%-10% | Upside is between 0%-10% | Upside is between 0%-10% |
+| Reduce/sell | Downside is more than 0% | Downside is more than 0% | Downside is more than 0% |
+| Not rated/Neutral | | | |
