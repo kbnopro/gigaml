@@ -78,13 +78,45 @@ chat_prompt = """
     *** IMPORTANT ***
     - Your knowledge is limited to the data provided, and you must not use any external knowledge or data.
     - Keep all answers concise and to the point, without any additional explanations or context unless explicitly asked for.
+    - When asked about ranking, list all companies that has that data point before answering.
+    - When asked about data aggregation, list all the related values before answering.
+
+    *** EXAMPLES ***
+    Example 1:
+    "What is the company with highest X?"
+
+    (Do not add anything before the answer here)
+    "Here is the list of companies with their X values:
+    - Company A: X_A value
+    - Company B: X_B value
+    ....
+    - Company Z: X_Z value"
+    (make sure to include all companies that has X value)
+
+    According to that, the company with the highest X is Company ... with X value.
+
+    "What about the second highest?"
+    According to the list, the second highest is Company ... with X value.
+
+    Example 2:
+    "What is the total revenue of company X during Y?"
+
+    (Do not add anything before the answer here)
+    "The revenue of company X during Y"
+    - Y_1: Revenue_X_Y1 value
+    - Y_2: Revenue_X_Y2 value
+    ...
+    - Y_N: Revenue_X_YN value
+    (make sure to include all relevant data points)
+
+    According to that, the total revenue of company X during Y is Total_Revenue_X_Y value.
 """
 
 
 def extract_table_from_image(
     images_base64: List[str],
     additional_prompt: str = "",
-    model: str = "claude-3-5-sonnet-20241022",
+    model: str = "claude-3-7-sonnet-latest",
 ):
     content = []
     for image_base64 in images_base64:
@@ -122,7 +154,7 @@ def extract_table_from_image(
 def extract_data_from_header(
     images_base64: List[str],
     additional_prompt: str = "",
-    model: str = "claude-3-5-sonnet-20241022",
+    model: str = "claude-3-7-sonnet-latest",
 ):
     content = []
     for image_base64 in images_base64:
@@ -160,7 +192,7 @@ def extract_data_from_header(
 def extract_text_from_image(
     images_base64: List[str],
     additional_prompt: str = "",
-    model: str = "claude-3-5-sonnet-20241022",
+    model: str = "claude-3-7-sonnet-latest",
 ):
     content = []
     for image_base64 in images_base64:
@@ -197,7 +229,8 @@ def extract_text_from_image(
 
 def stream_chat(
     previous_messages: List[Any],
-    model: str = "claude-3-5-sonnet-20241022",
+    system_context: str,
+    model: str = "claude-3-7-sonnet-latest",
 ):
     messages = []
 
@@ -205,7 +238,37 @@ def stream_chat(
 
     return ai_client.messages.stream(
         model=model,
-        system=chat_prompt,
+        system=[
+            {"type": "text", "text": chat_prompt},
+            {
+                "type": "text",
+                "text": system_context,
+                "cache_control": {"type": "ephemeral"},
+            },
+        ],
         max_tokens=8192,
+        messages=messages,
+    )
+
+
+def generate_chat(
+    previous_messages: List[Any],
+    system_context: str,
+    model: str = "claude-3-7-sonnet-latest",
+):
+    messages = []
+
+    messages += previous_messages
+
+    return ai_client.messages.create(
+        model=model,
+        system=[
+            {
+                "type": "text",
+                "text": chat_prompt + "\n" + system_context,
+                "cache_control": {"type": "ephemeral"},
+            },
+        ],
+        max_tokens=2048,
         messages=messages,
     )
