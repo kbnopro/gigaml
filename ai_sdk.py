@@ -129,6 +129,7 @@ def extract_table_from_image(
     additional_prompt: str = "",
     model: str = "claude-3-7-sonnet-latest",
 ):
+    """Extract tables from images using the AI client"""
     content = []
     for image_base64 in images_base64:
         content.append(
@@ -167,6 +168,7 @@ def extract_data_from_header(
     additional_prompt: str = "",
     model: str = "claude-3-7-sonnet-latest",
 ):
+    """Extract data from the header of images using the AI client"""
     content = []
     for image_base64 in images_base64:
         content.append(
@@ -205,6 +207,7 @@ def extract_text_from_image(
     additional_prompt: str = "",
     model: str = "claude-3-7-sonnet-latest",
 ):
+    """Extract text from images using the AI client"""
     content = []
     for image_base64 in images_base64:
         content.append(
@@ -243,6 +246,7 @@ def stream_chat(
     system_context: str,
     model: str = "claude-3-7-sonnet-latest",
 ):
+    """Stream chat messages using the AI client"""
     messages = []
 
     messages += previous_messages
@@ -267,6 +271,7 @@ def generate_chat(
     system_context: str,
     model: str = "claude-3-7-sonnet-latest",
 ):
+    """Send a chat message to the AI client and get a response (non-streaming)"""
     messages = []
 
     messages += previous_messages

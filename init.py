@@ -14,6 +14,7 @@ import os
 
 
 def img_to_base64(image):
+    """Convert a PIL Image to a base64 encoded string"""
     buffered = BytesIO()
     image.save(buffered, format="JPEG")
     img_str = base64.b64encode(buffered.getvalue()).decode("utf-8")
@@ -21,24 +22,9 @@ def img_to_base64(image):
 
 
 def handle_first_page(file: str, image: Image, f: TextIOWrapper):
+    """Handle the first page of the PDF, extracting header and body text"""
     header = image.crop((0, 170, image.width, 530))
     f.write(extract_data_from_header([img_to_base64(header)])[0].text)
-
-    # src = pymupdf.open(file)
-    # doc = pymupdf.open()
-    # spage = src[0]
-    # r = spage.rect
-    # rx = r + (0, 190, 0, -60)
-    #
-    # new_page = doc.new_page(-1, width=rx.width, height=rx.height)
-    # new_page.show_pdf_page(new_page.rect, src, 0, clip=rx)
-    #
-    # doc.save(
-    #     f"./outputs/{file.split('/', maxsplit=2)[2]}",
-    #     garbage=3,
-    #     deflate=True,
-    #     clean=True,
-    # )
 
     f.write("\n\n\n")
 
@@ -51,6 +37,7 @@ def handle_first_page(file: str, image: Image, f: TextIOWrapper):
 
 
 def handle_other_pages(file: str, images: List[Image], f: TextIOWrapper):
+    """Extract tables from the remaining pages of the PDF"""
     for image in images:
         f.write(
             extract_table_from_image(
@@ -62,15 +49,18 @@ def handle_other_pages(file: str, images: List[Image], f: TextIOWrapper):
 
 
 def handle_pdf(file: str):
+    """Extract data from a PDF file and save it to a text file"""
     images = convert_from_path(file)
-    # images = [imge_to_base64(image) for image in images]
+
     if not os.path.exists("./processed_data/"):
         os.makedirs("./processed_data/")
     output_file = f"./processed_data/{file.split('/')[-1].split('.')[0]}.txt"
+
     # Check if output file already exists and not empty
     if os.path.exists(output_file) and os.path.getsize(output_file) > 0:
         print(f"Skipping {file} as it has already been processed.")
         return
+
     with open(f"./processed_data/{file.split('/')[-1].split('.')[0]}.txt", "w+") as f:
         handle_first_page(file, images[0], f)
         handle_other_pages(file, images[1:], f)

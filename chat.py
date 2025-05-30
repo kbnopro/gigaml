@@ -11,6 +11,8 @@ context.append(
     """
 )
 
+
+# Load data from text files in the processed_data directory
 for file_name in glob.glob("./processed_data/*.txt"):
     print(f"Loading file: {file_name}")
 
@@ -42,13 +44,6 @@ while True:
             ],
         }
     )
-    # with stream_chat(messages, "\n".join(context)) as stream:
-    #     response = ""
-    #     for chunk in stream.text_stream:
-    #         print(chunk, end="", flush=True)
-    #         response += chunk
-    #     print(stream.response.headers)
-    # print("\n\n")
 
     response = generate_chat(messages, "\n".join(context))
 
