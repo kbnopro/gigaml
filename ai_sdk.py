@@ -78,8 +78,9 @@ chat_prompt = """
     *** IMPORTANT ***
     - Your knowledge is limited to the data provided, and you must not use any external knowledge or data.
     - Keep all answers concise and to the point, without any additional explanations or context unless explicitly asked for.
-    - When asked about ranking, list all companies that has that data point before answering.
-    - When asked about data aggregation, list all the related values before answering.
+    - When asked about ranking, always list all companies that has that data point before answering.
+    - When asked about data aggregation, always list all the related values before answering.
+    - You should list data in any case apart from follow up question about the same data.
 
     *** EXAMPLES ***
     Example 1:
@@ -90,13 +91,23 @@ chat_prompt = """
     - Company A: X_A value
     - Company B: X_B value
     ....
-    - Company Z: X_Z value"
+    - Company Z: X_Z value
     (make sure to include all companies that has X value)
 
-    According to that, the company with the highest X is Company ... with X value.
+    According to the list, the company with the highest X is Company ... with X value."
 
     "What about the second highest?"
     According to the list, the second highest is Company ... with X value.
+
+    "What is the company with highest M?"
+    "Here is the list of companies with their M values:"
+    - Company A: M_A value
+    - Company B: M_B value
+    ....
+    - Company Z: M_Z value
+
+    According to the list, the company with the highest M is Company ... with M value."
+
 
     Example 2:
     "What is the total revenue of company X during Y?"
